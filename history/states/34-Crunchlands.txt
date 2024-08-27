@@ -1,0 +1,35 @@
+state={
+	id=34
+	name="STATE_34"
+	provinces={
+		351 524 1501 1693 1892 2281 2664 2917 3222 3332 3779 4066 4616 4635 4653 4682 4702 
+	}
+	manpower=23025
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = CNW
+		#controller = CNW
+		add_core_of = CNW
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		
+		victory_points = { 3222 3 } # Maro
+		victory_points = { 2664 1 } # Zigrut
+	}
+	
+	local_supplies = 5.0
+}

@@ -1,0 +1,34 @@
+state={
+	id=82
+	name="STATE_82"
+	provinces={
+		382 411 588 615 1331 1671 2328 2335 2400 2490 3073 3288 3798 4374 4971 4992 
+	}
+	manpower=32879
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		steel = 10    #IRON
+		tungsten = 20    #COPPER
+		aluminium = 10    #STONE
+	}
+	
+	history = {
+		owner = SNJ
+		#controller = SNJ
+		add_core_of = SNJ
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 2
+		}
+		
+		victory_points = { 4992 3 } # Canyon Line
+	}
+	
+	local_supplies = 5.0
+}

@@ -1,0 +1,35 @@
+state={
+	id=270
+	name="STATE_270"
+	provinces={
+		32 268 402 713 1117 1400 1743 1811 1862 2107 2220 3317 3480 3503 3599 5819 5828 5832 5835 5853 5873 5890 7939 7944 8027 
+	}
+	manpower=14827
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 14    #STONE
+	}
+	
+	history = {
+		owner = CUC
+		#controller = CUC
+		add_core_of = CUC
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 1
+		}
+		
+		victory_points = { 1811 3 } # Smiles
+		victory_points = { 3480 3 } # Clearwater
+	}
+	
+	local_supplies = 5.0
+}

@@ -1,0 +1,36 @@
+state={
+	id=238
+	name="STATE_238"
+	provinces={
+		425 1397 1507 1530 1690 1767 2245 2466 3054 3060 3181 3404 3843 3984 4137 5656 5675 5690 5715 5718 5724 7987 
+	}
+	manpower=71249
+	buildings_max_level_factor=1.000
+
+
+	state_category = city
+	
+	resources = {
+		steel = 16    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = WHO
+		#controller = WHO
+		add_core_of = WHO
+		
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			arms_factory = 1
+		}
+		
+		victory_points = { 3060 5 } # Algee
+		victory_points = { 1767 5 } # Spud
+		victory_points = { 2245 20 } # Rot
+	}
+	
+	local_supplies = 5.0
+}

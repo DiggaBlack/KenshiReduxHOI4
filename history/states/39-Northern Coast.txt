@@ -1,0 +1,35 @@
+state={
+	id=39
+	name="STATE_39"
+	provinces={
+		175 580 1066 1163 2029 2166 3099 3605 3764 3867 4308 4640 4650 4678 4695 4725 
+	}
+	manpower=19352
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		steel = 16    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = CNE
+		#controller = CNE
+		add_core_of = CNE
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		
+		victory_points = { 1066 3 } # Custer
+		victory_points = { 4695 1 } # Unholy Forest
+	}
+	
+	local_supplies = 5.0
+}

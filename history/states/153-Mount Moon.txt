@@ -1,0 +1,35 @@
+state={
+	id=153
+	name="STATE_153"
+	provinces={
+		253 1257 1489 1537 1838 2336 2409 2446 2576 2836 4071 5291 5338 5347 5353 6559 
+	}
+	manpower=16925
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 16    #STONE
+	}
+	
+	history = {
+		owner = WEH
+		#controller = WEH
+		add_core_of = WEH
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 1
+		}
+		
+		victory_points = { 5291 5 } # Trust
+		victory_points = { 2446 1 } # Colossa
+	}
+	
+	local_supplies = 5.0
+}

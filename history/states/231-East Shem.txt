@@ -1,0 +1,34 @@
+state={
+	id=231
+	name="STATE_231"
+	provinces={
+		10 184 380 495 627 851 1401 1618 2101 2250 2405 2463 2662 2864 2884 3129 4038 4042 4160 4254 5626 5649 5688 5716 5726 5744 5749 
+	}
+	manpower=28572
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		#steel = 0    #IRON
+		tungsten = 16    #COPPER
+		aluminium = 10    #STONE
+	}
+	
+	history = {
+		owner = SMG
+		#controller = SMG
+		add_core_of = SMG
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 3
+			arms_factory = 1
+		}
+		
+		victory_points = { 5716 3 } # Hashquarters
+	}
+	
+	local_supplies = 5.0
+}

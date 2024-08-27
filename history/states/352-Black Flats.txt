@@ -1,0 +1,35 @@
+state={
+	id=352
+	name="STATE_352"
+	provinces={
+		39 225 506 590 1167 1393 1804 2002 2229 2402 2627 2640 2966 3074 3268 3359 3574 3680 3775 6225 6227 6261 6296 6310 6323 
+	}
+	manpower=9418
+	buildings_max_level_factor=1.000
+
+
+	state_category = pastoral
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = SKB
+		#controller = SKB
+		add_core_of = SKB
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 1
+		}
+		
+		victory_points = { 3680 5 } # Naeve
+		victory_points = { 1393 3 } # Nihare
+	}
+	
+	local_supplies = 5.0
+}

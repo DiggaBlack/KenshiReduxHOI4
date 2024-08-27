@@ -1,0 +1,34 @@
+state={
+	id=64
+	name="STATE_64"
+	provinces={
+		6525 6526 6528 6529 6530 
+	}
+	manpower=1858
+	buildings_max_level_factor=1.000
+
+
+	state_category = wasteland
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = DLG
+		#controller = DLG
+		add_core_of = DLG
+		
+		buildings = {
+			infrastructure = 0
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		
+		#victory_points = { }
+	}
+	
+	local_supplies = 5.0
+}

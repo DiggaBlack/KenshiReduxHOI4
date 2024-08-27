@@ -1,0 +1,39 @@
+state={
+	id=100
+	name="STATE_100"
+	provinces={
+		216 492 599 657 702 853 1094 1217 1271 1299 1308 1353 1564 1578 1696 1840 1858 1860 1889 1946 1984 2082 2094 2137 2165 2305 2350 2372 2404 2612 2647 2739 2776 2826 2947 2997 3172 3206 3294 3535 3587 3666 3714 3864 3868 4004 4286 4299 4319 4999 5014 5028 5032 5034 5042 5061 5064 5065 5071 5074 5075 5077 5082 5088 5098 5100 5104 5109 5113 5121 5129 5131 5142 5151 5153 5157 5182 5191 5203 5231 
+	}
+	manpower=84015
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 40    #STONE
+	}
+	
+	history = {
+		owner = TDG
+		#controller = TDG
+		add_core_of = TDG
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 2
+		}
+		
+		victory_points = { 5061 15 } # Camp Carbon
+		victory_points = { 3172 3 } # Tag
+		victory_points = { 5153 1 } # Stepp
+		victory_points = { 3535 3 } # Archtech
+		victory_points = { 5088 5 } # Meer Mines
+		victory_points = { 5077 1 } # Open Door
+	}
+	
+	local_supplies = 5.0
+}

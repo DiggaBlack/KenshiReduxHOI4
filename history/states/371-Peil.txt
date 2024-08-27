@@ -1,0 +1,34 @@
+state={
+	id=371
+	name="STATE_371"
+	provinces={
+		3486 3895 6381 
+	}
+	manpower=6345
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = SKB
+		#controller = SKB
+		add_core_of = SKB
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 1
+		}
+		
+		victory_points = { 6381 3 } # Nast
+	}
+	
+	local_supplies = 5.0
+}

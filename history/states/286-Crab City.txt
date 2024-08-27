@@ -1,0 +1,36 @@
+state={
+	id=286
+	name="STATE_286"
+	provinces={
+		324 470 562 706 1205 1264 1590 1801 1935 2705 3269 3493 3499 3671 4033 4422 5872 5896 5925 5987 2381 3737 5983 5995 6023 6617 
+	}
+	manpower=69277
+	buildings_max_level_factor=1.000
+
+
+	state_category = large_city
+	
+	resources = {
+		steel = 20    #IRON
+		tungsten = 14    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = CRD
+		#controller = CRD
+		add_core_of = CRD
+		
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 4
+			arms_factory = 2
+		}
+		
+		victory_points = { 1205 15 } # Crab City
+		victory_points = { 5983 3 } # Tusk Island
+		victory_points = { 3499 5 } # Crabwash
+	}
+	
+	local_supplies = 5.0
+}

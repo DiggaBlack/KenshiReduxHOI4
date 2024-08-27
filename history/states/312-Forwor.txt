@@ -1,0 +1,35 @@
+state={
+	id=312
+	name="STATE_312"
+	provinces={
+		643 718 1967 3215 3391 3598 3702 4210 5994 6008 6080 6089 6107 
+	}
+	manpower=59050
+	buildings_max_level_factor=1.000
+
+
+	state_category = large_town
+	
+	resources = {
+		steel = 10    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = THB
+		#controller = THB
+		add_core_of = THB
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 2
+		}
+		
+		victory_points = { 6080 5 } # Expedition 5
+		victory_points = { 718 1 } # Susa
+	}
+	
+	local_supplies = 5.0
+}

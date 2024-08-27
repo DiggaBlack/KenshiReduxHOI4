@@ -1,0 +1,34 @@
+state={
+	id=109
+	name="STATE_109"
+	provinces={
+		505 1540 2362 3067 3075 3619 3960 5052 5067 5094 5106 5136 
+	}
+	manpower=12952
+	buildings_max_level_factor=1.000
+
+
+	state_category = wasteland
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = FOG
+		#controller = FOG
+		add_core_of = FOG
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		
+		victory_points = { 3960 1 } # Old Yarma
+	}
+	
+	local_supplies = 5.0
+}

@@ -1,0 +1,35 @@
+state={
+	id=170
+	name="STATE_170"
+	provinces={
+		481 984 1575 2110 2259 2478 2726 3385 3851 4237 4342 5396 5464 
+	}
+	manpower=13104
+	buildings_max_level_factor=1.000
+
+
+	state_category = pastoral
+	
+	resources = {
+		steel = 6    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 6    #STONE
+	}
+	
+	history = {
+		owner = HHN
+		#controller = HHN
+		add_core_of = HHN
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 1
+		}
+		
+		victory_points = { 2478 3 } # Fort Bond
+		victory_points = { 5464 1 } # Palehors
+	}
+	
+	local_supplies = 1.0
+}

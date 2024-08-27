@@ -1,0 +1,35 @@
+state={
+	id=23
+	name="STATE_23"
+	provinces={
+		165 1385 1516 2025 2095 3356 4043 4568 4583 4587 
+	}
+	manpower=71830
+	buildings_max_level_factor=1.000
+
+
+	state_category = large_city
+	
+	resources = {
+		steel = 24    #IRON
+		tungsten = 10    #COPPER
+		aluminium = 24    #STONE
+	}
+	
+	history = {
+		owner = CHT
+		#controller = CHT
+		add_core_of = CHT
+		
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 6
+		}
+		
+		victory_points = { 4587 5 } # The Bastion
+		victory_points = { 4043 1 } # Purge
+	}
+	
+	local_supplies = 5.0
+}

@@ -1,0 +1,37 @@
+state={
+	id=79
+	name="STATE_79"
+	provinces={
+		278 813 1348 1674 1875 1938 2016 2198 2436 2561 2600 2679 2786 3224 3275 3415 3753 3804 3827 3878 3990 4024 4078 4085 4144 4197 4253 4272 4276 4340 4844 4847 4848 4851 4859 4860 4863 4864 4871 4873 4878 4880 4888 4896 4901 4903 4905 4906 4911 4912 4917 4919 4926 4929 4932 4936 4937 4948 4956 
+	}
+	manpower=238410
+	buildings_max_level_factor=1.000
+
+
+	state_category = megalopolis
+	
+	resources = {
+		steel = 12    #IRON
+		tungsten = 6    #COPPER
+		aluminium = 20    #STONE
+	}
+	
+	history = {
+		owner = UNC
+		#controller = UNC
+		add_core_of = UNC
+		
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 8
+			arms_factory = 3
+		}
+		
+		victory_points = { 4896 50 } # Heft
+		victory_points = { 4919 5 } # Birth of an Empire
+		victory_points = { 4888 10 } # Camp Boot
+		victory_points = { 4085 3 } # Dustwich City
+	}
+	
+	local_supplies = 5.0
+}

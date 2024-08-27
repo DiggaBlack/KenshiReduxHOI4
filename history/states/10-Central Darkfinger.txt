@@ -1,0 +1,34 @@
+state={
+	id=10
+	name="STATE_10"
+	provinces={
+		442 612 784 932 972 1302 1780 2181 2314 2342 2745 2891 3454 3693 3982 4469 4472 4477 4478 4494 4496 
+	}
+	manpower=17252
+	buildings_max_level_factor=1.000
+
+
+	state_category = pastoral
+	
+	resources = {
+		#steel = 0    #IRON
+		tungsten = 6    #COPPER
+		aluminium = 14    #STONE
+	}
+	
+	history = {
+		owner = CNE
+		#controller = CNE
+		add_core_of = CNE
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 0
+		}
+		
+		victory_points = { 2314 5 } # Heart of Horrors
+	}
+	
+	local_supplies = 5.0
+}

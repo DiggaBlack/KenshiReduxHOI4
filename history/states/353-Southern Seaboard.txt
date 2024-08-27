@@ -1,0 +1,34 @@
+state={
+	id=353
+	name="STATE_353"
+	provinces={
+		1273 2053 2686 2707 3459 3507 3953 4419 6326 6339 6346 
+	}
+	manpower=24958
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = FSH
+		#controller = FSH
+		add_core_of = FSH
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+		}
+		
+		victory_points = { 6346 1 } # Tune
+	}
+	
+	local_supplies = 5.0
+}

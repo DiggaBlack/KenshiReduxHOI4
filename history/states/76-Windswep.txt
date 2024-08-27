@@ -1,0 +1,34 @@
+state={
+	id=76
+	name="STATE_76"
+	provinces={
+		316 859 1449 1517 2187 2985 3593 4904 4916 4930 
+	}
+	manpower=23519
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 8    #STONE
+	}
+	
+	history = {
+		owner = SKV
+		#controller = SKV
+		add_core_of = SKV
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 1
+		}
+		
+		victory_points = { 4904 1 } # Veest
+	}
+	
+	local_supplies = 5.0
+}

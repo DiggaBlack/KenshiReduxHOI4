@@ -1,0 +1,34 @@
+state={
+	id=127
+	name="STATE_127"
+	provinces={
+		878 973 1000 1960 2109 2922 3053 3131 3193 3421 3726 3770 4092 4289 4392 4425 5160 5173 5176 5200 5206 5221 5238 5257 5271 5278 
+	}
+	manpower=10740
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 24    #STONE
+	}
+	
+	history = {
+		owner = HLN
+		#controller = HLN
+		add_core_of = HLN
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 0
+		}
+		
+		victory_points = { 3421 5 } # Sinner's Last Mines
+	}
+	
+	local_supplies = 1.0
+}

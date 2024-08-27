@@ -1,0 +1,34 @@
+state={
+	id=367
+	name="STATE_367"
+	provinces={
+		1328 1352 1763 1896 2384 2775 2854 3159 4013 4236 4256 4368 4395 6357 6371 6373 6384 6397 
+	}
+	manpower=9134
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		#steel = 0    #IRON
+		tungsten = 6    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = SRR
+		#controller = SRR
+		add_core_of = SRR
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		
+		victory_points = { 6371 1 } # Battai
+	}
+	
+	local_supplies = 5.0
+}

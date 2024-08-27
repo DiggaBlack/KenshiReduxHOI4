@@ -1,0 +1,36 @@
+state={
+	id=366
+	name="STATE_366"
+	provinces={
+		234 281 285 621 1058 1071 1072 1877 2611 2794 2915 3733 3862 3898 6342 6344 6349 6354 6363 6391 6394 6401 6626 6627 6630 
+	}
+	manpower=55749
+	buildings_max_level_factor=1.000
+
+
+	state_category = large_town
+	
+	resources = {
+		steel = 10    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 28    #STONE
+	}
+	
+	history = {
+		owner = XUC
+		#controller = XUC
+		add_core_of = XUC
+		
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			arms_factory = 0
+		}
+		
+		victory_points = { 2915 10 } # Key
+		victory_points = { 2611 3 } # Mira
+		victory_points = { 281 1 } # Glas
+	}
+	
+	local_supplies = 5.0
+}

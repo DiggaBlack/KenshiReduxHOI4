@@ -1,0 +1,34 @@
+state={
+	id=70
+	name="STATE_70"
+	provinces={
+		581 734 948 1344 1833 2319 2371 2542 3274 4057 4132 4770 4779 4798 4852 
+	}
+	manpower=8049
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		steel = 6    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = DLG
+		#controller = DLG
+		add_core_of = DLG
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+		}
+		
+		#victory_points = { }
+	}
+	
+	local_supplies = 5.0
+}

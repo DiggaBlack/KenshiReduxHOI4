@@ -1,0 +1,34 @@
+state={
+	id=92
+	name="STATE_92"
+	provinces={
+		172 1363 1640 3048 4950 4965 
+	}
+	manpower=3105
+	buildings_max_level_factor=1.000
+
+
+	state_category = pastoral
+	
+	resources = {
+		steel = 10    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = DLG
+		#controller = DLG
+		add_core_of = DLG
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		
+		#victory_points = { }
+	}
+	
+	local_supplies = 5.0
+}

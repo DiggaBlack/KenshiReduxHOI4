@@ -1,0 +1,131 @@
+﻿capital = 124
+
+oob = "HLN"
+
+set_research_slots = 4
+
+# Starting tech
+set_technology = {
+	
+	sticks_and_clubs = 1
+	katanas = 1
+	polearms = 1
+	sabres = 1
+	hackers = 1
+	heavy_weapons = 1
+	
+	toothpick_tech = 1
+	spring_bat_tech = 1
+	ranger_tech = 1
+	oldworld_bow_tech = 1
+	eagles_cross_tech = 1
+}
+
+if = {
+	limit = {
+		NOT = {
+			has_dlc = "By Blood Alone"
+		}
+	}
+	set_technology = {
+		early_fighter = 1
+		fighter1 = 1
+		early_bomber = 1
+		strategic_bomber1 = 1
+		naval_bomber1 = 1
+	}
+}
+
+if = {
+	limit = {
+		NOT = { has_dlc = "No Step Back" }
+	}
+	set_technology = {
+		gwtank = 1
+		basic_light_tank = 1
+	}
+}
+if = {
+	limit = {
+		has_dlc = "No Step Back"
+	}
+	set_technology = {
+		gwtank_chassis = 1
+		basic_light_tank_chassis = 1
+	}
+}
+if = {
+	limit = {
+		not = { has_dlc = "Man the Guns" }
+	}
+	set_technology = {
+		early_submarine = 1
+		basic_submarine = 1
+		early_destroyer = 1
+		early_light_cruiser = 1
+		early_heavy_cruiser = 1
+		early_battleship = 1
+		early_battlecruiser = 1
+		transport = 1
+	}
+}
+if = {
+	limit = {
+		has_dlc = "Man the Guns"
+	}
+	set_technology = {
+		early_ship_hull_submarine = 1
+		basic_ship_hull_submarine = 1
+		early_ship_hull_light = 1
+		early_ship_hull_cruiser = 1
+		early_ship_hull_heavy = 1
+		mtg_transport = 1
+		basic_battery = 1
+		basic_torpedo = 1
+	}
+}
+
+create_faction = "Children of Okran"
+add_to_faction = HLN
+add_to_faction = SHN
+add_to_faction = VHN
+add_to_faction = IHN
+add_to_faction = HHN
+
+
+set_politics = {
+	ruling_party = okranite
+}
+
+add_ideas = {
+	encouraged_service
+	balanced_economy
+	closed_economy
+}
+
+set_popularities = {
+	new_imperialism = 0
+	okranite = 82
+	kralist_code = 0
+	old_imperialism = 0
+	hiver = 0
+	liberationism = 6
+	independent = 12
+	raider = 0
+	horde = 0
+	wilderness = 0
+}
+
+create_country_leader = {
+	name = HLN_leader
+	desc = HLN_leader_desc
+	picture = "gfx/leaders/HLN/Phoenix.dds"
+	ideology = crusadist
+	traits = {
+		#
+	}
+}
+
+
+recruit_character = HLN_phoenix
+

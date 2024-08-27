@@ -1,0 +1,36 @@
+state={
+	id=101
+	name="STATE_101"
+	provinces={
+		868 1509 1731 1807 2045 2128 2182 2197 2223 2520 2838 2971 4227 5043 5101 5102 
+	}
+	manpower=44308
+	buildings_max_level_factor=1.000
+
+
+	state_category = large_town
+	
+	resources = {
+		steel = 5    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 5    #STONE
+	}
+	
+	history = {
+		owner = VHN
+		#controller = VHN
+		add_core_of = VHN
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 2
+		}
+		
+		victory_points = { 2520 2 } # Sellot
+		victory_points = { 2182 5 } # Hobarn
+	}
+	
+	local_supplies = 2.0
+}
+

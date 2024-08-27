@@ -1,0 +1,35 @@
+state={
+	id=278
+	name="STATE_278"
+	provinces={
+		418 915 944 1189 1500 1734 2047 2120 2338 2665 3514 4005 4411 5894 5923 5924 
+	}
+	manpower=14293
+	buildings_max_level_factor=1.000
+
+
+	state_category = pastoral
+	
+	resources = {
+		steel = 6    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 10    #STONE
+	}
+	
+	history = {
+		owner = VSE
+		#controller = VSE
+		add_core_of = VSE
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 0
+		}
+		
+		victory_points = { 5894 1 } # Safety
+		victory_points = { 418 1 } # Tatter
+	}
+	
+	local_supplies = 5.0
+}

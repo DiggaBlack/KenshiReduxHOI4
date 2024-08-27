@@ -1,0 +1,34 @@
+state={
+	id=91
+	name="STATE_91"
+	provinces={
+		277 602 852 918 2658 4921 4940 4949 4983 4997 7953 
+	}
+	manpower=1385
+	buildings_max_level_factor=1.000
+
+
+	state_category = small_island
+	
+	resources = {
+		#steel = 0    #IRON
+		tungsten = 6    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = VRP
+		#controller = VRP
+		add_core_of = VRP
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		
+		victory_points = { 277 1 } # Megaraptor's Cove
+	}
+	
+	local_supplies = 5.0
+}

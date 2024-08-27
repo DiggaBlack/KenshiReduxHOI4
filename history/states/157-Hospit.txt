@@ -1,0 +1,34 @@
+state={
+	id=157
+	name="STATE_157"
+	provinces={
+		638 1429 2312 2972 5331 5341 5359 
+	}
+	manpower=12743
+	buildings_max_level_factor=1.000
+
+
+	state_category = pastoral
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = MIH
+		#controller = MIH
+		add_core_of = MIH
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 1
+		}
+		
+		victory_points = { 1429 3 } # Fort Hospit
+	}
+	
+	local_supplies = 5.0
+}

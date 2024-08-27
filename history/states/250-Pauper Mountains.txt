@@ -1,0 +1,34 @@
+state={
+	id=250
+	name="STATE_250"
+	provinces={
+		996 1162 2660 3567 5761 5764 5676 
+	}
+	manpower=9482
+	buildings_max_level_factor=1.000
+
+
+	state_category = pastoral
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 12    #STONE
+	}
+	
+	history = {
+		owner = WPU
+		#controller = WPU
+		add_core_of = WPU
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		
+		#victory_points = { }
+	}
+	
+	local_supplies = 5.0
+}

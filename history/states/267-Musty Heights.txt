@@ -1,0 +1,34 @@
+state={
+	id=267
+	name="STATE_267"
+	provinces={
+		232 730 816 961 1551 1714 1809 2438 2499 2589 2796 2977 3721 5788 5797 5802 5803 5834 5838 5848 5861 5880 5902 5926 
+	}
+	manpower=8247
+	buildings_max_level_factor=1.000
+
+
+	state_category = pastoral
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 10    #STONE
+	}
+	
+	history = {
+		owner = VBO
+		#controller = VBO
+		add_core_of = VBO
+		
+		buildings = {
+			infrastructure = 0
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		
+		#victory_points = { }
+	}
+	
+	local_supplies = 5.0
+}

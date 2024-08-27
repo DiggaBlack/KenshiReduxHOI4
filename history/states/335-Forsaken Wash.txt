@@ -1,0 +1,36 @@
+state={
+	id=335
+	name="STATE_335"
+	provinces={
+		79 230 267 326 341 510 820 1183 1234 1309 1389 1549 1675 2428 2496 2757 2764 2766 3641 3698 3917 6175 6194 6240 6252 6279 6287 6320 
+	}
+	manpower=42096
+	buildings_max_level_factor=1.000
+
+
+	state_category = large_town
+	
+	resources = {
+		steel = 12    #IRON
+		tungsten = 12    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = FOL
+		#controller = FOL
+		add_core_of = FOL
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 2
+		}
+		
+		victory_points = { 6194 3 } # Mildew Valley
+		victory_points = { 1309 3 } # Clamtown
+		victory_points = { 6320 10 } # Saigono
+	}
+	
+	local_supplies = 5.0
+}

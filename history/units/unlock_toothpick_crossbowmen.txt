@@ -1,0 +1,11 @@
+﻿division_template = {
+	name = "Hacker Swordsmen"
+
+	regiments = {
+		toothpick_crossbowmen = { x = 0 y = 0 }
+		toothpick_crossbowmen = { x = 0 y = 1 }
+        toothpick_crossbowmen = { x = 0 y = 2 }
+		toothpick_crossbowmen = { x = 1 y = 0 }
+		toothpick_crossbowmen = { x = 1 y = 1 }
+	}
+}

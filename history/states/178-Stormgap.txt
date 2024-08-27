@@ -1,0 +1,37 @@
+state={
+	id=178
+	name="STATE_178"
+	provinces={
+		135 620 1570 1803 2222 2508 2815 2937 3052 3173 3334 3355 3393 3516 3607 4259 5411 5413 5424 5427 5431 5467 5469 6598 6602 7973 
+	}
+	manpower=88105
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		steel = 16    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = SUC
+		#controller = SUC
+		add_core_of = SUC
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 0
+		}
+		
+		victory_points = { 3393 1 } # Folly
+		victory_points = { 5467 3 } # Camp Cadet
+		victory_points = { 5411 1 } # Salbeach
+		victory_points = { 5424 5 } # Carol
+	}
+	
+	local_supplies = 5.0
+}

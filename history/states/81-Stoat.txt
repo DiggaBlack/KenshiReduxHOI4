@@ -1,0 +1,36 @@
+state={
+	id=81
+	name="STATE_81"
+	provinces={
+		212 358 1812 3262 3273 3594 3649 3697 4123 4865 4885 4886 4894 4895 4897 4907 4908 
+	}
+	manpower=196196
+	buildings_max_level_factor=1.000
+
+
+	state_category = metropolis
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 12    #STONE
+	}
+	
+	history = {
+		owner = UNC
+		#controller = UNC
+		add_core_of = UNC
+		
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 6
+			arms_factory = 2
+		}
+		
+		victory_points = { 4895 35 } # Stoat
+		victory_points = { 358 5 } # King's Ransom
+		victory_points = { 4865 5 } # Hellmine
+	}
+	
+	local_supplies = 5.0
+}

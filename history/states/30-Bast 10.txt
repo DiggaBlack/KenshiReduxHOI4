@@ -1,0 +1,34 @@
+state={
+	id=30
+	name="STATE_30"
+	provinces={
+		1021 1691 2294 2668 3365 3983 4612 4631 6571 6577 
+	}
+	manpower=25810
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		#steel = 0    #IRON
+		tungsten = 12    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = YGC
+		#controller = YGC
+		add_core_of = YGC
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 1
+		}
+		
+		victory_points = { 4631 3 } # Filthich
+	}
+	
+	local_supplies = 5.0
+}

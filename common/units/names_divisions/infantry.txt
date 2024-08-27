@@ -1,0 +1,43 @@
+ALL_INF_01 = {
+	name = "Infantry Divisions"
+
+	can_use = { always = yes }
+
+	division_types = { "infantry" }
+
+	# Number reservation system will tie to another group.
+
+	fallback_name = "%dya Infantry Div."
+
+	# Names with numbers (only one number per entry). 
+	# It's okay to have gaps in numbering.
+	ordered =
+	{
+		1 = { "%dya Infantry Div." }
+		2 = { "%dya Infantry Div." }
+		3 = { "%dya Infantry Div." }
+		4 = { "%dya Infantry Div." }
+		5 = { "%dya Infantry Div." }
+		6 = { "%dya Infantry Div." }
+		7 = { "%dya Infantry Div." }
+		8 = { "%dya Infantry Div." }
+		9 = { "%dya Infantry Div." }
+		10 = { "%dya Infantry Div." }
+		11 = { "%dya Infantry Div." }
+		12 = { "%dya Infantry Div." }
+		13 = { "%dya Infantry Div." }
+		14 = { "%dya Infantry Div." }
+		15 = { "%dya Infantry Div." }
+		16 = { "%dya Infantry Div." }
+		17 = { "%dya Infantry Div." }
+		18 = { "%dya Infantry Div." }
+		19 = { "%dya Infantry Div." }
+		20 = { "%dya Infantry Div." }
+		21 = { "%dya Infantry Div." }
+		22 = { "%dya Infantry Div." }
+		23 = { "%dya Infantry Div." }
+		24 = { "%dya Infantry Div." }
+		25 = { "%dya Infantry Div." }
+
+	}
+}

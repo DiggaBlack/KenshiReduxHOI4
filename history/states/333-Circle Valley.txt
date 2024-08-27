@@ -1,0 +1,34 @@
+state={
+	id=333
+	name="STATE_333"
+	provinces={
+		432 975 1064 2964 3311 3500 4416 6141 6146 6157 6163 6169 6182 6198 
+	}
+	manpower=34950
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = SOH
+		#controller = SOH
+		add_core_of = SOH
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 0
+		}
+		
+		victory_points = { 432 3 } # Dowden
+	}
+	
+	local_supplies = 5.0
+}

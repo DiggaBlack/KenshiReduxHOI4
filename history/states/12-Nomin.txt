@@ -1,0 +1,36 @@
+state={
+	id=12
+	name="STATE_12"
+	provinces={
+		238 758 1012 1122 1207 1221 1340 1651 1929 2817 2882 3125 3966 4245 4328 4479 4487 4497 4507 4510 4534 4549 4575 4588 
+	}
+	manpower=75192
+	buildings_max_level_factor=1.000
+
+
+	state_category = large_town
+	
+	resources = {
+		steel = 12    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 12    #STONE
+	}
+	
+	history = {
+		owner = FRB
+		#controller = FRB
+		add_core_of = FRB
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 3
+		}
+		
+		victory_points = { 758 10 } # Fort Simion
+		victory_points = { 4549 3 } # Wenough
+		victory_points = { 4479 3 } # Fort Hamut
+	}
+	
+	local_supplies = 5.0
+}

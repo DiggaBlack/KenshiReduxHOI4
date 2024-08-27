@@ -1,0 +1,36 @@
+state={
+	id=284
+	name="STATE_284"
+	provinces={
+		291 517 709 746 1230 1339 3138 3632 3803 3830 3879 5852 5860 5865 5874 5885 5887 5912 5914 5949 
+	}
+	manpower=6140
+	buildings_max_level_factor=1.000
+
+
+	state_category = pastoral
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = ARG
+		#controller = ARG
+		add_core_of = ARG
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		
+		victory_points = { 3138 1 } # Fort Shank
+		victory_points = { 3803 3 } # Karnov Pass
+		victory_points = { 291 1 } # Fort Scorn
+	}
+	
+	local_supplies = 5.0
+}

@@ -1,0 +1,35 @@
+state={
+	id=311
+	name="STATE_311"
+	provinces={
+		486 1074 2144 2416 2636 2804 2848 2970 2981 3115 3481 4383 6006 6016 6035 6086 
+	}
+	manpower=26616
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		steel = 12    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 30    #STONE
+	}
+	
+	history = {
+		owner = ALP
+		#controller = ALP
+		add_core_of = ALP
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 3
+			arms_factory = 1
+		}
+		
+		victory_points = { 2848 5 } # Salvation City
+		victory_points = { 3481 1 } # C-A01
+	}
+	
+	local_supplies = 5.0
+}

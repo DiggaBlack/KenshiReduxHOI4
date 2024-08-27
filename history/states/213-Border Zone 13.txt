@@ -1,0 +1,34 @@
+state={
+	id=213
+	name="STATE_213"
+	provinces={
+		2213 2888 3211 4044 5547 6471 
+	}
+	manpower=28618
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 12    #STONE
+	}
+	
+	history = {
+		owner = ZOF
+		#controller = ZOF
+		add_core_of = ZOF
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 2
+		}
+		
+		victory_points = { 5547 3 } # Purefire
+	}
+	
+	local_supplies = 5.0
+}

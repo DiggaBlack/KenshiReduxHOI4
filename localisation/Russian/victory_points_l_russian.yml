@@ -1,0 +1,607 @@
+﻿l_russian:
+ VICTORY_POINTS_2652: "Руины фермы Фальтен"  #NT!
+ VICTORY_POINTS_2580: "Сторожевая башня"  #NT!
+ VICTORY_POINTS_4809: "Кулак Окрана"  #NT!
+ VICTORY_POINTS_2604: "Ферма Кэмбольт"  #NT!
+ VICTORY_POINTS_1977: "Янус Ранчо"  #NT!
+ VICTORY_POINTS_3573: "Кратертон"  #NT!
+ VICTORY_POINTS_2520: "Селлот"  #NT!
+ VICTORY_POINTS_2182: "Хобарн"  #NT!
+ VICTORY_POINTS_5076: "Баребон">  #NT!
+ VICTORY_POINTS_1825: "Пик-Парк"  #NT!
+ VICTORY_POINTS_2224: "Проход Окрана" #NT!
+ VICTORY_POINTS_2564: "Ловушка Нарко"  #NT!
+ VICTORY_POINTS_2172: "Бугристый Холм"  #NT!
+ VICTORY_POINTS_1496: "Равель"  #NT!
+ VICTORY_POINTS_4075: "Озеро Виста"  #NT!
+ VICTORY_POINTS_4405: "Кирмайер"  #NT!
+ VICTORY_POINTS_2478: "Форт Бонд"  #NT!
+ VICTORY_POINTS_5464: "Палехорс"  #NT!
+ VICTORY_POINTS_2550: "Лострит"  #NT!
+ VICTORY_POINTS_2444: "Дорман"  #NT!
+ VICTORY_POINTS_4166: "Северные ворота"  #NT!
+ VICTORY_POINTS_3672: "Южные ворота"  #NT!
+ VICTORY_POINTS_5003: "Лагерь Возрождения"  #NT!
+ VICTORY_POINTS_3405: "Красный Пик"  #NT!
+ VICTORY_POINTS_5111: "Верхний Согде"  #NT!
+ VICTORY_POINTS_125: "Наводнение"  #NT!
+ VICTORY_POINTS_2910: "Костяной каньон"> #NT!
+ VICTORY_POINTS_2605: "Галлан"  #NT!
+ VICTORY_POINTS_2820: "Форт «Туман»"  #NT!
+ VICTORY_POINTS_5187: "Аванпост Колдон"  #NT!
+ VICTORY_POINTS_5316: "Форт Лакей" #NT!
+ VICTORY_POINTS_2093: "Святая ферма 1"  #NT!
+ VICTORY_POINTS_2237: "Бреннан"  #NT!
+ VICTORY_POINTS_1505: "Нижний Согде"  #NT!
+ VICTORY_POINTS_5134: "Блистер Хилл"  #NT!
+ VICTORY_POINTS_5135: "Форт Флейм"  #NT!
+ VICTORY_POINTS_5093: "Католл"  #NT!
+ VICTORY_POINTS_1351: "Форт:Святая военная база"  #NT!
+ VICTORY_POINTS_2995: "Буллджой"  #NT!
+ VICTORY_POINTS_3421: "Шахты Синнера"  #NT!
+ VICTORY_POINTS_3407: "Пустынный хрип"  #NT!
+ VICTORY_POINTS_3368: "Святая военная база"  #NT!
+ VICTORY_POINTS_5420: "Форт Тилль"  #NT!
+ VICTORY_POINTS_3017: "Лагерь Жадности"  #NT!
+ VICTORY_POINTS_3835: "Шмановиль"  #NT!
+ VICTORY_POINTS_3263: "Стопка"  #NT!
+ VICTORY_POINTS_5414: "Канун"  #NT!
+ VICTORY_POINTS_4331: "Лагерь похоти"  #NT!
+ VICTORY_POINTS_2671: "Лагерь Херси"  #NT!
+ VICTORY_POINTS_5348: "Фашит"  #NT!
+ VICTORY_POINTS_5329: "Вейдвейд"  #NT!
+ VICTORY_POINTS_6611: "Плохие зубы"  #NT!
+ VICTORY_POINTS_1087: "Хотлонги"  #NT!
+ VICTORY_POINTS_5317: "Счастливая долина"  #NT!
+ VICTORY_POINTS_2087: "Святая ферма 2"  #NT!
+ VICTORY_POINTS_2263: "Бишоп Сити">  #NT!
+ VICTORY_POINTS_5226: "Зелёное поле"  #NT!
+ VICTORY_POINTS_1928: "Букенд"  #NT!
+ VICTORY_POINTS_3760: "Святая ферма 3"  #NT!
+ VICTORY_POINTS_4442: "Гробница Древнего"  #NT!
+ VICTORY_POINTS_2875: "Крайний срок"  #NT!
+ VICTORY_POINTS_3312: "Старый Фаск"  #NT!
+ VICTORY_POINTS_4530: "Форт Флок"  #NT!
+ VICTORY_POINTS_2235: "Остров «Мидпоинт»">  #NT!
+ VICTORY_POINTS_3901: "Сержант"  #NT!
+ VICTORY_POINTS_3233: "Мыс Медный"  #NT!
+ VICTORY_POINTS_3055: "Рукав"  #NT!
+ VICTORY_POINTS_1365: "Кониш"  #NT!
+ VICTORY_POINTS_1933: "Банор"  #NT!
+ VICTORY_POINTS_3810: "Салл"  #NT!
+ VICTORY_POINTS_1229: "Гора Мэддокс"  #NT!
+ VICTORY_POINTS_4221: "Лавандовый город"  #NT!
+ VICTORY_POINTS_2993: "Барвинок"  #NT!
+ VICTORY_POINTS_378: "Форт Мауве"  #NT!
+ VICTORY_POINTS_2512: "Сияние сферы" #NT!
+ VICTORY_POINTS_3963: "Столица каннибалов"  #NT!
+ VICTORY_POINTS_2024: "Вельм"  #NT!
+ VICTORY_POINTS_3222: "Форт:Деревня людоедов 1" #NT!
+ VICTORY_POINTS_2664: "Зигрут"  #NT!
+ VICTORY_POINTS_833: "Деревня людоедов 1"  #NT!
+ VICTORY_POINTS_574: "Вилка"  #NT!
+ VICTORY_POINTS_3662: "Слопп"  #NT!
+ VICTORY_POINTS_4643: "Фаниш"  #NT!
+ VICTORY_POINTS_574: "Вискосс"  #NT!
+ VICTORY_POINTS_3018: "Залив Мэгг"  #NT!
+ VICTORY_POINTS_1698: "Зак"  #NT!
+ VICTORY_POINTS_4509: "Руины арсенала"  #NT!
+ VICTORY_POINTS_1842: "Алстилл"  #NT!
+ VICTORY_POINTS_4594: "Ноуб"  #NT!
+ VICTORY_POINTS_4673: "Пик Дьявола"  #NT!
+ VICTORY_POINTS_6483: "Рыбацкая деревня"  #NT!
+ VICTORY_POINTS_2590: "Форт Йелл"  #NT!
+ VICTORY_POINTS_3270: "Разведывательный пост" #NT!
+ VICTORY_POINTS_4689: "Аркадия"  #NT!
+ VICTORY_POINTS_4776: "Хейзелвуд"  #NT!
+ VICTORY_POINTS_342: "Неповинность" #NT!
+ VICTORY_POINTS_2064: "Фембург"  #NT!
+ VICTORY_POINTS_3561: "Парма"  #NT!
+ VICTORY_POINTS_3021: "Край Мира"  #NT!
+ VICTORY_POINTS_3190: "Вриль"  #NT!
+ VICTORY_POINTS_4716: "Лагерь «Красных камней»"  #NT!
+ VICTORY_POINTS_4813: "Талисман"  #NT!
+ VICTORY_POINTS_3434: "Старая мастерская"  #NT!
+ VICTORY_POINTS_4904: "Вест"  #NT!
+ VICTORY_POINTS_4972: "Сак"  #NT!
+ VICTORY_POINTS_4928: "Тихий город"  #NT!
+ VICTORY_POINTS_2116: "Цена послушания"  #NT!
+ VICTORY_POINTS_4074: "Безродный" #NT!
+ VICTORY_POINTS_5011: "Кошачий проход"  #NT!
+ VICTORY_POINTS_1934: "Одинокий ягненок"  #NT!
+ VICTORY_POINTS_3960: "Старая Ярма"  #NT!
+ VICTORY_POINTS_277: "Бухта Мегараптора"  #NT!
+ VICTORY_POINTS_570: "Takameru"  #NT!
+ VICTORY_POINTS_2674: "Деревня Оседлых Кочевников"  #NT!
+ VICTORY_POINTS_4084: "Рег-Цег"  #NT!
+ VICTORY_POINTS_1482: "Деревня собирателей"  #NT!
+ VICTORY_POINTS_5060: "Сажевая соль"  #NT!
+ VICTORY_POINTS_5158: "Дворняга Бег">  #NT!
+ VICTORY_POINTS_158: "Воспоминание"  #NT!
+ VICTORY_POINTS_2044: "Моди"  #NT!
+ VICTORY_POINTS_1009: "Делгейт">  #NT!
+ VICTORY_POINTS_5362: "Нью-Ярма"  #NT!
+ VICTORY_POINTS_1870: "Ханкер Холм">  #NT!
+ VICTORY_POINTS_1429: "Форт Хоспит"  #NT!
+ VICTORY_POINTS_2177: "Город выживших"  #NT!
+ VICTORY_POINTS_5426: "Дирворк"  #NT!
+ VICTORY_POINTS_5489: "Пик здравомыслия"  #NT!
+ VICTORY_POINTS_5291: "Доверие"  #NT!
+ VICTORY_POINTS_2446: "Колосса"  #NT!
+ VICTORY_POINTS_1542: "Большой Триг"  #NT!
+ VICTORY_POINTS_5382: "Алтачек"  #NT!
+ VICTORY_POINTS_1652: "Нобик"  #NT!
+ VICTORY_POINTS_159: "Илу"  #NT!
+ VICTORY_POINTS_1256: "Джилли" #NT!
+ VICTORY_POINTS_5596: "Мохо"  #NT!
+ VICTORY_POINTS_5628: "Скимбус"  #NT!
+ VICTORY_POINTS_2471: "Дрес"  #NT!
+ VICTORY_POINTS_2079: "Либби"  #NT!
+ VICTORY_POINTS_749: "Хорнстип"  #NT!
+ VICTORY_POINTS_5598: "Куб"  #NT!
+ VICTORY_POINTS_5503: "Хумит">  #NT!
+ VICTORY_POINTS_355: "Боп">  #NT!
+ VICTORY_POINTS_100: "Пол">  #NT!
+ VICTORY_POINTS_5570: "Тайло">  #NT!
+ VICTORY_POINTS_4377: "Лейт">  #NT!
+ VICTORY_POINTS_3923: "Город торговцев">  #NT!
+ VICTORY_POINTS_2324: "Человековедро">  #NT!
+ VICTORY_POINTS_5565: "Форт Вестинг"  #NT!
+ VICTORY_POINTS_5555: "Остров Королевы"  #NT!
+ VICTORY_POINTS_3374: "Мисти Мур"  #NT!
+ VICTORY_POINTS_3554: "Адмаг"  #NT!
+ VICTORY_POINTS_2721: "Аурзор"  #NT!
+ VICTORY_POINTS_5641: "Скуин"  #NT!
+ VICTORY_POINTS_2427: "Крыга"  #NT!
+ VICTORY_POINTS_2091: "Граница"  #NT!
+ VICTORY_POINTS_5685: "Калф"  #NT!
+ VICTORY_POINTS_4307: "Великая Крепость" #NT!
+ VICTORY_POINTS_2191: "Харт"  #NT!
+ VICTORY_POINTS_1448: "Ось"  #NT!
+ VICTORY_POINTS_5670: "Зеленый Ирис"> #NT!
+ VICTORY_POINTS_463: "Форт Юнго"  #NT!
+ VICTORY_POINTS_309: "Шидо"  #NT!
+ VICTORY_POINTS_2851: "Новая Кралия"  #NT!
+ VICTORY_POINTS_1755: "Рожденный в битве"  #NT!
+ VICTORY_POINTS_5756: "Восходящий поток"> #NT!
+ VICTORY_POINTS_4433: "Пардис"  #NT!
+ VICTORY_POINTS_1706: "Минге"  #NT!
+ VICTORY_POINTS_2510: "Последний бой"  #NT!
+ VICTORY_POINTS_3441: "Хуга"  #NT!
+ VICTORY_POINTS_3688: "Центр города"> #NT!
+ VICTORY_POINTS_5793: "Грохот"  #NT!
+ VICTORY_POINTS_2961: "Рю"  #NT!
+ VICTORY_POINTS_123: "Кипяток"  #NT!
+ VICTORY_POINTS_3361: "Бак"  #NT!
+ VICTORY_POINTS_5892: "Лицо"  #NT!
+ VICTORY_POINTS_1781: "Клок" #NT!
+ VICTORY_POINTS_1695: "Дагга" #NT!
+ VICTORY_POINTS_3216: "Товарищество"> #NT!
+ VICTORY_POINTS_1169: "Алькарда"  #NT!
+ VICTORY_POINTS_3138: "Форт Шанк"  #NT!
+ VICTORY_POINTS_3803: "Карновский перевал"  #NT!
+ VICTORY_POINTS_291: "Форт «Презрение»"> #NT!
+ VICTORY_POINTS_5934: "Каменистые берега" #NT!
+ VICTORY_POINTS_1246: "Трусость"  #NT!
+ VICTORY_POINTS_6092: "Потрясение"  #NT!
+ VICTORY_POINTS_5986: "Трон Предводителся пауков" #NT!
+ VICTORY_POINTS_6004: "Исчезающая деревня"  #NT!
+ VICTORY_POINTS_3160: "Лаборатория 45"> #NT!
+ VICTORY_POINTS_6194: "Долина Милдью"  #NT!
+ VICTORY_POINTS_1309: "Кламтаун"> #NT!
+ VICTORY_POINTS_6320: "Saigono"  #NT!
+ VICTORY_POINTS_6133: "Кемстри"  #NT!
+ VICTORY_POINTS_1726: "Арка Реи"  #NT!
+ VICTORY_POINTS_42: "Астромми"  #NT!
+ VICTORY_POINTS_1413: "Фискс"  #NT!
+ VICTORY_POINTS_6149: "Форт Мэксон"> #NT!
+ VICTORY_POINTS_605: "Бонни"> #NT!
+ VICTORY_POINTS_1571: "Кидд"  #NT!
+ VICTORY_POINTS_4441: "Борода"  #NT!
+ VICTORY_POINTS_4313: "Дрейк"  #NT!
+ VICTORY_POINTS_696: "Пальма"  #NT!
+ VICTORY_POINTS_6084: "Большой остров"  #NT!
+ VICTORY_POINTS_617: "Олива"  #NT!
+ VICTORY_POINTS_6619: "Маленький остров"  #NT!
+ VICTORY_POINTS_6153: "Келси"  #NT!
+ VICTORY_POINTS_2296: "Лагерь Фикель"  #NT!
+ VICTORY_POINTS_1990: "Лагерь Кобальт"  #NT!
+ VICTORY_POINTS_2623: "Клаунстэди"  #NT!
+ VICTORY_POINTS_6396: "Выдержка Скитальца"  #NT!
+ VICTORY_POINTS_2915: "Ключ"  #NT!
+ VICTORY_POINTS_3352: "Форт:Путевая станция" #NT!
+ VICTORY_POINTS_2728: "Зрелище"  #NT!
+ VICTORY_POINTS_2982: "Небесная Роза"  #NT!
+ VICTORY_POINTS_2376: "Сварка"  #NT!
+ VICTORY_POINTS_6338: "Папоротник"  #NT!
+ VICTORY_POINTS_2611: "Мира" #NT!
+ VICTORY_POINTS_281: "Глас" #NT!
+ VICTORY_POINTS_3410: "Вид на горы" #NT!
+ VICTORY_POINTS_6337: "Каденс"  #NT!
+ VICTORY_POINTS_1252: "Остров Султана"  #NT!
+ VICTORY_POINTS_46:    "уголок"  #NT!
+ VICTORY_POINTS_1953: "Старый Рейнер"  #NT!
+ VICTORY_POINTS_3307: "Новый Рейнер"  #NT!
+ VICTORY_POINTS_1729: "Кэмп Хадель"> #NT!
+ VICTORY_POINTS_6463: "Пойнт-Кабо"> #NT!
+ VICTORY_POINTS_1186: "Гора Мизери"  #NT!
+ VICTORY_POINTS_1255: "Блаженство"> #NT!
+ VICTORY_POINTS_4083: "Подтолкнуть"  #NT!
+ VICTORY_POINTS_6371: "Баттаи" #NT!
+ VICTORY_POINTS_6312: "Форт Несправедливости"  #NT!
+ VICTORY_POINTS_3716: "Руфт"  #NT!
+ VICTORY_POINTS_4148: "Скэмпер"  #NT!
+ VICTORY_POINTS_6229: "Хедшот Хилл"  #NT!
+ VICTORY_POINTS_2437: "Тайдтаун"  #NT!
+ VICTORY_POINTS_716: "Большой южный рабский рынок"  #NT!
+ VICTORY_POINTS_1683: "Катун"  #NT!
+ VICTORY_POINTS_1993: "Контрольно-пропускной пункт торговцы"  #NT!
+ VICTORY_POINTS_6094: "Верхние костяные поля""
+ VICTORY_POINTS_3348: "Траур"  #NT!
+ VICTORY_POINTS_741: "Отклад"  #NT!
+ VICTORY_POINTS_2902: "Проспекс"  #NT!
+ VICTORY_POINTS_5931: "Ровная Лагуна"  #NT!
+ VICTORY_POINTS_1160: "Старая тюрьма"  #NT!
+ VICTORY_POINTS_5947: "Цепные озера" #NT!
+ VICTORY_POINTS_2018: "Мика Пойнт"  #NT!
+ VICTORY_POINTS_771: "Деревня на болоте"> #NT!
+ VICTORY_POINTS_69: "Акула"  #NT!
+ VICTORY_POINTS_3988: "Шаб" #NT!
+ VICTORY_POINTS_3109: "Мук"  #NT!
+ VICTORY_POINTS_5799: "Сашидасу" #NT!
+ VICTORY_POINTS_2954: "Болотный песок"  #NT!
+ VICTORY_POINTS_3020: "Грязевой город"  #NT!
+ VICTORY_POINTS_354: "Вампер"  #NT!
+ VICTORY_POINTS_1611: "Тифри"  #NT!
+ VICTORY_POINTS_1017: "Миша"  #NT!
+ VICTORY_POINTS_3720: "Ясс"  #NT!
+ VICTORY_POINTS_2320: "Затычка"  #NT!
+ VICTORY_POINTS_2744: "Город кости"  #NT!
+ VICTORY_POINTS_5993: "Маларит"> #NT!
+ VICTORY_POINTS_5962: "Джик"  #NT!
+ VICTORY_POINTS_3195: "Молочный ящик"  #NT!
+ VICTORY_POINTS_136: "Руины Арбора"> #NT!
+ VICTORY_POINTS_3051: "Попа"  #NT!
+ VICTORY_POINTS_3070: "Хертик"  #NT!
+ VICTORY_POINTS_3600: "Боггот"  #NT!
+ VICTORY_POINTS_3060: "Элджи"  #NT!
+ VICTORY_POINTS_1767: "Окучиватель"> #NT!
+ VICTORY_POINTS_2245: "Гниль"  #NT!
+ VICTORY_POINTS_5714: "Какури">  #NT!
+ VICTORY_POINTS_5653: "Передача"  #NT!
+ VICTORY_POINTS_5634: "Возвышающаяся храбрость"  #NT!
+ VICTORY_POINTS_5602: "Фроам"  #NT!
+ VICTORY_POINTS_6616: "Путевая станция Грань"  #NT!
+ VICTORY_POINTS_5547: "Чистый огонь"  #NT!
+ VICTORY_POINTS_5591: "Стиктон Сити" #NT!
+ VICTORY_POINTS_4251: "Пик Дьявола" #NT!
+ VICTORY_POINTS_2123: "Иньджа" #NT!
+ VICTORY_POINTS_4658: "Янгер"  #NT!
+ VICTORY_POINTS_427: "Кепосу" #NT!
+ VICTORY_POINTS_1154: "База повстанцев"  #NT!
+ VICTORY_POINTS_2678: "Валь"  #NT!
+ VICTORY_POINTS_6578: "Громитель"  #NT!
+ VICTORY_POINTS_5498: "Пылевая башня"  #NT!
+ VICTORY_POINTS_1326: "Стрипселл"  #NT!
+ VICTORY_POINTS_6466: "Домен"  #NT!
+ VICTORY_POINTS_5586: "Марна"  #NT!
+ VICTORY_POINTS_516: "Кибо"  #NT!
+ VICTORY_POINTS_5509: "Вида"  #NT!
+ VICTORY_POINTS_2903: "Форт Молл"  #NT!
+ VICTORY_POINTS_6532: "Кэт"  #NT!
+ VICTORY_POINTS_6539: "Барлоу" #NT!
+ VICTORY_POINTS_6484: "База Рей"  #NT!
+ VICTORY_POINTS_5463: "Ларва" #NT!
+ VICTORY_POINTS_5546: "Корлеан"  #NT!
+ VICTORY_POINTS_1023: "Ваш аванпост"  #NT!
+ VICTORY_POINTS_327: "База"  #NT!
+ VICTORY_POINTS_5500: "Королевский холм"  #NT!
+ VICTORY_POINTS_6534: "Хергет"  #NT!
+ VICTORY_POINTS_151: "Гора Магии"  #NT!
+ VICTORY_POINTS_5567: "Викордет"  #NT!
+ VICTORY_POINTS_1194: "Сухой бег"  #NT!
+ VICTORY_POINTS_5450: "Потерянный Легион"  #NT!
+ VICTORY_POINTS_53: "Город позора"  #NT!
+ VICTORY_POINTS_3531: "Королева и Дэк"  #NT!
+ VICTORY_POINTS_5410: "Город Черной Пустыни" #NT!
+ VICTORY_POINTS_5581: "Бар «Что угодно»"  #NT!
+ VICTORY_POINTS_5716: "Хэшкварталы"  #NT!
+ VICTORY_POINTS_789: "Старая диспетчерская вышка"> #NT!
+ VICTORY_POINTS_1533: "Башня злоупотреблений">  #NT!
+ VICTORY_POINTS_52: "Перенацеливание"  #NT!
+ VICTORY_POINTS_5423: "Путевая станция"  #NT!
+ VICTORY_POINTS_5245: "Халис"  #NT!
+ VICTORY_POINTS_5154: "Отброшенные"  #NT!
+ VICTORY_POINTS_4992: "Каньон Лайн"  #NT!
+ VICTORY_POINTS_559: "Френтир Сити" #NT!
+ VICTORY_POINTS_3911: "Боров"  #NT!
+ VICTORY_POINTS_2013: "Хранилище Тэнгу"  #NT!
+ VICTORY_POINTS_3227: "Форт Мерфи"  #NT!
+ VICTORY_POINTS_3036: "Кузистан"> #NT!
+ VICTORY_POINTS_2979: "Абаддон"  #NT!
+ VICTORY_POINTS_3816: "Баст Сити"  #NT!
+ VICTORY_POINTS_527: "Дрин"  #NT!
+ VICTORY_POINTS_4631: "Филтич"  #NT!
+ VICTORY_POINTS_6601: "Эндин" #NT!
+ VICTORY_POINTS_6592: "Правосудие Окрана" #NT!
+ VICTORY_POINTS_2900: "Сабретаун"  #NT!
+ VICTORY_POINTS_6586: "Скобард"  #NT!
+ VICTORY_POINTS_1914: "Леди пустыни"  #NT!
+ VICTORY_POINTS_4693: "Новый Форт Мираж"  #NT!
+ VICTORY_POINTS_3610: "Тенотан"  #NT!
+ VICTORY_POINTS_2015: "Вайбут"  #NT!
+ VICTORY_POINTS_45: "Ковнер"  #NT!
+ VICTORY_POINTS_6554: "Красный Медведь"  #NT!
+ VICTORY_POINTS_6569: "Хватка"  #NT!
+ VICTORY_POINTS_4783: "Керилла"  #NT!
+ VICTORY_POINTS_4690: "Гаст"  #NT!
+ VICTORY_POINTS_4766: "Дорога Возрождения"  #NT!
+ VICTORY_POINTS_4703: "Флиз"  #NT!
+ VICTORY_POINTS_4587: "Бастион">  #NT!
+ VICTORY_POINTS_4043: "Чистка"  #NT!
+ VICTORY_POINTS_1066: "Кастер"  #NT!
+ VICTORY_POINTS_4695: "Нечестивый лес"> #NT!
+ VICTORY_POINTS_2096: "Бритва"  #NT!
+ VICTORY_POINTS_942: "Череп" #NT!
+ VICTORY_POINTS_3677: "Глоб"  #NT!
+ VICTORY_POINTS_4501: "Бунт"  #NT!
+ VICTORY_POINTS_4559: "Мегольд"  #NT!
+ VICTORY_POINTS_1561: "Форт:Деревня людоедов " #NT!
+ VICTORY_POINTS_2314: "Деревня людоедов"  #NT!
+ VICTORY_POINTS_2246: "Затерянная библиотека"  #NT!
+ VICTORY_POINTS_1603: "Дорми"  #NT!
+ VICTORY_POINTS_2567: "Омунч"  #NT!
+ VICTORY_POINTS_2345: "Первая деревня">  #NT!
+ VICTORY_POINTS_758: "Форт Симион">  #NT!
+ VICTORY_POINTS_4592: "Сила"  #NT!
+ VICTORY_POINTS_1010: "Нуфренс"  #NT!
+ VICTORY_POINTS_4549: "Вдоволь"  #NT!
+ VICTORY_POINTS_4479: "Форт Хамут"  #NT!
+ VICTORY_POINTS_3219: "Отделка"  #NT!
+ VICTORY_POINTS_2430: "Башня Козлов"  #NT!
+ VICTORY_POINTS_4490: "Мавел" Ноль #NT!
+ VICTORY_POINTS_4444: "Мыс Уоддл">  #NT!
+ VICTORY_POINTS_3625: "Диббер"  #NT!
+ VICTORY_POINTS_4812: "Эверрейн"  #NT!
+ VICTORY_POINTS_6505: "Башня Бернса"  #NT!
+ VICTORY_POINTS_3291: "Барт"  #NT!
+ VICTORY_POINTS_2135: "Форт Хедхантер"  #NT!
+ VICTORY_POINTS_4544: "Северный порт"  #NT!
+ VICTORY_POINTS_4519: "Двойной"  #NT!
+ VICTORY_POINTS_6479: "Остров Санда"  #NT!
+ VICTORY_POINTS_4063: "Барк" #NT!
+ VICTORY_POINTS_4620: "Клапан"  #NT!
+ VICTORY_POINTS_4577: "Фонд" #NT!
+ VICTORY_POINTS_3420: "Ограничение"  #NT!
+ VICTORY_POINTS_4686: "Живокровь"  #NT!
+ VICTORY_POINTS_2716: "Форт Кипин" #NT!
+ VICTORY_POINTS_4529: "Инфрон"  #NT!
+ VICTORY_POINTS_3120: "Бенвит"  #NT!
+ VICTORY_POINTS_1164: "Щека"  #NT!
+ VICTORY_POINTS_2526: "Ландон" #NT!
+ VICTORY_POINTS_4740: "Утро"  #NT!
+ VICTORY_POINTS_4788: "Каменная кампания Шо-Баттаи"  #NT!
+ VICTORY_POINTS_2527: "Огненное дыхание"  #NT!
+ VICTORY_POINTS_4872: "Экстрема"  #NT!
+ VICTORY_POINTS_3149: "Центр перевоспитания Стоат"  #NT!
+ VICTORY_POINTS_4895: "Стоат"  #NT!
+ VICTORY_POINTS_358: "Королевский выкуп"  #NT!
+ VICTORY_POINTS_4865: "Адская шахта"  #NT!
+ VICTORY_POINTS_4943: "Низкий разум">  #NT!
+ VICTORY_POINTS_4165: "Чистое небо"  #NT!
+ VICTORY_POINTS_888: "Публика" #NT!
+ VICTORY_POINTS_1321: "Удовлетворение"  #NT!
+ VICTORY_POINTS_4896: "Груз"   #NT!
+ VICTORY_POINTS_143: "Шо-Баттаи"  #NT!
+ VICTORY_POINTS_4669: "Прелоун"   #NT!
+ VICTORY_POINTS_3564: "Ромфокс"  #NT!
+ VICTORY_POINTS_879: "Нарва"  #NT!
+ VICTORY_POINTS_4887: "Гент"  #NT!
+ VICTORY_POINTS_4883: "Фланг"  #NT!
+ VICTORY_POINTS_4797: "Путеводный ветер"  #NT!
+ VICTORY_POINTS_4116: "Римский"  #NT!
+ VICTORY_POINTS_4553: "Встреча дюн"  #NT!
+ VICTORY_POINTS_4590: "Напряжение" #NT!
+ VICTORY_POINTS_1861: "Сторож"  #NT!
+ VICTORY_POINTS_4681: "Волокно"  #NT!
+ VICTORY_POINTS_4701: "Алмазы пустыни"  #NT!
+ VICTORY_POINTS_4755: "Порт Юг"  #NT!
+ VICTORY_POINTS_3123: "Лошадь"  #NT!
+ VICTORY_POINTS_4803: "Замена"  #NT!
+ VICTORY_POINTS_3326: "Слияние рощ"  #NT!
+ VICTORY_POINTS_1020: "Каст"  #NT!
+ VICTORY_POINTS_4919: "Рождение Империи"  #NT!
+ VICTORY_POINTS_4888: "Лагерь"  #NT!
+ VICTORY_POINTS_4085: "Даствич Сити"  #NT!
+ VICTORY_POINTS_1458: "Солома"  #NT!
+ VICTORY_POINTS_3959: "Спешка" #NT!
+ VICTORY_POINTS_426: "Миддлтон"  #NT!
+ VICTORY_POINTS_4293: "Шовен"  #NT!
+ VICTORY_POINTS_5031: "Быстрая шахта"  #NT!
+ VICTORY_POINTS_3464: "Кейтер" #NT!
+ VICTORY_POINTS_2317: "Хэн"  #NT!
+ VICTORY_POINTS_5140: "Край торговцев"  #NT!
+ VICTORY_POINTS_5120: "Форт Бэггс"  #NT!
+ VICTORY_POINTS_5061: "Лагерь Карбон"  #NT!
+ VICTORY_POINTS_3377: "Форт Ским"  #NT!
+ VICTORY_POINTS_5201: "Упаковка"  #NT!
+ VICTORY_POINTS_3078: "Северный невольничий рынок"  #NT!
+ VICTORY_POINTS_3076: "Рабская ферма"  #NT!
+ VICTORY_POINTS_3172: "Ярлык"  #NT!
+ VICTORY_POINTS_5153: "Степп"  #NT!
+ VICTORY_POINTS_3535: "Архтех"  #NT!
+ VICTORY_POINTS_5088: "Шахты Меера"  #NT!
+ VICTORY_POINTS_5077: "Открытая дверь"  #NT!
+ VICTORY_POINTS_4966: "Гранит Пойнт"  #NT!
+ VICTORY_POINTS_1728: "Поток" #NT!
+ VICTORY_POINTS_4909: "Порт Восток"  #NT!
+ VICTORY_POINTS_223: "Слизень"  #NT!
+ VICTORY_POINTS_2788: "Совпадение"  #NT!
+ VICTORY_POINTS_3014: "Пайдем"  #NT!
+ VICTORY_POINTS_5290: "Надежда"  #NT!
+ VICTORY_POINTS_960: "Ловкость" #NT!
+ VICTORY_POINTS_3701: "Правило дронов"  #NT!
+ VICTORY_POINTS_107: "Не сдаёмся"  #NT!
+ VICTORY_POINTS_1450: "Тюлень"  #NT!
+ VICTORY_POINTS_2546: "Авалон Сити"  #NT!
+ VICTORY_POINTS_1718: "Пордж">  #NT!
+ VICTORY_POINTS_6562: "Остров Безликого"  #NT!
+ VICTORY_POINTS_4040: "Лагерная глазница"  #NT!
+ VICTORY_POINTS_412: "Грань"  #NT!
+ VICTORY_POINTS_3011: "Рим"  #NT!
+ VICTORY_POINTS_2370: "Южная звезда"  #NT!
+ VICTORY_POINTS_3393: "Глупость"  #NT!
+ VICTORY_POINTS_5467: "Лагерь Кадет"  #NT!
+ VICTORY_POINTS_5411: "Салбич"  #NT!
+ VICTORY_POINTS_5424: "Кэрол">  #NT!
+ VICTORY_POINTS_3207: "Озеро Фортуна"  #NT!
+ VICTORY_POINTS_5496: "Брант"  #NT!
+ VICTORY_POINTS_3417: "Визаж"  #NT!
+ VICTORY_POINTS_3035: "Мидас"  #NT!
+ VICTORY_POINTS_5550: "Чёрная Ссадина"  #NT!
+ VICTORY_POINTS_4158: "Степь"  #NT!
+ VICTORY_POINTS_5562: "Пост Фиона"  #NT!
+ VICTORY_POINTS_669: "Авель"  #NT!
+ VICTORY_POINTS_5482: "Багровый Пик"  #NT!
+ VICTORY_POINTS_1605: "Паучья фабрика"  #NT!
+ VICTORY_POINTS_1898: "Джем Лабс"  #NT!
+ VICTORY_POINTS_410: "Сальта Лабс"  #NT!
+ VICTORY_POINTS_63: "Цель"  #NT!
+ VICTORY_POINTS_5502: "Трипли"  #NT!
+ VICTORY_POINTS_1151: "Учение"  #NT!
+ VICTORY_POINTS_117: "Эдд Лейк"  #NT!
+ VICTORY_POINTS_957: "Кубасский мост"  #NT!
+ VICTORY_POINTS_954: "Естественное переполнение"  #NT!
+ VICTORY_POINTS_5632: "Whelp Front"  #NT!
+ VICTORY_POINTS_5646: "Тайрон"  #NT!
+ VICTORY_POINTS_25: "Фэйз"  #NT!
+ VICTORY_POINTS_5719: "Пакс"  #NT!
+ VICTORY_POINTS_2256: "Кёдай"  #NT!
+ VICTORY_POINTS_1081: "Фрик"  #NT!
+ VICTORY_POINTS_5786: "Нью Барк"  #NT!
+ VICTORY_POINTS_5805: "Слоан"  #NT!
+ VICTORY_POINTS_5705: "Ковчег"  #NT!
+ VICTORY_POINTS_2572: "Мирный"> #NT!
+ VICTORY_POINTS_1712: "Титан"  #NT!
+ VICTORY_POINTS_2557: "Слезинка"  #NT!
+ VICTORY_POINTS_5742: "Девяносто"  #NT!
+ VICTORY_POINTS_1547: "Дорадо"  #NT!
+ VICTORY_POINTS_5894: "Безопасность"  #NT!
+ VICTORY_POINTS_418: "Клочья"  #NT!
+ VICTORY_POINTS_2559: "Хафф"  #NT!
+ VICTORY_POINTS_3019: "Камбала" #NT!
+ VICTORY_POINTS_917: "Объятия"  #NT!
+ VICTORY_POINTS_712: "Пикан"  #NT!
+ VICTORY_POINTS_3751: "Валлоп"  #NT!
+ VICTORY_POINTS_1069: "Железный штаб"  #NT!
+ VICTORY_POINTS_4068: "Когир"  #NT!
+ VICTORY_POINTS_1241: "Ойлшин"  #NT!
+ VICTORY_POINTS_3394: "Южный пост"  #NT!
+ VICTORY_POINTS_512: "Брограм"  #NT!
+ VICTORY_POINTS_3708: "Седло"  #NT!
+ VICTORY_POINTS_2848: "Город Спасения"  #NT!
+ VICTORY_POINTS_3481: "C-A01"  #NT!
+ VICTORY_POINTS_5960: "C-A02"  #NT!
+ VICTORY_POINTS_6080: "Экспедиция 5"  #NT!
+ VICTORY_POINTS_718: "Сузы"  #NT!
+ VICTORY_POINTS_989: "Фарс"  #NT!
+ VICTORY_POINTS_348: "Менс"  #NT!
+ VICTORY_POINTS_2021: "Могильный пляж"  #NT!
+ VICTORY_POINTS_2219: "Краблоу">  #NT!
+ VICTORY_POINTS_1471: "Криттер">  #NT!
+ VICTORY_POINTS_1205: "Крабовый город"  #NT!
+ VICTORY_POINTS_5983: "Остров Туск">  #NT!
+ VICTORY_POINTS_1369: "Форт Скарабей"  #NT!
+ VICTORY_POINTS_5851: "Крэббингтон"  #NT!
+ VICTORY_POINTS_3499: "Крабовая мойка"  #NT!
+ VICTORY_POINTS_3653: "Корочка"  #NT!
+ VICTORY_POINTS_5728: "Остров восторжения"  #NT!
+ VICTORY_POINTS_5781: "Крабовые спины"  #NT!
+ VICTORY_POINTS_4305: "Шампур"  #NT!
+ VICTORY_POINTS_5594: "Пег"  #NT!
+ VICTORY_POINTS_67: "Грудная клетка"  #NT!
+ VICTORY_POINTS_3939: "Играция"  #NT!
+ VICTORY_POINTS_1076: "Отдых Стоба"  #NT!
+ VICTORY_POINTS_3004: "Плач"  #NT!
+ VICTORY_POINTS_5950: "Задача"  #NT!
+ VICTORY_POINTS_5956: "Кривая гора">  #NT!
+ VICTORY_POINTS_3987: "Беспокойство"  #NT!
+ VICTORY_POINTS_3927: "Судьба">  #NT!
+ VICTORY_POINTS_3013: "Сикара">  #NT!
+ VICTORY_POINTS_28: "Новый Цветок"  #NT!
+ VICTORY_POINTS_96: "Кудо"  #NT!
+ VICTORY_POINTS_465: "Скачок"  #NT!
+ VICTORY_POINTS_2725: "Басня"  #NT!
+ VICTORY_POINTS_3824: "Форт Бесстрашный"  #NT!
+ VICTORY_POINTS_59: "Ломатели" #NT!
+ VICTORY_POINTS_5966: "Форт Спун"  #NT!
+ VICTORY_POINTS_5791: "Дымовая труба"  #NT!
+ VICTORY_POINTS_2035: "Внимание"  #NT!
+ VICTORY_POINTS_2711: "Кварн"  #NT!
+ VICTORY_POINTS_5970: "Пилдж">  #NT!
+ VICTORY_POINTS_2908: "Энне"  #NT!
+ VICTORY_POINTS_4030: "Чарльтон"  #NT!
+ VICTORY_POINTS_788: "Ильям"  #NT!
+ VICTORY_POINTS_1510: "Йордж"  #NT!
+ VICTORY_POINTS_2531: "Меддард"  #NT!
+ VICTORY_POINTS_763: "Вики Рок"  #NT!
+ VICTORY_POINTS_6289: "Лиза>  #NT!
+ VICTORY_POINTS_2078: "Артур"  #NT!
+ VICTORY_POINTS_1941: "Филп"  #NT!
+ VICTORY_POINTS_921: "Марион"  #NT!
+ VICTORY_POINTS_2056: "Альбер">  #NT!
+ VICTORY_POINTS_4241: "Престол шкур"  #NT!
+ VICTORY_POINTS_3893: "Королевское хранилище"  #NT!
+ VICTORY_POINTS_6386: "Белые высоты">  #NT!
+ VICTORY_POINTS_6370: "Ошен">  #NT!
+ VICTORY_POINTS_3783: "Монтгом">  #NT!
+ VICTORY_POINTS_3482: "Форт Александр">  #NT!
+ VICTORY_POINTS_6335: "Террасный городок">  #NT!
+ VICTORY_POINTS_4388: "Форсет">  #NT!
+ VICTORY_POINTS_3989: "Форт Зима">  #NT!
+ VICTORY_POINTS_6266: "Брук"  #NT!
+ VICTORY_POINTS_432: "Дауден"  #NT!
+ VICTORY_POINTS_714: "Херч Хилл">  #NT!
+ VICTORY_POINTS_3324: "Веттикер"  #NT!
+ VICTORY_POINTS_2125: "Облуд Сити">  #NT!
+ VICTORY_POINTS_3418: "Излияние">  #NT!
+ VICTORY_POINTS_6624: "Остров выводка"  #NT!
+ VICTORY_POINTS_6331: "Сплеш"  #NT!
+ VICTORY_POINTS_6313: "Спорный"  #NT!
+ VICTORY_POINTS_6346: "Мелодия"  #NT!
+ VICTORY_POINTS_6364: "Сомма"  #NT!
+ VICTORY_POINTS_1688: "Ролл-Айл"  #NT!
+ VICTORY_POINTS_3667: "Мыс Дельфы"  #NT!
+ VICTORY_POINTS_1026: "Унаги"  #NT!
+ VICTORY_POINTS_6423: "Амачи"  #NT!
+ VICTORY_POINTS_3528: "Рыбный остров"  #NT!
+ VICTORY_POINTS_2733: "Дворец короля Гурглера"  #NT!
+ VICTORY_POINTS_6449: "Ikurai"  #NT!
+ VICTORY_POINTS_2552: "Капп"  #NT!
+ VICTORY_POINTS_3283: "Дом кожи-штаб"  #NT!
+ VICTORY_POINTS_3680: "Наив" #NT!
+ VICTORY_POINTS_1393: "Нихаре"  #NT!
+ VICTORY_POINTS_6366: "Дом кожи">  #NT!
+ VICTORY_POINTS_1: "Ноль"  #NT!
+ VICTORY_POINTS_6381: "Наст"  #NT!
+ VICTORY_POINTS_6590: "Великий Барьер"  #NT!
+ VICTORY_POINTS_6623: "Часовой"  #NT!
+ VICTORY_POINTS_1438: "Департамент сельского хозяйства"  #NT!
+ VICTORY_POINTS_6334: "Гидравлические рыцари"  #NT!
+ VICTORY_POINTS_171: "Департамент труда">  #NT!
+ VICTORY_POINTS_6390: "Департамент безопасности"> #NT!
+ VICTORY_POINTS_2283: "Изгнание Кат-Лона">  #NT!
+ VICTORY_POINTS_1568: "Византия"  #NT!
+ VICTORY_POINTS_2911: "Сизар">  #NT!
+ VICTORY_POINTS_6434: "Комер">  #NT!
+ VICTORY_POINTS_2448: "Индус">  #NT!
+ VICTORY_POINTS_6428: "Майя">  #NT!
+ VICTORY_POINTS_6311: "Аштек">  #NT!
+ VICTORY_POINTS_1359: "Инка">  #NT!
+ VICTORY_POINTS_6315: "Шифровка" #NT!
+ VICTORY_POINTS_1620: "Форт Гаранд"  #NT!
+ VICTORY_POINTS_5740: "Новый Хэн"  #NT!
+ VICTORY_POINTS_2516: "Лушленд"  #NT!
+ VICTORY_POINTS_5754: "Форт Дотт"  #NT!
+ VICTORY_POINTS_1811: "Улыбки"  #NT!
+ VICTORY_POINTS_3480: "Чистая вода">  #NT!

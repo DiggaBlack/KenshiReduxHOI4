@@ -1,0 +1,34 @@
+state={
+	id=222
+	name="STATE_222"
+	provinces={
+		1133 1228 1275 1382 2153 2721 3323 4403 5620 
+	}
+	manpower=58234
+	buildings_max_level_factor=1.000
+
+
+	state_category = large_town
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 10    #STONE
+	}
+	
+	history = {
+		owner = SHK
+		#controller = SHK
+		add_core_of = SHK
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+		}
+		
+		victory_points = { 2721 10 } # Aurzor
+	}
+	
+	local_supplies = 5.0
+}

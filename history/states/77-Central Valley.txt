@@ -1,0 +1,35 @@
+state={
+	id=77
+	name="STATE_77"
+	provinces={
+		92 1197 1475 1977 2121 2267 2646 3095 3177 3196 3328 3560 3573 3601 3643 4867 4877 4881 4884 4925 4979 
+	}
+	manpower=22150
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 15    #STONE
+	}
+	
+	history = {
+		owner = VHN
+		#controller = VHN
+		add_core_of = VHN
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+		}
+		
+		victory_points = { 1977 2 } # Janus Ranch
+		victory_points = { 3573 5 } # Craterton
+	}
+	
+	local_supplies = 1.0
+}

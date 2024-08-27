@@ -1,0 +1,34 @@
+state={
+	id=198
+	name="STATE_198"
+	provinces={
+		214 669 728 1911 2621 2741 3538 3801 3857 4229 5492 5519 5530 5552 5561 5571 5573 7983 7984 
+	}
+	manpower=23140
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = BDG
+		#controller = BDG
+		add_core_of = BDG
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 2
+		}
+		
+		victory_points = { 669 3 } # Abel
+	}
+	
+	local_supplies = 5.0
+}

@@ -1,0 +1,34 @@
+state={
+	id=162
+	name="STATE_162"
+	provinces={
+		228 2282 2484 2923 3559 4169 4238 5374 5385 
+	}
+	manpower=4961
+	buildings_max_level_factor=1.000
+
+
+	state_category = pastoral
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = HHN
+		#controller = HHN
+		add_core_of = HHN
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		
+		#victory_points = { }
+	}
+	
+	local_supplies = 0.0
+}

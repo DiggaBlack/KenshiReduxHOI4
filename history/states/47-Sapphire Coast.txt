@@ -1,0 +1,36 @@
+state={
+	id=47
+	name="STATE_47"
+	provinces={
+		318 546 765 841 930 1454 1488 1709 1920 2014 2239 2310 2363 2373 2377 2383 2432 2754 2870 2936 2976 3111 3123 3147 3161 3271 3413 3460 3489 3533 3565 3709 3749 3858 3871 3903 4022 4091 4170 4183 4278 4436 4666 4670 4677 4685 4701 4708 4715 4717 4718 4723 4738 4739 4743 4744 4755 4760 4762 4775 4777 4824 4834 4835 
+	}
+	manpower=58575
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = UNC
+		#controller = UNC
+		add_core_of = UNC
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+		}
+		
+		victory_points = { 4701 3 } # Desert Diamonds
+		victory_points = { 4755 10 } # Port South
+		victory_points = { 3123 1 } # Horse
+	}
+	
+	local_supplies = 5.0
+}

@@ -1,0 +1,35 @@
+state={
+	id=237
+	name="STATE_237"
+	provinces={
+		5 25 555 571 742 1054 1192 1490 2186 3850 4124 4156 5644 5660 5693 5719 5721 5737 5750 
+	}
+	manpower=51943
+	buildings_max_level_factor=1.000
+
+
+	state_category = large_town
+	
+	resources = {
+		steel = 18    #IRON
+		tungsten = 8    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = REA
+		#controller = REA
+		add_core_of = REA
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 2
+		}
+		
+		victory_points = { 25 1 } # Faze
+		victory_points = { 5719 10 } # Pax
+	}
+	
+	local_supplies = 5.0
+}

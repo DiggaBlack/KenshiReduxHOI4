@@ -1,0 +1,35 @@
+state={
+	id=28
+	name="STATE_28"
+	provinces={
+		1053 1281 1543 1722 2031 2102 3416 3472 3646 3985 4558 4561 4594 4673 4688 
+	}
+	manpower=18325
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		steel = 18    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = CNW
+		#controller = CNW
+		add_core_of = CNW
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 1
+		}
+		
+		victory_points = { 4594 5 } # Nobe
+		victory_points = { 4673 1 } # Devil's Peak
+	}
+	
+	local_supplies = 5.0
+}

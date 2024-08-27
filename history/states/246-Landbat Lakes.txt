@@ -1,0 +1,36 @@
+state={
+	id=246
+	name="STATE_246"
+	provinces={
+		179 217 678 794 1208 1589 1927 2129 2218 2287 2410 2451 2488 2516 2722 3259 4333 5708 5727 5732 5739 5740 5754 5789 7942 8007 8015 
+	}
+	manpower=38124
+	buildings_max_level_factor=1.000
+
+
+	state_category = large_town
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 24    #STONE
+	}
+	
+	history = {
+		owner = CUC
+		#controller = CUC
+		add_core_of = CUC
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 1
+		}
+		
+		victory_points = { 5740 15 } # New Heng
+		victory_points = { 2516 5 } # Lushland
+		victory_points = { 5754 3 } # Fort Dott
+	}
+	
+	local_supplies = 5.0
+}

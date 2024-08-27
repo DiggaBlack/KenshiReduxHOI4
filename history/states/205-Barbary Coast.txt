@@ -1,0 +1,35 @@
+state={
+	id=205
+	name="STATE_205"
+	provinces={
+		58 634 897 1151 1699 1760 1989 2554 2648 2663 3557 4155 4242 5502 5540 5588 
+	}
+	manpower=43192
+	buildings_max_level_factor=1.000
+
+
+	state_category = large_town
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = GRP
+		#controller = GRP
+		add_core_of = GRP
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 2
+		}
+		
+		victory_points = { 5502 5 } # Tripley
+		victory_points = { 1151 1 } # Teach
+	}
+	
+	local_supplies = 5.0
+}

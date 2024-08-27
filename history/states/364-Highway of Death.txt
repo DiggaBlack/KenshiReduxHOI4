@@ -1,0 +1,36 @@
+state={
+	id=364
+	name="STATE_364"
+	provinces={
+		396 478 1048 1101 1857 1999 2075 2738 3482 3783 4194 4247 6370 
+	}
+	manpower=77320
+	buildings_max_level_factor=1.000
+
+
+	state_category = large_town
+	
+	resources = {
+		#steel = 0    #IRON
+		tungsten = 4    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = SOH
+		#controller = SOH
+		add_core_of = SOH
+		
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			arms_factory = 1
+		}
+		
+		victory_points = { 6370 3 } # Auchin
+		victory_points = { 3783 5 } # Montgom
+		victory_points = { 3482 3 } # Fort Alexander
+	}
+	
+	local_supplies = 5.0
+}

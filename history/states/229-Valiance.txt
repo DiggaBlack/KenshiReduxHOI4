@@ -1,0 +1,35 @@
+state={
+	id=229
+	name="STATE_229"
+	provinces={
+		755 1412 1416 1787 2783 3112 3414 3541 3659 3829 5631 5632 5646 
+	}
+	manpower=29035
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		#steel = 0    #IRON
+		tungsten = 14    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = REA
+		#controller = REA
+		add_core_of = REA
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 3
+			arms_factory = 0
+		}
+		
+		victory_points = { 5632 3 } # Whelp Front
+		victory_points = { 5646 1 } # Tyron
+	}
+	
+	local_supplies = 5.0
+}

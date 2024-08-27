@@ -1,0 +1,34 @@
+state={
+	id=199
+	name="STATE_199"
+	provinces={
+		423 2303 2482 2861 3226 3386 3495 5517 5551 5567 
+	}
+	manpower=36195
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		steel = 16    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = HMU
+		#controller = HMU
+		add_core_of = HMU
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 2
+		}
+		
+		victory_points = { 5567 3 } # Vicordeth
+	}
+	
+	local_supplies = 5.0
+}

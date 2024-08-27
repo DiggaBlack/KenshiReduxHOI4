@@ -1,0 +1,35 @@
+state={
+	id=242
+	name="STATE_242"
+	provinces={
+		64 142 749 871 970 1036 1592 1649 1766 2079 2393 3616 3995 4310 5738 5755 
+	}
+	manpower=19057
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		#steel = 0    #IRON
+		tungsten = 24    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = WEH
+		#controller = WEH
+		add_core_of = WEH
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		
+		victory_points = { 2079 3 } # Libby
+		victory_points = { 749 1 } # Hornstip
+	}
+	
+	local_supplies = 5.0
+}

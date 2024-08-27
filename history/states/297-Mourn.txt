@@ -1,0 +1,36 @@
+state={
+	id=297
+	name="STATE_297"
+	provinces={
+		585 741 1324 1937 2691 2801 2806 2902 3150 3348 3501 4031 5979 5985 5988 6000 6014 6022 6026 6031 6048 
+	}
+	manpower=37159
+	buildings_max_level_factor=1.000
+
+
+	state_category = large_town
+	
+	resources = {
+		steel = 12    #IRON
+		tungsten = 28    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = XMO
+		#controller = XMO
+		add_core_of = XMO
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 2
+		}
+		
+		victory_points = { 3348 15 } # City of Mourn
+		victory_points = { 741 3 } # Shelve
+		victory_points = { 2902 1 } # Prospex
+	}
+	
+	local_supplies = 5.0
+}

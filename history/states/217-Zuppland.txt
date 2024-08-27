@@ -1,0 +1,37 @@
+state={
+	id=217
+	name="STATE_217"
+	provinces={
+		499 624 882 1035 1100 1492 2192 2471 2885 2932 3345 3510 4134 4413 5565 5575 5585 5596 5613 5628 5645 3894 
+	}
+	manpower=63012
+	buildings_max_level_factor=1.000
+
+
+	state_category = city
+	
+	resources = {
+		steel = 20    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = WEH
+		#controller = WEH
+		add_core_of = WEH
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 2
+		}
+		
+		victory_points = { 5596 3 } # Moho
+		victory_points = { 5628 1 } # Squimbus
+		victory_points = { 2471 5 } # Dres
+		victory_points = { 5565 10 } # Fort Westing
+	}
+	
+	local_supplies = 5.0
+}

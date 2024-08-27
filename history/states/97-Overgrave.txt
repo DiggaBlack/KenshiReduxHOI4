@@ -1,0 +1,34 @@
+state={
+	id=97
+	name="STATE_97"
+	provinces={
+		333 971 1049 1815 3113 5011 
+	}
+	manpower=18153
+	buildings_max_level_factor=1.000
+
+
+	state_category = wasteland
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = FOG
+		#controller = FOG
+		add_core_of = FOG
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		
+		victory_points = { 5011 1 } # Catwalk
+	}
+	
+	local_supplies = 5.0
+}

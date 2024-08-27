@@ -1,0 +1,34 @@
+state={
+	id=78
+	name="STATE_78"
+	provinces={
+		137 437 2253 3036 3290 3327 3787 4854 4935 
+	}
+	manpower=23954
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = IMP
+		#controller = IMP
+		add_core_of = IMP
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 2
+		}
+		
+		victory_points = { 3036 3 } # Cuzistan
+	}
+	
+	local_supplies = 5.0
+}

@@ -1,0 +1,34 @@
+state={
+	id=185
+	name="STATE_185"
+	provinces={
+		441 1554 2065 2304 2391 2830 2859 3578 4251 4407 5490 5525 5539 
+	}
+	manpower=20940
+	buildings_max_level_factor=1.000
+
+
+	state_category = pastoral
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 12    #STONE
+	}
+	
+	history = {
+		owner = ZCN
+		#controller = ZCN
+		add_core_of = ZCN
+		
+		buildings = {
+			infrastructure = 0
+			industrial_complex = 0
+			arms_factory = 1
+		}
+		
+		victory_points = { 4251 1 } # Devil's Peak
+	}
+	
+	local_supplies = 5.0
+}

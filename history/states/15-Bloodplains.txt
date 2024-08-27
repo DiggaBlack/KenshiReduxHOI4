@@ -1,0 +1,36 @@
+state={
+	id=15
+	name="STATE_15"
+	provinces={
+		68 658 756 1143 1411 1532 1698 1842 2115 2268 2617 2879 2927 4185 4485 4493 4509 4518 4521 4531 4548 4556 7951 
+	}
+	manpower=29518
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		#steel = 0    #IRON
+		tungsten = 8    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = CNW
+		#controller = CNW
+		add_core_of = CNW
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		
+		victory_points = { 1698 3 } # Zack
+		victory_points = { 4509 1 } # Villam
+		victory_points = { 1842 1 } # Alstill
+	}
+	
+	local_supplies = 5.0
+}

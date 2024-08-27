@@ -1,0 +1,35 @@
+state={
+	id=200
+	name="STATE_200"
+	provinces={
+		100 239 493 892 1469 2474 3793 3910 4316 4377 5545 
+	}
+	manpower=45123
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = WEH
+		#controller = WEH
+		add_core_of = WEH
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+		}
+		
+		victory_points = { 100 5 } # Pol
+		victory_points = { 4377 1 } # Laythe
+	}
+	
+	local_supplies = 5.0
+}

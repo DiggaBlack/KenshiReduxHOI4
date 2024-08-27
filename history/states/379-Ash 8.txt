@@ -1,0 +1,34 @@
+state={
+	id=379
+	name="STATE_379"
+	provinces={
+		273 286 319 817 1136 1362 1495 1580 1593 1634 1635 2028 2501 3057 4209 6412 6415 6428 6432 6440 6443 6444 
+	}
+	manpower=19600
+	buildings_max_level_factor=1.000
+
+
+	state_category = large_town
+	
+	resources = {
+		steel = 40    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = SEM
+		#controller = SEM
+		add_core_of = SEM
+		
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 3
+		}
+		
+		victory_points = { 6428 5 } # Maya
+	}
+	
+	local_supplies = 5.0
+}

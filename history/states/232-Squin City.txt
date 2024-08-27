@@ -1,0 +1,34 @@
+state={
+	id=232
+	name="STATE_232"
+	provinces={
+		347 936 1126 1784 3665 3797 3869 4429 5618 5622 5641 5658 5665 5674 5684 5698 
+	}
+	manpower=83209
+	buildings_max_level_factor=1.000
+
+
+	state_category = metropolis
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 35    #STONE
+	}
+	
+	history = {
+		owner = SHK
+		#controller = SHK
+		add_core_of = SHK
+		
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			arms_factory = 2
+		}
+		
+		victory_points = { 5641 20 } # Squin
+	}
+	
+	local_supplies = 5.0
+}

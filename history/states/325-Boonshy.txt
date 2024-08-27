@@ -1,0 +1,34 @@
+state={
+	id=325
+	name="STATE_325"
+	provinces={
+		139 284 661 950 958 978 1233 1323 1486 1848 1904 2142 2819 3255 4287 6116 6121 6122 6133 6148 6174 6179 6185 6201 6218 6284 
+	}
+	manpower=15249
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		#steel = 0    #IRON
+		tungsten = 8    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = DSP
+		#controller = DSP
+		add_core_of = DSP
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 1
+		}
+		
+		victory_points = { 6133 3 } # Kemstri
+	}
+	
+	local_supplies = 5.0
+}

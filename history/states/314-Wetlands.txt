@@ -1,0 +1,35 @@
+state={
+	id=314
+	name="STATE_314"
+	provinces={
+		20 161 696 1037 1103 1512 1775 1950 2178 2382 2423 2792 2956 2990 3285 3363 3613 3794 3964 6034 6050 6105 6117 6124 6142 6618 6066 3624 6620 1573 6084 6622 3303 
+	}
+	manpower=36150
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		steel = 12    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = SWN
+		#controller = SWN
+		add_core_of = SWN
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 3
+		}
+		
+		victory_points = { 696 10 } # Palma
+		victory_points = { 6084 3 } # Big Island
+	}
+	
+	local_supplies = 5.0
+}

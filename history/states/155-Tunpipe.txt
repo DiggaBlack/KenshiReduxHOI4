@@ -1,0 +1,34 @@
+state={
+	id=155
+	name="STATE_155"
+	provinces={
+		642 1375 1496 1647 1827 2504 3761 4047 5313 5332 5350 5355 
+	}
+	manpower=26130
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 48    #STONE
+	}
+	
+	history = {
+		owner = HHN
+		#controller = HHN
+		add_core_of = HHN
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		
+		victory_points = { 1496 3 } # Ravel
+	}
+	
+	local_supplies = 0.0
+}

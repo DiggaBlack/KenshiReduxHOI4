@@ -1,0 +1,36 @@
+state={
+	id=105
+	name="STATE_105"
+	provinces={
+		106 158 356 421 645 1641 1849 2040 2227 2539 2758 2984 3100 3618 3631 5045 5060 5066 5073 5158 5186 5213 7957 
+	}
+	manpower=28150
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		steel = 12    #IRON
+		tungsten = 12    #COPPER
+		aluminium = 24    #STONE
+	}
+	
+	history = {
+		owner = MIH
+		#controller = MIH
+		add_core_of = MIH
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+		}
+		
+		victory_points = { 5060 5 } # Sootsalt
+		victory_points = { 5158 2 } # Mongrel Run
+		victory_points = { 158 5 } # Remembrance
+	}
+	
+	local_supplies = 5.0
+}

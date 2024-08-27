@@ -1,0 +1,34 @@
+state={
+	id=103
+	name="STATE_103"
+	provinces={
+		738 1594 1765 3254 3320 3965 5013 5033 5041 5080 7954 7955 7959 
+	}
+	manpower=2495
+	buildings_max_level_factor=1.000
+
+
+	state_category = wasteland
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = AVA
+		#controller = AVA
+		add_core_of = AVA
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		
+		#victory_points = { }
+	}
+	
+	local_supplies = 5.0
+}

@@ -1,0 +1,35 @@
+state={
+	id=342
+	name="STATE_342"
+	provinces={
+		1114 1322 1774 1936 2230 2467 2869 3194 3338 3989 6203 6205 6223 6234 6242 6250 6266 6271 6276 6309 
+	}
+	manpower=49348
+	buildings_max_level_factor=1.000
+
+
+	state_category = city
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = SOH
+		#controller = SOH
+		add_core_of = SOH
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 1
+		}
+		
+		victory_points = { 3989 10 } # Fort Winter
+		victory_points = { 6266 5 } # Brook
+	}
+	
+	local_supplies = 5.0
+}

@@ -1,0 +1,36 @@
+state={
+	id=74
+	name="STATE_74"
+	provinces={
+		73 283 337 1020 1047 1067 1105 1303 1341 1715 2127 2195 2515 2669 2710 2829 3326 3609 3644 3719 3739 3808 3928 4150 4400 4792 4803 4808 4817 4826 4838 4849 4889 4900 4941 4957 
+	}
+	manpower=78104
+	buildings_max_level_factor=1.000
+
+
+	state_category = large_town
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = UNC
+		#controller = UNC
+		add_core_of = UNC
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+		}
+		
+		victory_points = { 4803 3 } # Eplace
+		victory_points = { 3326 1 } # Mergegrove
+		victory_points = { 1020 3 } # Cast
+	}
+	
+	local_supplies = 5.0
+}

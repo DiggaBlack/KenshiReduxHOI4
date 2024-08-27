@@ -1,0 +1,35 @@
+state={
+	id=225
+	name="STATE_225"
+	provinces={
+		1511 1789 2199 5602 5614 6466 6467 6615 
+	}
+	manpower=24815
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		#steel = 0    #IRON
+		tungsten = 8    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = ZWM
+		#controller = ZWM
+		add_core_of = ZWM
+		
+		buildings = {
+			infrastructure = 0
+			industrial_complex = 0
+			arms_factory = 1
+		}
+		
+		victory_points = { 5602 1 } # Froam
+		victory_points = { 6466 1 } # Domain
+	}
+	
+	local_supplies = 5.0
+}

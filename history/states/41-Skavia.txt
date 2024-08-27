@@ -1,0 +1,34 @@
+state={
+	id=41
+	name="STATE_41"
+	provinces={
+		226 530 550 901 1247 1577 2407 3526 3971 4087 4642 4676 4726
+	}
+	manpower=27581
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		steel = 10    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = SBN
+		#controller = SBN
+		add_core_of = SBN
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		
+		#victory_points = { }
+	}
+	
+	local_supplies = 5.0
+}

@@ -1,0 +1,34 @@
+state={
+	id=116
+	name="STATE_116"
+	provinces={
+		177 330 692 800 1022 2415 2833 3492 3509 3981 4084 4108 4263 
+	}
+	manpower=19915
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		#steel = 0    #IRON
+		tungsten = 12    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = DSC
+		#controller = DSC
+		add_core_of = DSC
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 2
+		}
+		
+		victory_points = { 4084 3 } # Reg-Ceg
+	}
+	
+	local_supplies = 5.0
+}

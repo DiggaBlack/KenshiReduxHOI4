@@ -1,0 +1,34 @@
+state={
+	id=384
+	name="STATE_384"
+	provinces={
+		698 904 1140 2934 3558 3655 4094 6453 6458 6462 6463 6631 
+	}
+	manpower=56124
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		steel = 10    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = SRR
+		#controller = SRR
+		add_core_of = SRR
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 2
+		}
+		
+		victory_points = { 6463 10 } # Point Cabo
+	}
+	
+	local_supplies = 5.0
+}

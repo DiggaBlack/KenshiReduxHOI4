@@ -1,0 +1,105 @@
+ideas = {
+
+	slavery = {
+		law = yes
+		use_list_view = yes
+
+		slavery_outlawed = {
+
+			cost = 150
+			removal_cost = -1
+
+			available = {
+				NOT = { has_idea = slavery_widespread }
+				NOT = { has_idea = slavery_national_identity }
+			}
+
+			modifier = {
+				## MODS GO HERE
+			}
+
+			cancel_if_invalid = no
+		}
+		
+		
+		
+		slavery_prisoners_only = {
+
+			cost = 150
+			removal_cost = -1
+
+			available = {
+				NOT = { has_idea = slavery_outlawed }
+				NOT = { has_idea = slavery_widespread }
+				NOT = { has_idea = slavery_national_identity }
+			}
+
+			modifier = {
+				## MODS GO HERE
+			}
+
+			default = yes
+
+			cancel_if_invalid = no
+		}
+
+		
+		
+		slavery_tolerated = {
+
+			cost = 150
+			removal_cost = -1
+
+			available = {
+				NOT = { has_idea = slavery_outlawed }
+				NOT = { has_idea = slavery_widespread }
+				NOT = { has_idea = slavery_national_identity }
+			}
+
+			modifier = {
+				## MODS GO HERE
+			}
+
+			cancel_if_invalid = no
+		}
+		
+		
+		
+		slavery_widespread = {
+
+			cost = 150
+			removal_cost = -1
+
+			available = {
+				NOT = { has_idea = slavery_outlawed }
+				NOT = { has_idea = slavery_national_identity }
+			}
+
+			modifier = {
+				## MODS GO HERE
+			}
+
+			cancel_if_invalid = no
+		}
+		
+		
+		
+		slavery_national_identity = {
+
+			cost = 150
+			removal_cost = -1
+
+			available = {
+				always = no
+			}
+
+			modifier = {
+				## MODS GO HERE
+			}
+
+			cancel_if_invalid = no
+		}
+	}
+
+
+}

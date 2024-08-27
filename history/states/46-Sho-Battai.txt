@@ -1,0 +1,37 @@
+state={
+	id=46
+	name="STATE_46"
+	provinces={
+		143 200 213 271 448 469 540 766 842 879 1263 1266 1624 1982 2085 2340 2511 2680 2813 3061 3085 3133 3261 3278 3282 3532 3564 3615 3825 4045 4195 4200 4295 4385 4663 4669 4684 4694 4697 4700 4705 4713 4734 4742 4748 4757 4767 4768 4772 
+	}
+	manpower=121029
+	buildings_max_level_factor=1.000
+
+
+	state_category = large_town
+	
+	resources = {
+		steel = 24    #IRON
+		tungsten = 4    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = UNC
+		#controller = UNC
+		add_core_of = UNC
+		
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 2
+		}
+		
+		victory_points = { 143 30 } # Sho-Battai
+		victory_points = { 4669 3 } # Preloan
+		victory_points = { 3564 1 } # Romfox
+		victory_points = { 879 1 } # Narva
+	}
+	
+	local_supplies = 5.0
+}

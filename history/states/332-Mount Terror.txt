@@ -1,0 +1,34 @@
+state={
+	id=332
+	name="STATE_332"
+	provinces={
+		792 1459 1574 1921 2592 3283 3807 3980 6135 6159 6181 6187 6193 6214 6216 6345 
+	}
+	manpower=32581
+	buildings_max_level_factor=1.000
+
+
+	state_category = city
+	
+	resources = {
+		steel = 10    #IRON
+		tungsten = 18    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = SKB
+		#controller = SKB
+		add_core_of = SKB
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 2
+		}
+		
+		victory_points = { 3283 15 } # Necropolis
+	}
+	
+	local_supplies = 5.0
+}

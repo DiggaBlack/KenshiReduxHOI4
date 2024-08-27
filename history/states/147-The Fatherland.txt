@@ -1,0 +1,34 @@
+state={
+	id=147
+	name="STATE_147"
+	provinces={
+		2263 2639 3191 5260 5272 5299 
+	}
+	manpower=55004
+	buildings_max_level_factor=1.000
+
+
+	state_category = large_town
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = HLN
+		#controller = HLN
+		add_core_of = HLN
+		
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+		}
+		
+		victory_points = { 2263 5 } # Bishop City
+	}
+	
+	local_supplies = 2.0
+}

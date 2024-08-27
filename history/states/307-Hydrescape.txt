@@ -1,0 +1,35 @@
+state={
+	id=307
+	name="STATE_307"
+	provinces={
+		617 953 1195 1422 1446 1646 2133 2157 2894 3086 3239 3545 3757 4360 6005 6011 6036 6045 6064 6093 6619 6621 8041 8046 
+	}
+	manpower=31473
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		steel = 6    #IRON
+		tungsten = 6    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = SWN
+		#controller = SWN
+		add_core_of = SWN
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 1
+		}
+		
+		victory_points = { 617 3 } # Oliva
+		victory_points = { 6619 1 } # Little Island
+	}
+	
+	local_supplies = 5.0
+}

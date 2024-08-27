@@ -1,0 +1,7 @@
+on_actions = {
+    on_startup = {
+        effect = {
+            SHK = { news_event = { id = events.1 } days = 24 }
+        }
+    }
+}

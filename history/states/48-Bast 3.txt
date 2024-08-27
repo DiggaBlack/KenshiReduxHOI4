@@ -1,0 +1,35 @@
+state={
+	id=48
+	name="STATE_48"
+	provinces={
+		969 1513 2089 2322 2334 2441 2729 4690 6586 6588 6552 
+	}
+	manpower=38517
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		steel = 4    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 8    #STONE
+	}
+	
+	history = {
+		owner = YCW
+		#controller = YCW
+		add_core_of = YCW
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 2
+		}
+		
+		victory_points = { 6586 3 } # Scobard
+		victory_points = { 4690 1 } # Ghast
+	}
+	
+	local_supplies = 5.0
+}

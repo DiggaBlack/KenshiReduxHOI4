@@ -1,0 +1,34 @@
+state={
+	id=301
+	name="STATE_301"
+	provinces={
+		229 759 1374 3186 3539 4157 5932 6004 6020 6063 
+	}
+	manpower=4901
+	buildings_max_level_factor=1.000
+
+
+	state_category = pastoral
+	
+	resources = {
+		#steel = 0    #IRON
+		tungsten = 12    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = UFF
+		#controller = UFF
+		add_core_of = UFF
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		
+		victory_points = { 6004 1 } # Vanishing Village
+	}
+	
+	local_supplies = 5.0
+}

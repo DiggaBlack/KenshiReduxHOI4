@@ -1,0 +1,34 @@
+state={
+	id=173
+	name="STATE_173"
+	provinces={
+		144 880 919 1149 1566 2233 2555 2690 3756 4006 4040 4176 4220 4376 5398 5415 5443 5452 5459 5471 5485 5487 
+	}
+	manpower=33015
+	buildings_max_level_factor=1.000
+
+
+	state_category = large_town
+	
+	resources = {
+		steel = 12    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 48    #STONE
+	}
+	
+	history = {
+		owner = SUC
+		#controller = SUC
+		add_core_of = SUC
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 2
+		}
+		
+		victory_points = { 4040 10 } # Camp Eyesocket
+	}
+	
+	local_supplies = 5.0
+}

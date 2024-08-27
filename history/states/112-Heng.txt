@@ -1,0 +1,39 @@
+state={
+	id=112
+	name="STATE_112"
+	provinces={
+		14 461 552 1088 1092 1503 1588 1655 1819 1939 1996 2066 2209 2261 2269 2286 2317 2325 2358 2396 2560 2654 2706 3029 3139 3302 3319 3377 3464 3635 3700 3837 4010 4014 4088 4362 4424 5085 5090 5103 5107 5108 5119 5120 5132 5137 5140 5150 5156 5162 5163 5165 5181 5194 5201 
+	}
+	manpower=167706
+	buildings_max_level_factor=1.000
+
+
+	state_category = metropolis
+	
+	resources = {
+		steel = 28    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 12    #STONE
+	}
+	
+	history = {
+		owner = TDG
+		#controller = TDG
+		add_core_of = TDG
+		
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 7
+			arms_factory = 2
+		}
+		
+		victory_points = { 3464 3 } # Cater
+		victory_points = { 2317 40 } # Heng
+		victory_points = { 5140 20 } # Trader's Edge
+		victory_points = { 5120 3 } # Fort Baggs
+		victory_points = { 3377 1 } # Fort Skim
+		victory_points = { 5201 3 } # Packing
+	}
+	
+	local_supplies = 5.0
+}

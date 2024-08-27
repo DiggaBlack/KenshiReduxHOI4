@@ -1,0 +1,34 @@
+state={
+	id=163
+	name="STATE_163"
+	provinces={
+		282 472 508 703 1199 1435 1828 1864 1952 1976 1994 2055 2395 2411 2562 2579 4018 5346 5349 5365 5368 5372 5376 5381 5391 5392 5397 5402 5418 
+	}
+	manpower=25395
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		steel = 10    #IRON
+		tungsten = 28    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = VGT
+		#controller = VGT
+		add_core_of = VGT
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		
+		#victory_points = { }
+	}
+	
+	local_supplies = 5.0
+}

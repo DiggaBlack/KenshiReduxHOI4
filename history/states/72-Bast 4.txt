@@ -1,0 +1,35 @@
+state={
+	id=72
+	name="STATE_72"
+	provinces={
+		1770 1867 2111 2236 2602 2957 4783 4814 4836 6591 6592 
+	}
+	manpower=43090
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		steel = 6    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = YCC
+		#controller = YCC
+		add_core_of = YCC
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 2
+		}
+		
+		victory_points = { 6592 3 } # Okran's Justice
+		victory_points = { 4783 1 } # Kerilla
+	}
+	
+	local_supplies = 5.0
+}

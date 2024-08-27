@@ -1,0 +1,34 @@
+state={
+	id=369
+	name="STATE_369"
+	provinces={
+		168 171 394 797 1214 1347 2919 3690 4369 6352 6372 6378 
+	}
+	manpower=8800
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = SEM
+		#controller = SEM
+		add_core_of = SEM
+		
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+		}
+		
+		victory_points = { 171 20 } # Department of Labor
+	}
+	
+	local_supplies = 5.0
+}

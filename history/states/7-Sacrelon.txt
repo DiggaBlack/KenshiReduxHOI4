@@ -1,0 +1,34 @@
+state={
+	id=7
+	name="STATE_7"
+	provinces={
+		1178 1948 2246 2522 3676 4480 4482 4498 
+	}
+	manpower=24915
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		#steel = 0    #IRON
+		tungsten = 10    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = CNE
+		#controller = CNE
+		add_core_of = CNE
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		
+		victory_points = { 2246 3 } # Roast
+	}
+	
+	local_supplies = 5.0
+}

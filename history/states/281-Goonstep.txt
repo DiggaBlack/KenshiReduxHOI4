@@ -1,0 +1,34 @@
+state={
+	id=281
+	name="STATE_281"
+	provinces={
+		771 875 922 1030 1707 2895 3119 3155 3661 4020 4233 5855 5863 5906 5927 
+	}
+	manpower=19248
+	buildings_max_level_factor=1.000
+
+
+	state_category = pastoral
+	
+	resources = {
+		#steel = 0    #IRON
+		tungsten = 8    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = WST
+		#controller = WST
+		add_core_of = WST
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 0
+		}
+		
+		victory_points = { 771 1 } # Big Bill
+	}
+	
+	local_supplies = 5.0
+}

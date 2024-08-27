@@ -1,0 +1,35 @@
+state={
+	id=344
+	name="STATE_344"
+	provinces={
+		33 365 488 545 557 637 701 1007 1438 1609 1680 1846 2070 2618 2638 3056 3437 3744 3848 4284 6178 6220 6228 6254 6297 6302 6315 
+	}
+	manpower=24000
+	buildings_max_level_factor=1.000
+
+
+	state_category = large_town
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = SEM
+		#controller = SEM
+		add_core_of = SEM
+		
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+		}
+		
+		victory_points = { 1438 20 } # Department of Agriculture
+		victory_points = { 6315 5 } # Ecrypt
+	}
+	
+	local_supplies = 5.0
+}

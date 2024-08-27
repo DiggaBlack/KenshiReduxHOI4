@@ -1,0 +1,36 @@
+state={
+	id=95
+	name="STATE_95"
+	provinces={
+		88 188 387 538 664 1372 1569 1836 1872 2563 2568 3097 3672 4023 4069 4166 4952 4959 4975 4978 4981 4990 5000 5003 5017 5022 5027 5036 5039 
+	}
+	manpower=205397
+	buildings_max_level_factor=1.000
+
+
+	state_category = large_city
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 250    #STONE
+	}
+	
+	history = {
+		owner = IHN
+		#controller = IHN
+		add_core_of = IHN
+		
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 7
+			arms_factory = 0
+		}
+		
+		victory_points = { 4166 3 } # North Gate
+		victory_points = { 3672 5 } # South Gate
+		victory_points = { 5003 15 } # Camp Rebirth
+	}
+	
+	local_supplies = 3.0
+}

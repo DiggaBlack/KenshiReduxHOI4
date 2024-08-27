@@ -1,0 +1,223 @@
+technologies = {
+	
+	toothpick_tech = {
+
+		enable_equipments = {
+			toothpick
+		}
+		
+		on_research_complete_limit = {
+			NOT = {
+				has_template_containing_unit = toothpick_crossbowmen
+			}
+		}
+		on_research_complete = {
+			hidden_effect = {
+				load_oob = "unlock_toothpick_crossbowmen"
+			}
+			custom_effect_tooltip = UNLOCK_DIVISION_TEMPLATE
+		}
+		
+		path = {
+			research_cost_coeff = 1
+			leads_to_tech = spring_bat_tech
+		}
+		
+		research_cost = 0.1
+		start_year = 1933
+		folder = {
+			name = sword_smithing_folder
+			position = { x = 0 y = 0 }
+		}
+		
+		categories = {
+			swords
+		}
+		
+		ai_will_do = {
+			factor = 1
+			
+			modifier = {
+				factor = 2
+				is_major = yes
+			}
+		}
+	}
+	
+	
+	spring_bat_tech = {
+
+		enable_equipments = {
+			spring_bat
+		}
+		
+		on_research_complete_limit = {
+			NOT = {
+				has_template_containing_unit = spring_bat_crossbowmen
+			}
+		}
+		on_research_complete = {
+			hidden_effect = {
+				load_oob = "unlock_spring_bat_crossbowmen"
+			}
+			custom_effect_tooltip = UNLOCK_DIVISION_TEMPLATE
+		}
+		
+		path = {
+			research_cost_coeff = 1
+			leads_to_tech = ranger_tech
+		}
+		
+		research_cost = 0.1
+		start_year = 1933
+		folder = {
+			name = sword_smithing_folder
+			position = { x = 0 y = 2 }
+		}
+		
+		categories = {
+			swords
+		}
+		
+		ai_will_do = {
+			factor = 1
+			
+			modifier = {
+				factor = 2
+				is_major = yes
+			}
+		}
+	}
+	
+	ranger_tech = {
+
+		enable_equipments = {
+			ranger
+		}
+		
+		on_research_complete_limit = {
+			NOT = {
+				has_template_containing_unit = ranger_crossbowmen
+			}
+		}
+		on_research_complete = {
+			hidden_effect = {
+				load_oob = "unlock_ranger_crossbowmen"
+			}
+			custom_effect_tooltip = UNLOCK_DIVISION_TEMPLATE
+		}
+		
+		path = {
+			research_cost_coeff = 1
+			leads_to_tech = oldworld_bow_tech
+		}
+		
+		research_cost = 0.1
+		start_year = 1933
+		folder = {
+			name = sword_smithing_folder
+			position = { x = 0 y = 4 }
+		}
+		
+		categories = {
+			swords
+		}
+		
+		ai_will_do = {
+			factor = 1
+			
+			modifier = {
+				factor = 2
+				is_major = yes
+			}
+		}
+	}
+	
+	oldworld_bow_tech = {
+
+		enable_equipments = {
+			oldworld_bow
+		}
+		
+		on_research_complete_limit = {
+			NOT = {
+				has_template_containing_unit = oldworld_bow_crossbowmen
+			}
+		}
+		on_research_complete = {
+			hidden_effect = {
+				load_oob = "unlock_oldworld_bow_crossbowmen"
+			}
+			custom_effect_tooltip = UNLOCK_DIVISION_TEMPLATE
+		}
+		
+		path = {
+			research_cost_coeff = 1
+			leads_to_tech = eagles_cross_tech
+		}
+		
+		research_cost = 0.1
+		start_year = 1933
+		folder = {
+			name = sword_smithing_folder
+			position = { x = 0 y = 6 }
+		}
+		
+		categories = {
+			swords
+		}
+		
+		ai_will_do = {
+			factor = 1
+			
+			modifier = {
+				factor = 2
+				is_major = yes
+			}
+		}
+	}
+	
+	eagles_cross_tech = {
+
+		enable_equipments = {
+			eagles_cross
+		}
+		
+		on_research_complete_limit = {
+			NOT = {
+				has_template_containing_unit = eagles_cross_crossbowmen
+			}
+		}
+		on_research_complete = {
+			hidden_effect = {
+				load_oob = "unlock_eagles_cross_crossbowmen"
+			}
+			custom_effect_tooltip = UNLOCK_DIVISION_TEMPLATE
+		}
+		
+		path = {
+			research_cost_coeff = 1
+		}
+		
+		research_cost = 0.1
+		start_year = 1933
+		folder = {
+			name = sword_smithing_folder
+			position = { x = 0 y = 8 }
+		}
+		
+		categories = {
+			swords
+		}
+		
+		ai_will_do = {
+			factor = 1
+			
+			modifier = {
+				factor = 2
+				is_major = yes
+			}
+		}
+	}
+	
+}

@@ -1,0 +1,35 @@
+state={
+	id=275
+	name="STATE_275"
+	provinces={
+		59 295 403 694 752 1428 1818 1880 2583 2877 3461 3818 3865 4330 5859 5889 5916 5917 5966 7938 8025 8028 8029 8030 
+	}
+	manpower=21485
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		steel = 12    #IRON
+		tungsten = 8    #COPPER
+		aluminium = 16    #STONE
+	}
+	
+	history = {
+		owner = ANS
+		#controller = ANS
+		add_core_of = ANS
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 1
+		}
+		
+		victory_points = { 59 3 } # Break
+		victory_points = { 5966 3 } # Fort Spoon
+	}
+	
+	local_supplies = 5.0
+}

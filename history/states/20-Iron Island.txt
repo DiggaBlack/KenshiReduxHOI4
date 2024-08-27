@@ -1,0 +1,36 @@
+state={
+	id=20
+	name="STATE_20"
+	provinces={
+		206 608 912 1015 2248 2494 3015 3496 3901 4530 4533 4538 4550 6482 6473 6472 6476 6475 2235 6481 6480 6477 6478 4564
+	}
+	manpower=56348
+	buildings_max_level_factor=1.000
+
+
+	state_category = large_city
+	
+	resources = {
+		steel = 70    #IRON
+		tungsten = 36    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = ILC
+		#controller = ILC
+		add_core_of = ILC
+		
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 4
+			arms_factory = 3
+		}
+		
+		victory_points = { 4530 5 } # Fort Flock
+		victory_points = { 2235 1 } # Midpoint Isle
+		victory_points = { 3901 2 } # Sarge
+	}
+	
+	local_supplies = 5.0
+}

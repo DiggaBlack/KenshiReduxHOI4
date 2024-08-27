@@ -1,0 +1,34 @@
+state={
+	id=8
+	name="STATE_8"
+	provinces={
+		111 173 633 825 1390 1506 1595 4260 4463 4489 4502 7943 7948 
+	}
+	manpower=8155
+	buildings_max_level_factor=1.000
+
+
+	state_category = pastoral
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = PRL
+		#controller = PRL
+		add_core_of = PRL
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 0
+		}
+		
+		#victory_points = { }
+	}
+	
+	local_supplies = 5.0
+}

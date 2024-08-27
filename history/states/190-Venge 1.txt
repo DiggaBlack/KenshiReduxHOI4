@@ -1,0 +1,34 @@
+state={
+	id=190
+	name="STATE_190"
+	provinces={
+		247 261 287 298 453 511 639 1373 2308 2352 2613 3490 4127 5495 
+	}
+	manpower=6235
+	buildings_max_level_factor=1.000
+
+
+	state_category = wasteland
+	
+	resources = {
+		steel = 16    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = VNG
+		#controller = VNG
+		add_core_of = VNG
+		
+		buildings = {
+			infrastructure = 0
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		
+		#victory_points = { }
+	}
+	
+	local_supplies = 5.0
+}

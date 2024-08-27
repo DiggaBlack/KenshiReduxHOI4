@@ -1,0 +1,35 @@
+state={
+	id=168
+	name="STATE_168"
+	provinces={
+		532 1437 2083 3531 7941 5410 5484 
+	}
+	manpower=89738
+	buildings_max_level_factor=1.000
+
+
+	state_category = megalopolis
+	
+	resources = {
+		steel = 46    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = DEX
+		#controller = DEX
+		add_core_of = DEX
+		
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 7
+			arms_factory = 2
+		}
+		
+		victory_points = { 3531 5 } # Quin & Dack's
+		victory_points = { 5410 30 } # Black Desert City
+	}
+	
+	local_supplies = 5.0
+}

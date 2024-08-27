@@ -1,0 +1,36 @@
+state={
+	id=166
+	name="STATE_166"
+	provinces={
+		94 1016 1312 1563 1871 2254 2798 3035 3122 3188 3417 3502 3930 3954 4027 4341 5356 5370 5394 5403 5422 5441 5442 5444 5447 5453 5461 5462 5473 5478 5496 6594 6595 6596 7969 7979 7980 
+	}
+	manpower=58228
+	buildings_max_level_factor=1.000
+
+
+	state_category = large_town
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = SUC
+		#controller = SUC
+		add_core_of = SUC
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 1
+		}
+		
+		victory_points = { 5496 5 } # Brunt
+		victory_points = { 3417 3 } # Visage
+		victory_points = { 3035 2 } # Midas
+	}
+	
+	local_supplies = 5.0
+}

@@ -1,0 +1,35 @@
+state={
+	id=285
+	name="STATE_285"
+	provinces={
+		4 156 315 367 776 1268 1545 1695 1781 2200 2234 2476 3281 3642 4222 4282 5942 
+	}
+	manpower=58205
+	buildings_max_level_factor=1.000
+
+
+	state_category = city
+	
+	resources = {
+		#steel = 0    #IRON
+		tungsten = 12    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = FSS
+		#controller = FSS
+		add_core_of = FSS
+		
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 4
+			arms_factory = 1
+		}
+		
+		victory_points = { 1781 3 } # Cloke
+		victory_points = { 1695 3 } # Dagga
+	}
+	
+	local_supplies = 5.0
+}

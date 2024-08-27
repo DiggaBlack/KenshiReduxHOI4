@@ -1,0 +1,34 @@
+state={
+	id=93
+	name="STATE_93"
+	provinces={
+		222 501 640 836 870 1444 1704 1711 1758 2661 3520 3553 3717 3811 4962 4985 5005 5038 5048 5053 5069 
+	}
+	manpower=21205
+	buildings_max_level_factor=1.000
+
+
+	state_category = wasteland
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = FOG
+		#controller = FOG
+		add_core_of = FOG
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		
+		#victory_points = { }
+	}
+	
+	local_supplies = 5.0
+}

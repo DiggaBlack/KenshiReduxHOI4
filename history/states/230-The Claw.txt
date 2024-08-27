@@ -1,0 +1,35 @@
+state={
+	id=230
+	name="STATE_230"
+	provinces={
+		67 236 1044 1535 1885 3388 4149 4358 5594 5615 5657 5668 5687 5702 6612 6613 
+	}
+	manpower=17438
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 12    #STONE
+	}
+	
+	history = {
+		owner = CRD
+		#controller = CRD
+		add_core_of = CRD
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 1
+		}
+		
+		victory_points = { 5594 5 } # Peg
+		victory_points = { 67 3 } # Thorax
+	}
+	
+	local_supplies = 5.0
+}

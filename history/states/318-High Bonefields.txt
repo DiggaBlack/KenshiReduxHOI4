@@ -1,0 +1,34 @@
+state={
+	id=318
+	name="STATE_318"
+	provinces={
+		90 240 462 489 689 697 835 1089 1313 1555 1662 1771 1993 2084 2601 2713 3522 3731 6047 6051 6052 6065 6073 6075 6096 6111 6119 6123 6130 6132 6143 6144 6156 6162 
+	}
+	manpower=13951
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 8    #STONE
+	}
+	
+	history = {
+		owner = FCC
+		#controller = FCC
+		add_core_of = FCC
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		
+		victory_points = { 1993 1 } # Trader's Checkpoint
+	}
+	
+	local_supplies = 5.0
+}

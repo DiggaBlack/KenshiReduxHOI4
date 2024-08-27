@@ -1,0 +1,34 @@
+state={
+	id=164
+	name="STATE_164"
+	provinces={
+		666 1145 1244 1386 1556 1599 1898 2026 2824 3229 3346 3997 5367 5373 5389 5401 5430 5448 6587 6567 6572 
+	}
+	manpower=31519
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = OGD
+		#controller = OGD
+		add_core_of = OGD
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		
+		victory_points = { 1898 3 } # Jem Labs
+	}
+	
+	local_supplies = 5.0
+}

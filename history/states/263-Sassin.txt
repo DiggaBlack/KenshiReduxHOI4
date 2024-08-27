@@ -1,0 +1,35 @@
+state={
+	id=263
+	name="STATE_263"
+	provinces={
+		368 1028 1403 1406 1433 1480 2320 2659 3041 3107 3720 5809 5822 5833 5870 5871 5895 
+	}
+	manpower=24194
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = WGR
+		#controller = WGR
+		add_core_of = WGR
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 1
+		}
+		
+		victory_points = { 3720 15 } # Yass
+		victory_points = { 2320 1 } # Corks
+	}
+	
+	local_supplies = 5.0
+}

@@ -1,0 +1,34 @@
+state={
+	id=211
+	name="STATE_211"
+	provinces={
+		80 780 1524 1723 2364 2677 3664 4050 5534 5559 5595 5603 151 980 2009 3183 3468 4056 4231 5638 5654 
+	}
+	manpower=18244
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 8    #STONE
+	}
+	
+	history = {
+		owner = HMU
+		#controller = HMU
+		add_core_of = HMU
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 0
+		}
+		
+		victory_points = { 151 1 } # Mount Magic
+	}
+	
+	local_supplies = 5.0
+}

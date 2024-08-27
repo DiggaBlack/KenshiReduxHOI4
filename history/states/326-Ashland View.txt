@@ -1,0 +1,34 @@
+state={
+	id=326
+	name="STATE_326"
+	provinces={
+		194 1604 1617 1643 1887 2021 3627 3673 6101 6112 8048 
+	}
+	manpower=38585
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = THB
+		#controller = THB
+		add_core_of = THB
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 2
+		}
+		
+		victory_points = { 2021 3 } # Grave Beach
+	}
+	
+	local_supplies = 5.0
+}

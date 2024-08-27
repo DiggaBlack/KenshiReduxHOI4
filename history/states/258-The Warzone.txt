@@ -1,0 +1,36 @@
+state={
+	id=258
+	name="STATE_258"
+	provinces={
+		1084 1481 1547 2138 2242 2291 2559 3019 3077 3585 3681 5787 5806 5817 5820 5843 
+	}
+	manpower=48215
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		steel = 14    #IRON
+		tungsten = 4    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = VSE
+		#controller = VSE
+		add_core_of = VSE
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 1
+		}
+		
+		victory_points = { 1547 5 } # Dorado
+		victory_points = { 2559 1 } # Huff
+		victory_points = { 3019 1 } # Flounder
+	}
+	
+	local_supplies = 5.0
+}

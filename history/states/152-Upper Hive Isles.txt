@@ -1,0 +1,34 @@
+state={
+	id=152
+	name="STATE_152"
+	provinces={
+		6558 5366 6599 6563 3374 6573 
+	}
+	manpower=3105
+	buildings_max_level_factor=1.000
+
+
+	state_category = small_island
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = WEH
+		#controller = WEH
+		add_core_of = WEH
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 1
+		}
+		
+		victory_points = { 3374 3 } # Misty Moor
+	}
+	
+	local_supplies = 5.0
+}

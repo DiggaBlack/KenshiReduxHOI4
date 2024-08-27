@@ -1,0 +1,35 @@
+state={
+	id=340
+	name="STATE_340"
+	provinces={
+		83 539 626 843 1379 1918 1941 2078 2161 2989 3043 4285 4303 6191 6199 6209 6213 6238 6258 
+	}
+	manpower=10353
+	buildings_max_level_factor=1.000
+
+
+	state_category = large_town
+	
+	resources = {
+		steel = 8    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = SAH
+		#controller = SAH
+		add_core_of = SAH
+		
+		buildings = {
+			infrastructure = 0
+			industrial_complex = 0
+			arms_factory = 2
+		}
+		
+		victory_points = { 2078 5 } # Artur
+		victory_points = { 1941 1 } # Filp
+	}
+	
+	local_supplies = 5.0
+}

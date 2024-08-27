@@ -1,0 +1,35 @@
+state={
+	id=269
+	name="STATE_269"
+	provinces={
+		828 1130 1290 1661 2456 3066 3361 3475 4019 4382 5884 5892 5918 
+	}
+	manpower=14820
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		steel = 14    #IRON
+		tungsten = 6    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = BRS
+		#controller = BRS
+		add_core_of = BRS
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 0
+		}
+		
+		victory_points = { 3361 1 } # Tank
+		victory_points = { 5892 1 } # Face
+	}
+	
+	local_supplies = 5.0
+}

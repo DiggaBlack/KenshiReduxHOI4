@@ -1,0 +1,36 @@
+state={
+	id=67
+	name="STATE_67"
+	provinces={
+		342 753 965 993 1057 1384 1665 1963 2064 3049 3484 3543 3729 4776 4804 4810 4822 4853 
+	}
+	manpower=75958
+	buildings_max_level_factor=1.000
+
+
+	state_category = large_city
+	
+	resources = {
+		steel = 16    #IRON
+		tungsten = 20    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = FLO
+		#controller = FLO
+		add_core_of = FLO
+		
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 5
+			arms_factory = 2
+		}
+		
+		victory_points = { 4776 15 } # Hazelwood
+		victory_points = { 342 3 } # Defiance
+		victory_points = { 2064 3 } # Femburg
+	}
+	
+	local_supplies = 5.0
+}

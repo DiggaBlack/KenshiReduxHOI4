@@ -1,0 +1,34 @@
+state={
+	id=380
+	name="STATE_380"
+	provinces={
+		514 924 943 1376 3487 4083 6408 6411 6418 6426 6427 6442 
+	}
+	manpower=21729
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = SRR
+		#controller = SRR
+		add_core_of = SRR
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+		}
+		
+		victory_points = { 4083 1 } # Nudge
+	}
+	
+	local_supplies = 5.0
+}

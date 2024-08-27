@@ -1,0 +1,34 @@
+state={
+	id=186
+	name="STATE_186"
+	provinces={
+		1748 1888 2370 2628 2883 3201 4081 4101 5449 5455 5460 5481 5488 
+	}
+	manpower=24857
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 8    #STONE
+	}
+	
+	history = {
+		owner = SUC
+		#controller = SUC
+		add_core_of = SUC
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 3
+		}
+		
+		victory_points = { 2370 15 } # The Southern Star
+	}
+	
+	local_supplies = 5.0
+}

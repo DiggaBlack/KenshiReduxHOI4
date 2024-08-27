@@ -1,0 +1,36 @@
+state={
+	id=361
+	name="STATE_361"
+	provinces={
+		761 1391 1613 1813 1926 2357 3213 3431 3893 3974 4352 4388 4418 6322 6327 6341 6343 6365 6386 
+	}
+	manpower=97230
+	buildings_max_level_factor=1.000
+
+
+	state_category = metropolis
+	
+	resources = {
+		steel = 8    #IRON
+		tungsten = 8    #COPPER
+		aluminium = 20    #STONE
+	}
+	
+	history = {
+		owner = SOH
+		#controller = SOH
+		add_core_of = SOH
+		
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 6
+			arms_factory = 2
+		}
+		
+		victory_points = { 3893 40 } # The Royal Vault
+		victory_points = { 6386 5 } # White Heights
+		victory_points = { 4388 15 } # Forset
+	}
+	
+	local_supplies = 5.0
+}

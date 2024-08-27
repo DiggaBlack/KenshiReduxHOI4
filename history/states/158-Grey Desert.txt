@@ -1,0 +1,34 @@
+state={
+	id=158
+	name="STATE_158"
+	provinces={
+		289 598 963 1657 1882 2037 2270 2299 2755 2767 3463 3580 5352 5361 5423 5439 5451 5458 5470 5480 
+	}
+	manpower=51240
+	buildings_max_level_factor=1.000
+
+
+	state_category = large_city
+	
+	resources = {
+		steel = 10    #IRON
+		tungsten = 10    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = XTH
+		#controller = XTH
+		add_core_of = XTH
+		
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 5
+			arms_factory = 2
+		}
+		
+		victory_points = { 5423 30 } # Future HQ
+	}
+	
+	local_supplies = 5.0
+}

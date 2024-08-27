@@ -1,0 +1,35 @@
+state={
+	id=309
+	name="STATE_309"
+	provinces={
+		28 96 2010 2651 2771 2785 2797 2929 5991 6030 6039 6077 6103 
+	}
+	manpower=13058
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = KDR
+		#controller = KDR
+		add_core_of = KDR
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 1
+		}
+		
+		victory_points = { 28 1 } # New Blossom
+		victory_points = { 96 1 } # Kudo
+	}
+	
+	local_supplies = 5.0
+}

@@ -1,0 +1,36 @@
+state={
+	id=291
+	name="STATE_291"
+	provinces={
+		407 451 465 544 704 1355 1583 1834 2057 2406 2486 2614 2622 2703 2725 2921 3152 3397 3456 3477 3548 3824 3958 4037 4270 4373 5899 5928 5938 5952 5957 5958 5959 5971 6019 6038 
+	}
+	manpower=68129
+	buildings_max_level_factor=1.000
+
+
+	state_category = metropolis
+	
+	resources = {
+		steel = 24    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = ANS
+		#controller = ANS
+		add_core_of = ANS
+		
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			arms_factory = 6
+		}
+		
+		victory_points = { 465 25 } # Spring
+		victory_points = { 2725 5 } # Fable
+		victory_points = { 3824 5 } # Fort Fearless
+	}
+	
+	local_supplies = 5.0
+}

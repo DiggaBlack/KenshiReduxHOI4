@@ -1,0 +1,35 @@
+state={
+	id=294
+	name="STATE_294"
+	provinces={
+		430 563 977 1387 1582 1972 2018 2180 2225 2375 2594 3748 4163 5910 5919 5930 5947 5964 5975 5997 8032 8034 8035 8036 
+	}
+	manpower=57124
+	buildings_max_level_factor=1.000
+
+
+	state_category = large_town
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = WST
+		#controller = WST
+		add_core_of = WST
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 3
+		}
+		
+		victory_points = { 5947 3 } # Chain Lakes
+		victory_points = { 2018 15 } # Mica Point
+	}
+	
+	local_supplies = 5.0
+}

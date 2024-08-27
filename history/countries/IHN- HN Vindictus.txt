@@ -1,0 +1,50 @@
+﻿capital = 95
+
+oob = "IHN"
+
+set_research_slots = 2
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_recon = 1
+	tech_support = 1		
+	tech_engineers = 1
+	tech_military_police = 1
+	tech_mountaineers = 1
+}
+set_politics = {
+	ruling_party = okranite
+}
+
+add_ideas = {
+	army_with_a_state
+	all_for_one
+	closed_economy
+}
+
+set_popularities = {
+	new_imperialism = 0
+	okranite = 85
+	kralist_code = 0
+	old_imperialism = 0
+	hiver = 0
+	liberationism = 15
+	independent = 0
+	raider = 0
+	horde = 0
+	wilderness = 0
+}
+
+create_country_leader = {
+	name = IHN_leader
+	desc = IHN_leader_desc
+	picture = "gfx/leaders/HLN/Vindictus.dds"
+	ideology = ascensionism
+	traits = {
+		#
+	}
+}
+
+

@@ -1,0 +1,37 @@
+state={
+	id=89
+	name="STATE_89"
+	provinces={
+		78 576 667 686 711 774 888 1093 1099 1259 1261 1262 1321 1645 1810 1843 1863 2122 2359 2365 2460 2462 2536 2737 2862 3026 3137 3297 3336 3529 3614 3727 3802 3821 3941 4039 4165 4274 4283 4910 4918 4920 4931 4943 4954 4955 4967 4969 4973 4980 4982 4986 4993 4994 5023 5025 5029 5040 
+	}
+	manpower=47195
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		steel = 8    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 8    #STONE
+	}
+	
+	history = {
+		owner = UNC
+		#controller = UNC
+		add_core_of = UNC
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+		}
+		
+		victory_points = { 4943 3 } # Lowmind
+		victory_points = { 4165 1 } # Clear Sky
+		victory_points = { 888 1 } # Pubbish
+		victory_points = { 1321 1 } # Suffice
+	}
+	
+	local_supplies = 5.0
+}

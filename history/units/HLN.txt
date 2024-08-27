@@ -1,0 +1,119 @@
+division_template = {
+	name = "Militia Swordsmen"
+
+	regiments = {
+		shoddy_swordsmen = { x = 0 y = 0 }
+		shoddy_swordsmen = { x = 0 y = 1 }
+        shoddy_swordsmen = { x = 0 y = 2 }
+		shoddy_swordsmen = { x = 1 y = 0 }
+		shoddy_swordsmen = { x = 1 y = 1 }
+	}
+}
+
+units = {
+	division = {
+		division_name = {
+			is_name_ordered = yes
+			name_order = 1
+		}
+		location = 5134
+		division_template = "Militia Swordsmen"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+	}
+	division = {
+		division_name = {
+			is_name_ordered = yes
+			name_order = 2
+		}
+		location = 5134
+		division_template = "Militia Swordsmen"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+	}
+	division = {
+		division_name = {
+			is_name_ordered = yes
+			name_order = 3
+		}
+		location = 5134
+		division_template = "Militia Swordsmen"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+	}
+	
+	division = {
+		division_name = {
+			is_name_ordered = yes
+			name_order = 3
+		}
+		location = 3263
+		division_template = "Militia Swordsmen"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+	}
+	division = {
+		division_name = {
+			is_name_ordered = yes
+			name_order = 3
+		}
+		location = 3263
+		division_template = "Militia Swordsmen"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+	}
+	division = {
+		division_name = {
+			is_name_ordered = yes
+			name_order = 3
+		}
+		location = 3263
+		division_template = "Militia Swordsmen"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+	}
+	
+	division = {
+		division_name = {
+			is_name_ordered = yes
+			name_order = 3
+		}
+		location = 6611
+		division_template = "Militia Swordsmen"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+	}
+	division = {
+		division_name = {
+			is_name_ordered = yes
+			name_order = 3
+		}
+		location = 6611
+		division_template = "Militia Swordsmen"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+	}
+	division = {
+		division_name = {
+			is_name_ordered = yes
+			name_order = 3
+		}
+		location = 6611
+		division_template = "Militia Swordsmen"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+	}
+}
+
+# Production lines here
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = junk_arms
+			creator = "HLN"
+		}
+		requested_factories = 1
+		progress = 0.50
+		efficiency = 80
+	}
+}

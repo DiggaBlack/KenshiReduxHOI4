@@ -1,0 +1,35 @@
+state={
+	id=117
+	name="STATE_117"
+	provinces={
+		133 1232 1718 1992 2521 2546 2852 3882 5092 5105 5112 5144 5193 803 6548
+	}
+	manpower=20093
+	buildings_max_level_factor=1.000
+
+
+	state_category = city
+	
+	resources = {
+		steel = 22    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = AVA
+		#controller = AVA
+		add_core_of = AVA
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 3
+		}
+		
+		victory_points = { 2546 5 } # Avalon City
+		victory_points = { 1718 1 } # Pordge
+	}
+	
+	local_supplies = 5.0
+}

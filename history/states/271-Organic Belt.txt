@@ -1,0 +1,35 @@
+state={
+	id=271
+	name="STATE_271"
+	provinces={
+		354 433 600 671 1628 3020 4294 4367 4384 5840 5856 5869 5878 8023 
+	}
+	manpower=68120
+	buildings_max_level_factor=1.000
+
+
+	state_category = large_town
+	
+	resources = {
+		steel = 12    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = WTW
+		#controller = WTW
+		add_core_of = WTW
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 3
+		}
+		
+		victory_points = { 3020 5 } # Mud Town
+		victory_points = { 354 3 } # Vamper
+	}
+	
+	local_supplies = 5.0
+}

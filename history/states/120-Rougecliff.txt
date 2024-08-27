@@ -1,0 +1,34 @@
+state={
+	id=120
+	name="STATE_120"
+	provinces={
+		223 334 691 804 949 1785 2348 2670 2759 3343 3435 3806 3890 5164 5185 5192 5211 5216 5219 
+	}
+	manpower=38284
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 12    #STONE
+	}
+	
+	history = {
+		owner = SCM
+		#controller = SCM
+		add_core_of = SCM
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 2
+		}
+		
+		victory_points = { 223 3 } # Slug
+	}
+	
+	local_supplies = 5.0
+}

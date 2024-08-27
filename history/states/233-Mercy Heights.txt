@@ -1,0 +1,35 @@
+state={
+	id=233
+	name="STATE_233"
+	provinces={
+		204 2277 2557 2577 2811 2837 2925 3321 3723 3768 5627 5682 5683 5700 5742 
+	}
+	manpower=24958
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		steel = 4    #IRON
+		tungsten = 8    #COPPER
+		aluminium = 6    #STONE
+	}
+	
+	history = {
+		owner = VSE
+		#controller = VSE
+		add_core_of = VSE
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 0
+		}
+		
+		victory_points = { 2557 1 } # Teardrop
+		victory_points = { 5742 1 } # Ninety
+	}
+	
+	local_supplies = 5.0
+}

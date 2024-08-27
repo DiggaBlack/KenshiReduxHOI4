@@ -1,0 +1,34 @@
+state={
+	id=327
+	name="STATE_327"
+	provinces={
+		71 314 390 553 770 938 1011 1419 2309 2380 3110 3948 4440 6114 6138 6149 6161 6188 
+	}
+	manpower=47230
+	buildings_max_level_factor=1.000
+
+
+	state_category = city
+	
+	resources = {
+		steel = 38    #IRON
+		tungsten = 24    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = STC
+		#controller = STC
+		add_core_of = STC
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 2
+		}
+		
+		victory_points = { 6149 10 } # Fort Maxon
+	}
+	
+	local_supplies = 5.0
+}

@@ -1,0 +1,35 @@
+state={
+	id=183
+	name="STATE_183"
+	provinces={
+		375 687 1029 1732 2041 2183 2324 2702 3517 3923 5433 7978 
+	}
+	manpower=45128
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		steel = 8    #IRON
+		tungsten = 4    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = WEH
+		#controller = WEH
+		add_core_of = WEH
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+		}
+		
+		victory_points = { 3923 10 } # Tradertown
+		victory_points = { 2324 1 } # Bucket Man
+	}
+	
+	local_supplies = 5.0
+}

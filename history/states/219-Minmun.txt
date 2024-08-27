@@ -1,0 +1,34 @@
+state={
+	id=219
+	name="STATE_219"
+	provinces={
+		1172 1627 2106 4279 4326 5557 5569 5577 5598 
+	}
+	manpower=24824
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		steel = 6    #IRON
+		tungsten = 10    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = WEH
+		#controller = WEH
+		add_core_of = WEH
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+		}
+		
+		victory_points = { 5598 1 } # Koob
+	}
+	
+	local_supplies = 5.0
+}

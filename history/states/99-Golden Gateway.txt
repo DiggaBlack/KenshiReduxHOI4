@@ -1,0 +1,34 @@
+state={
+	id=99
+	name="STATE_99"
+	provinces={
+		120 473 795 844 1686 2154 3227 5055 
+	}
+	manpower=35015
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = IMP
+		#controller = IMP
+		add_core_of = IMP
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 3
+		}
+		
+		victory_points = { 3227 5 } # Fort Murphy
+	}
+	
+	local_supplies = 5.0
+}

@@ -1,0 +1,853 @@
+technologies = {
+	
+	sticks_and_clubs = {
+
+		enable_equipments = {
+			junk_arms
+		}
+		
+		on_research_complete_limit = {
+			NOT = {
+				has_template_containing_unit = shoddy_swordsmen
+			}
+		}
+		on_research_complete = {
+			hidden_effect = {
+				load_oob = "unlock_shoddy_swordsmen"
+			}
+			custom_effect_tooltip = UNLOCK_DIVISION_TEMPLATE
+		}
+		
+	
+		path = {
+			leads_to_tech = katanas
+			research_cost_coeff = 1
+		}
+		path = {
+			leads_to_tech = polearms
+			research_cost_coeff = 1
+		}
+		path = {
+			leads_to_tech = sabres
+			research_cost_coeff = 1
+		}
+		path = {
+			leads_to_tech = hackers
+			research_cost_coeff = 1
+		}
+		path = {
+			leads_to_tech = heavy_weapons
+			research_cost_coeff = 1
+		}
+		
+		research_cost = 0.1
+		start_year = 1933
+		folder = {
+			name = sword_smithing_folder
+			position = { x = 0 y = 0 }
+		}
+		
+		categories = {
+			swords
+		}
+		
+		ai_will_do = {
+			factor = 1
+			
+			modifier = {
+				factor = 2
+				is_major = yes
+			}
+		}
+	}
+	
+	
+	katanas = {
+
+		enable_equipments = {
+			katana_basic
+		}
+		
+		enable_subunits = {
+			katanas_swordsmen
+		}
+		
+		on_research_complete_limit = {
+			NOT = {
+				has_template_containing_unit = katanas_swordsmen
+			}
+		}
+		on_research_complete = {
+			hidden_effect = {
+				load_oob = "unlock_katanas_swordsmen"
+			}
+			custom_effect_tooltip = UNLOCK_DIVISION_TEMPLATE
+		}
+		
+	
+		path = {
+			leads_to_tech = katanas_upgrade_1
+			research_cost_coeff = 1
+		}
+		
+		research_cost = 0.1
+		start_year = 1933
+		folder = {
+			name = sword_smithing_folder
+			position = { x = -3 y = 2 }
+		}
+		
+		categories = {
+			swords
+		}
+		
+		ai_will_do = {
+			factor = 1
+			
+			modifier = {
+				factor = 2
+				is_major = yes
+			}
+		}
+	}
+	
+	katanas_upgrade_1 = {
+
+		# TODO: KATANA UPGRADES
+		
+	
+		path = {
+			leads_to_tech = katanas_upgrade_2
+			research_cost_coeff = 1
+		}
+		
+		research_cost = 0.1
+		start_year = 1933
+		folder = {
+			name = sword_smithing_folder
+			position = { x = -3 y = 4 }
+		}
+		
+		categories = {
+			swords
+		}
+		
+		ai_will_do = {
+			factor = 1
+			
+			modifier = {
+				factor = 2
+				is_major = yes
+			}
+		}
+	}
+	
+	
+	katanas_upgrade_2 = {
+
+		# TODO: KATANA UPGRADES
+		
+	
+		path = {
+			leads_to_tech = katanas_upgrade_3
+			research_cost_coeff = 1
+		}
+		
+		research_cost = 0.1
+		start_year = 1933
+		folder = {
+			name = sword_smithing_folder
+			position = { x = -3 y = 6 }
+		}
+		
+		categories = {
+			swords
+		}
+		
+		ai_will_do = {
+			factor = 1
+			
+			modifier = {
+				factor = 2
+				is_major = yes
+			}
+		}
+	}
+	
+	
+	katanas_upgrade_3 = {
+
+		# TODO: KATANA UPGRADES
+		
+	
+		path = {
+			research_cost_coeff = 1
+			leads_to_tech = advanced_weapons_1
+		}
+		
+		research_cost = 0.1
+		start_year = 1933
+		folder = {
+			name = sword_smithing_folder
+			position = { x = -3 y = 8 }
+		}
+		
+		categories = {
+			swords
+		}
+		
+		ai_will_do = {
+			factor = 1
+			
+			modifier = {
+				factor = 2
+				is_major = yes
+			}
+		}
+	}
+	
+	
+	
+	
+	
+	polearms = {
+
+		enable_equipments = {
+			polearm_basic
+		}
+		
+		enable_subunits = {
+			polearms_swordsmen
+		}
+		
+		on_research_complete_limit = {
+			NOT = {
+				has_template_containing_unit = polearms_swordsmen
+			}
+		}
+		on_research_complete = {
+			hidden_effect = {
+				load_oob = "unlock_polearms_swordsmen"
+			}
+			custom_effect_tooltip = UNLOCK_DIVISION_TEMPLATE
+		}
+		
+	
+		path = {
+			leads_to_tech = polearms_upgrade_1
+			research_cost_coeff = 1
+		}
+		
+		research_cost = 0.1
+		start_year = 1933
+		folder = {
+			name = sword_smithing_folder
+			position = { x = 0 y = 2 }
+		}
+		
+		categories = {
+			swords
+		}
+		
+		ai_will_do = {
+			factor = 1
+			
+			modifier = {
+				factor = 2
+				is_major = yes
+			}
+		}
+	}
+	
+	polearms_upgrade_1 = {
+
+		# TODO: polearm UPGRADES
+		
+	
+		path = {
+			leads_to_tech = polearms_upgrade_2
+			research_cost_coeff = 1
+		}
+		
+		research_cost = 0.1
+		start_year = 1933
+		folder = {
+			name = sword_smithing_folder
+			position = { x = 0 y = 4 }
+		}
+		
+		categories = {
+			swords
+		}
+		
+		ai_will_do = {
+			factor = 1
+			
+			modifier = {
+				factor = 2
+				is_major = yes
+			}
+		}
+	}
+	
+	
+	polearms_upgrade_2 = {
+
+		# TODO: polearm UPGRADES
+		
+	
+		path = {
+			leads_to_tech = polearms_upgrade_3
+			research_cost_coeff = 1
+		}
+		
+		research_cost = 0.1
+		start_year = 1933
+		folder = {
+			name = sword_smithing_folder
+			position = { x = 0 y = 6 }
+		}
+		
+		categories = {
+			swords
+		}
+		
+		ai_will_do = {
+			factor = 1
+			
+			modifier = {
+				factor = 2
+				is_major = yes
+			}
+		}
+	}
+	
+	
+	polearms_upgrade_3 = {
+
+		# TODO: polearm UPGRADES
+		
+	
+		path = {
+			research_cost_coeff = 1
+			leads_to_tech = advanced_weapons_1
+		}
+		
+		research_cost = 0.1
+		start_year = 1933
+		folder = {
+			name = sword_smithing_folder
+			position = { x = 2 y = 8 }
+		}
+		
+		categories = {
+			swords
+		}
+		
+		ai_will_do = {
+			factor = 1
+			
+			modifier = {
+				factor = 2
+				is_major = yes
+			}
+		}
+	}
+	
+	
+	
+	
+	
+	
+	
+	sabres = {
+
+		enable_equipments = {
+			sabre_basic
+		}
+		
+		enable_subunits = {
+			sabres_swordsmen
+		}
+		
+		on_research_complete_limit = {
+			NOT = {
+				has_template_containing_unit = sabres_swordsmen
+			}
+		}
+		on_research_complete = {
+			hidden_effect = {
+				load_oob = "unlock_sabres_swordsmen"
+			}
+			custom_effect_tooltip = UNLOCK_DIVISION_TEMPLATE
+		}
+		
+	
+		path = {
+			leads_to_tech = sabres_upgrade_1
+			research_cost_coeff = 1
+		}
+		
+		research_cost = 0.1
+		start_year = 1933
+		folder = {
+			name = sword_smithing_folder
+			position = { x = 4 y = 2 }
+		}
+		
+		categories = {
+			swords
+		}
+		
+		ai_will_do = {
+			factor = 1
+			
+			modifier = {
+				factor = 2
+				is_major = yes
+			}
+		}
+	}
+	
+	sabres_upgrade_1 = {
+
+		# TODO: sabre UPGRADES
+		
+	
+		path = {
+			leads_to_tech = sabres_upgrade_2
+			research_cost_coeff = 1
+		}
+		
+		research_cost = 0.1
+		start_year = 1933
+		folder = {
+			name = sword_smithing_folder
+			position = { x = 4 y = 4 }
+		}
+		
+		categories = {
+			swords
+		}
+		
+		ai_will_do = {
+			factor = 1
+			
+			modifier = {
+				factor = 2
+				is_major = yes
+			}
+		}
+	}
+	
+	
+	sabres_upgrade_2 = {
+
+		# TODO: sabre UPGRADES
+		
+	
+		path = {
+			leads_to_tech = sabres_upgrade_3
+			research_cost_coeff = 1
+		}
+		
+		research_cost = 0.1
+		start_year = 1933
+		folder = {
+			name = sword_smithing_folder
+			position = { x = 4 y = 6 }
+		}
+		
+		categories = {
+			swords
+		}
+		
+		ai_will_do = {
+			factor = 1
+			
+			modifier = {
+				factor = 2
+				is_major = yes
+			}
+		}
+	}
+	
+	
+	sabres_upgrade_3 = {
+
+		# TODO: sabre UPGRADES
+		
+	
+		path = {
+			research_cost_coeff = 1
+			leads_to_tech = advanced_weapons_1
+		}
+		
+		research_cost = 0.1
+		start_year = 1933
+		folder = {
+			name = sword_smithing_folder
+			position = { x = 4 y = 8 }
+		}
+		
+		categories = {
+			swords
+		}
+		
+		ai_will_do = {
+			factor = 1
+			
+			modifier = {
+				factor = 2
+				is_major = yes
+			}
+		}
+	}
+	
+	
+	
+	
+	hackers = {
+
+		enable_equipments = {
+			hacker_basic
+		}
+		
+		enable_subunits = {
+			hackers_swordsmen
+		}
+		
+		
+		on_research_complete_limit = {
+			NOT = {
+				has_template_containing_unit = hackers_swordsmen
+			}
+		}
+		on_research_complete = {
+			hidden_effect = {
+				load_oob = "unlock_hackers_swordsmen"
+			}
+			custom_effect_tooltip = UNLOCK_DIVISION_TEMPLATE
+		}
+		
+	
+		path = {
+			leads_to_tech = hackers_upgrade_1
+			research_cost_coeff = 1
+		}
+		
+		research_cost = 0.1
+		start_year = 1933
+		folder = {
+			name = sword_smithing_folder
+			position = { x = 6 y = 2 }
+		}
+		
+		categories = {
+			swords
+		}
+		
+		ai_will_do = {
+			factor = 1
+			
+			modifier = {
+				factor = 2
+				is_major = yes
+			}
+		}
+	}
+	
+	hackers_upgrade_1 = {
+
+		# TODO: hacker UPGRADES
+		
+	
+		path = {
+			leads_to_tech = hackers_upgrade_2
+			research_cost_coeff = 1
+		}
+		
+		research_cost = 0.1
+		start_year = 1933
+		folder = {
+			name = sword_smithing_folder
+			position = { x = 6 y = 4 }
+		}
+		
+		categories = {
+			swords
+		}
+		
+		ai_will_do = {
+			factor = 1
+			
+			modifier = {
+				factor = 2
+				is_major = yes
+			}
+		}
+	}
+	
+	
+	hackers_upgrade_2 = {
+
+		# TODO: hacker UPGRADES
+		
+	
+		path = {
+			leads_to_tech = hackers_upgrade_3
+			research_cost_coeff = 1
+		}
+		
+		research_cost = 0.1
+		start_year = 1933
+		folder = {
+			name = sword_smithing_folder
+			position = { x = 6 y = 6 }
+		}
+		
+		categories = {
+			swords
+		}
+		
+		ai_will_do = {
+			factor = 1
+			
+			modifier = {
+				factor = 2
+				is_major = yes
+			}
+		}
+	}
+	
+	
+	hackers_upgrade_3 = {
+
+		# TODO: hacker UPGRADES
+		
+	
+		path = {
+			research_cost_coeff = 1
+			leads_to_tech = advanced_weapons_1
+		}
+		
+		research_cost = 0.1
+		start_year = 1933
+		folder = {
+			name = sword_smithing_folder
+			position = { x = 6 y = 8 }
+		}
+		
+		categories = {
+			swords
+		}
+		
+		ai_will_do = {
+			factor = 1
+			
+			modifier = {
+				factor = 2
+				is_major = yes
+			}
+		}
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	heavy_weapons = {
+
+		enable_equipments = {
+			heavy_weapon_basic
+		}
+		
+		enable_subunits = {
+			heavy_weapons_swordsmen
+		}
+		
+		
+		on_research_complete_limit = {
+			NOT = {
+				has_template_containing_unit = heavy_weapons_swordsmen
+			}
+		}
+		on_research_complete = {
+			hidden_effect = {
+				load_oob = "unlock_heavy_weapons_swordsmen"
+			}
+			custom_effect_tooltip = UNLOCK_DIVISION_TEMPLATE
+		}
+		
+	
+		path = {
+			leads_to_tech = heavy_weapons_upgrade_1
+			research_cost_coeff = 1
+		}
+		
+		research_cost = 0.1
+		start_year = 1933
+		folder = {
+			name = sword_smithing_folder
+			position = { x = 8 y = 2 }
+		}
+		
+		categories = {
+			swords
+		}
+		
+		ai_will_do = {
+			factor = 1
+			
+			modifier = {
+				factor = 2
+				is_major = yes
+			}
+		}
+	}
+	
+	heavy_weapons_upgrade_1 = {
+
+		# TODO: heavy_weapon UPGRADES
+		
+	
+		path = {
+			leads_to_tech = heavy_weapons_upgrade_2
+			research_cost_coeff = 1
+		}
+		
+		research_cost = 0.1
+		start_year = 1933
+		folder = {
+			name = sword_smithing_folder
+			position = { x = 8 y = 4 }
+		}
+		
+		categories = {
+			swords
+		}
+		
+		ai_will_do = {
+			factor = 1
+			
+			modifier = {
+				factor = 2
+				is_major = yes
+			}
+		}
+	}
+	
+	
+	heavy_weapons_upgrade_2 = {
+
+		# TODO: heavy_weapon UPGRADES
+		
+	
+		path = {
+			leads_to_tech = heavy_weapons_upgrade_3
+			research_cost_coeff = 1
+		}
+		
+		research_cost = 0.1
+		start_year = 1933
+		folder = {
+			name = sword_smithing_folder
+			position = { x = 8 y = 6 }
+		}
+		
+		categories = {
+			swords
+		}
+		
+		ai_will_do = {
+			factor = 1
+			
+			modifier = {
+				factor = 2
+				is_major = yes
+			}
+		}
+	}
+	
+	
+	heavy_weapons_upgrade_3 = {
+
+		# TODO: heavy_weapon UPGRADES
+		
+	
+		path = {
+			research_cost_coeff = 1
+			leads_to_tech = advanced_weapons_1
+		}
+		
+		research_cost = 0.1
+		start_year = 1933
+		folder = {
+			name = sword_smithing_folder
+			position = { x = 8 y = 8 }
+		}
+		
+		categories = {
+			swords
+		}
+		
+		ai_will_do = {
+			factor = 1
+			
+			modifier = {
+				factor = 2
+				is_major = yes
+			}
+		}
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	# HIGH TIER
+	
+	advanced_weapons_1 = {
+	
+	
+		# TODO: BOOST ALL SWORDSMEN
+		
+		
+		xp_research_type = air
+		xp_unlock_cost = 100
+	
+		path = {
+			research_cost_coeff = 1
+		}
+		
+		research_cost = 0.1
+		start_year = 1933
+		folder = {
+			name = sword_smithing_folder
+			position = { x = 0 y = 10 }
+		}
+		
+		categories = {
+			swords
+		}
+		
+		ai_will_do = {
+			factor = 1
+			
+			modifier = {
+				factor = 2
+				is_major = yes
+			}
+		}
+	}
+	
+}

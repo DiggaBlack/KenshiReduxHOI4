@@ -1,0 +1,35 @@
+state={
+	id=33
+	name="STATE_33"
+	provinces={
+		631 748 1587 1853 1886 2656 3103 3389 3453 3662 3687 4621 4643 4660 4721 
+	}
+	manpower=26526
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 12    #STONE
+	}
+	
+	history = {
+		owner = CNW
+		#controller = CNW
+		add_core_of = CNW
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		
+		victory_points = { 3662 10 } # Slopp
+		victory_points = { 4643 5 } # Fanish
+	}
+	
+	local_supplies = 5.0
+}

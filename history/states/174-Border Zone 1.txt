@@ -1,0 +1,35 @@
+state={
+	id=174
+	name="STATE_174"
+	provinces={
+		1757 2123 2201 5407 5446 5526 6578 
+	}
+	manpower=34958
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		#steel = 0    #IRON
+		tungsten = 8    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = ZBD
+		#controller = ZBD
+		add_core_of = ZBD
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 2
+		}
+		
+		victory_points = { 2123 3 } # Yinja
+		victory_points = { 6578 1 } # Batter
+	}
+	
+	local_supplies = 5.0
+}

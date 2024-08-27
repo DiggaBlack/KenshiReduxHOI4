@@ -1,0 +1,35 @@
+state={
+	id=247
+	name="STATE_247"
+	provinces={
+		1493 1755 2073 2134 2271 2356 2425 3293 3696 5704 5730 5751 5756 5771 
+	}
+	manpower=34192
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = KRC
+		#controller = KRC
+		add_core_of = KRC
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 3
+		}
+		
+		victory_points = { 1755 3 } # Battleborn
+		victory_points = { 5756 1 } # Upflow
+	}
+	
+	local_supplies = 5.0
+}

@@ -1,0 +1,35 @@
+state={
+	id=302
+	name="STATE_302"
+	provinces={
+		444 653 837 1360 1471 1687 1752 2219 2221 2523 3192 3446 3763 3979 4174 5967 5973 6003 6049 6074 6090 8038 
+	}
+	manpower=30155
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		steel = 14    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = CRD
+		#controller = CRD
+		add_core_of = CRD
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 2
+		}
+		
+		victory_points = { 2219 3 } # Crablowe
+		victory_points = { 1471 1 } # Critter
+	}
+	
+	local_supplies = 5.0
+}

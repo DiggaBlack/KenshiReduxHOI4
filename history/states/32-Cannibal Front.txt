@@ -1,0 +1,35 @@
+state={
+	id=32
+	name="STATE_32"
+	provinces={
+		366 1796 1968 2366 2590 3081 3270 3730 3861 4143 4410 4651 
+	}
+	manpower=46757
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		steel = 12    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = FLC
+		#controller = FLC
+		add_core_of = FLC
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 3
+		}
+		
+		victory_points = { 2590 3 } # Fort Yell
+		victory_points = { 3270 1 } # Scoutpost
+	}
+	
+	local_supplies = 5.0
+}

@@ -1,0 +1,35 @@
+state={
+	id=375
+	name="STATE_375"
+	provinces={
+		30 317 609 1283 1470 1568 1622 1694 1965 2033 3096 3540 4104 4171 6380 6390 6405 
+	}
+	manpower=26800
+	buildings_max_level_factor=1.000
+
+
+	state_category = large_city
+	
+	resources = {
+		steel = 60    #IRON
+		tungsten = 15    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = SEM
+		#controller = SEM
+		add_core_of = SEM
+		
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 5
+		}
+		
+		victory_points = { 6390 20 } # Department of Security
+		victory_points = { 1568 10 } # Byzanta
+	}
+	
+	local_supplies = 5.0
+}

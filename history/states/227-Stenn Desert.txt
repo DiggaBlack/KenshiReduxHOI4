@@ -1,0 +1,36 @@
+state={
+	id=227
+	name="STATE_227"
+	provinces={
+		404 450 519 554 564 569 985 1008 2091 2397 3012 3031 3174 3217 3436 3473 3554 3654 3826 4196 4323 5605 5621 5624 5625 5636 5640 5647 5648 5655 5662 5664 5669 5677 5679 5685 5696 
+	}
+	manpower=137324
+	buildings_max_level_factor=1.000
+
+
+	state_category = megalopolis
+	
+	resources = {
+		steel = 32    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 20    #STONE
+	}
+	
+	history = {
+		owner = SHK
+		#controller = SHK
+		add_core_of = SHK
+		
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 4
+			arms_factory = 3
+		}
+		
+		victory_points = { 3554 30 } # Admag
+		victory_points = { 2091 3 } # Curb
+		victory_points = { 5685 1 } # Calf
+	}
+	
+	local_supplies = 5.0
+}

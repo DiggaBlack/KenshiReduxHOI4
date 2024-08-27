@@ -1,0 +1,34 @@
+state={
+	id=293
+	name="STATE_293"
+	provinces={
+		54 70 353 549 619 676 838 1115 1120 1152 1165 1174 1479 1769 2058 2143 2266 2313 2591 2770 2774 2795 2807 3142 3223 3534 3575 3636 3836 3886 3921 4151 4246 5939 5946 5948 5986 5990 5996 5999 6042 6069 6076 8033 8042 
+	}
+	manpower=76660
+	buildings_max_level_factor=1.000
+
+
+	state_category = wasteland
+	
+	resources = {
+		#steel = 0    #IRON
+		tungsten = 16    #COPPER
+		aluminium = 28    #STONE
+	}
+	
+	history = {
+		owner = BUG
+		#controller = BUG
+		add_core_of = BUG
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		
+		victory_points = { 5986 15 } # Throne Of The Bugmaster
+	}
+	
+	local_supplies = 5.0
+}

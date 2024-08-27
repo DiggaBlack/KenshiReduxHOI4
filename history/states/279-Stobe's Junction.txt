@@ -1,0 +1,34 @@
+state={
+	id=279
+	name="STATE_279"
+	provinces={
+		737 856 962 1615 1744 1906 1907 1971 3004 3189 3711 4041 5876 5893 
+	}
+	manpower=60205
+	buildings_max_level_factor=1.000
+
+
+	state_category = city
+	
+	resources = {
+		steel = 12    #IRON
+		tungsten = 14    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = COS
+		#controller = COS
+		add_core_of = COS
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 4
+			arms_factory = 1
+		}
+		
+		victory_points = { 3004 3 } # Weep
+	}
+	
+	local_supplies = 5.0
+}

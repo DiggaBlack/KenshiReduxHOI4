@@ -1,0 +1,34 @@
+state={
+	id=310
+	name="STATE_310"
+	provinces={
+		575 695 735 783 1123 1346 1508 1629 2148 2718 2906 3160 3451 3628 3630 3703 5998 6009 6043 6062 6079 6081 6082 
+	}
+	manpower=9532
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		steel = 16    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = UFF
+		#controller = UFF
+		add_core_of = UFF
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 1
+		}
+		
+		victory_points = { 3160 5 } # Lab 45
+	}
+	
+	local_supplies = 5.0
+}

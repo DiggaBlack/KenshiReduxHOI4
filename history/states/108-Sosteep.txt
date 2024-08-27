@@ -1,0 +1,35 @@
+state={
+	id=108
+	name="STATE_108"
+	provinces={
+		1447 1602 1776 2130 2228 2378 2788 3014 3083 3171 3479 3695 3778 4250 4366 5062 5110 5123 5159 5177 6533 6535 7956 7958 
+	}
+	manpower=16420
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = SCM
+		#controller = SCM
+		add_core_of = SCM
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 1
+		}
+		
+		victory_points = { 2788 1 } # Match
+		victory_points = { 3014 5 } # Paydem
+	}
+	
+	local_supplies = 5.0
+}

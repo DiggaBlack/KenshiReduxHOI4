@@ -1,0 +1,36 @@
+state={
+	id=55
+	name="STATE_55"
+	provinces={
+		11 371 815 1392 1738 1868 1983 2012 2422 2580 2652 3674 4317 4763 4809 4819 4825 4830 
+	}
+	manpower=37200
+	buildings_max_level_factor=1.000
+
+
+	state_category = pastoral
+	
+	resources = {
+		steel = 30    #IRON
+		tungsten = 20    #COPPER
+		aluminium = 40    #STONE
+	}
+	
+	history = {
+		owner = VHN
+		#controller = VHN
+		add_core_of = VHN
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 1
+		}
+		
+		victory_points = { 2652 1 } # Falten Farm Ruins
+		victory_points = { 2580 1 } # The Watchtower
+		victory_points = { 4809 10 } # Okran's Fist
+	}
+	
+	local_supplies = 2.0
+}

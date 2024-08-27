@@ -1,0 +1,36 @@
+state={
+	id=68
+	name="STATE_68"
+	provinces={
+		1741 1893 2015 2151 2974 3816 3906 4766 4769 6536 6537 6575 6584 
+	}
+	manpower=85634
+	buildings_max_level_factor=1.000
+
+
+	state_category = city
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 32    #STONE
+	}
+	
+	history = {
+		owner = YBH
+		#controller = YBH
+		add_core_of = YBH
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 2
+		}
+		
+		victory_points = { 3816 10 } # Bast City
+		victory_points = { 2015 1 } # Wybout
+		victory_points = { 4766 1 } # Rebirth Road
+	}
+	
+	local_supplies = 5.0
+}

@@ -1,0 +1,35 @@
+state={
+	id=146
+	name="STATE_146"
+	provinces={
+		27 1407 2030 3002 3252 3368 3407 3602 3978 4390 5289 5293 5300 5305 5322 5339 5360 
+	}
+	manpower=48306
+	buildings_max_level_factor=1.000
+
+
+	state_category = large_town
+	
+	resources = {
+		steel = 6    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = HLN
+		#controller = HLN
+		add_core_of = HLN
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 3
+		}
+		
+		victory_points = { 3407 3 } # Desert Husky
+		victory_points = { 3368 10 } # Southern Guardian
+	}
+	
+	local_supplies = 2.0
+}

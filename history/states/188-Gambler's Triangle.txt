@@ -1,0 +1,35 @@
+state={
+	id=188
+	name="STATE_188"
+	provinces={
+		43 934 1318 1637 1667 2272 2761 2866 3244 3378 4199 4408 5476 5528 5543 7982 
+	}
+	manpower=336
+	buildings_max_level_factor=1.000
+
+
+	state_category = wasteland
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = VIV
+		#controller = VIV
+		add_core_of = VIV
+		
+		buildings = {
+			infrastructure = 0
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		
+		#victory_points = { }
+	}
+	
+	local_supplies = 0.0
+}
+

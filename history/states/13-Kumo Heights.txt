@@ -1,0 +1,35 @@
+state={
+	id=13
+	name="STATE_13"
+	provinces={
+		456 477 526 900 1116 1250 1365 1824 1933 2159 2944 3411 3511 3771 3902 3961 3996 4133 4516 4523 4536 4554 4566 
+	}
+	manpower=14003
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		steel = 8    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 8    #STONE
+	}
+	
+	history = {
+		owner = BSM
+		#controller = BSM
+		add_core_of = BSM
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 0
+		}
+		
+		victory_points = { 1365 1 } # Conish
+		victory_points = { 1933 3 } # Banor
+	}
+	
+	local_supplies = 5.0
+}

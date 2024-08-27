@@ -1,0 +1,36 @@
+state={
+	id=4
+	name="STATE_4"
+	provinces={
+		352 577 1003 1073 1443 1603 2307 2345 2567 3280 3885 4100 4446 4447 4449 4453 4456 4458 4460 4464 4471 
+	}
+	manpower=58120
+	buildings_max_level_factor=1.000
+
+
+	state_category = city
+	
+	resources = {
+		steel = 22    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = CNE
+		#controller = CNE
+		add_core_of = CNE
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 3
+		}
+		
+		victory_points = { 1603 3 } # Dearmi
+		victory_points = { 2567 5 } # Omunch
+		victory_points = { 2345 15 } # First Village
+	}
+	
+	local_supplies = 5.0
+}

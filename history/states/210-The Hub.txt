@@ -1,0 +1,36 @@
+state={
+	id=210
+	name="STATE_210"
+	provinces={
+		327 516 1121 1154 2465 3852 5537 5572 
+	}
+	manpower=105619
+	buildings_max_level_factor=1.000
+
+
+	state_category = large_city
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 24    #STONE
+	}
+	
+	history = {
+		owner = ZHO
+		#controller = ZHO
+		add_core_of = ZHO
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 3
+			arms_factory = 3
+		}
+		
+		victory_points = { 1154 1 } # Rebel Base
+		victory_points = { 516 1 } # Kibo
+		victory_points = { 327 30 } # The Hub
+	}
+	
+	local_supplies = 5.0
+}

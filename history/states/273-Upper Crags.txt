@@ -1,0 +1,35 @@
+state={
+	id=273
+	name="STATE_273"
+	provinces={
+		235 447 490 861 1241 1969 2103 2226 2347 2948 3276 4068 5824 5867 5877 5886 5900 5907 5955 5980 
+	}
+	manpower=13056
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 18    #STONE
+	}
+	
+	history = {
+		owner = KLB
+		#controller = KLB
+		add_core_of = KLB
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 1
+		}
+		
+		victory_points = { 4068 1 } # Cogear
+		victory_points = { 1241 1 } # Oilsheen
+	}
+	
+	local_supplies = 5.0
+}

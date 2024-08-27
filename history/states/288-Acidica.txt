@@ -1,0 +1,35 @@
+state={
+	id=288
+	name="STATE_288"
+	provinces={
+		604 1086 1137 1405 1713 1795 2412 3114 3132 3195 3765 4026 5944 5962 6025 6027 
+	}
+	manpower=27246
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		#steel = 0    #IRON
+		tungsten = 8    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = WBL
+		#controller = WBL
+		add_core_of = WBL
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 0
+		}
+		
+		victory_points = { 5962 3 } # Jeek
+		victory_points = { 3195 1 } # Milkbox
+	}
+	
+	local_supplies = 5.0
+}

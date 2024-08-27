@@ -1,0 +1,35 @@
+state={
+	id=149
+	name="STATE_149"
+	provinces={
+		154 190 210 782 1870 1901 2435 2769 2978 3241 4061 4192 4235 5301 5315 5326 5334 5358 5362 5369 5377 
+	}
+	manpower=56958
+	buildings_max_level_factor=1.000
+
+
+	state_category = large_town
+	
+	resources = {
+		steel = 8    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 16    #STONE
+	}
+	
+	history = {
+		owner = MIH
+		#controller = MIH
+		add_core_of = MIH
+		
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			arms_factory = 1
+		}
+		
+		victory_points = { 5362 15 } # New Yarma
+		victory_points = { 1870 3 } # Hunker Hill
+	}
+	
+	local_supplies = 5.0
+}

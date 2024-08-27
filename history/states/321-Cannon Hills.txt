@@ -1,0 +1,35 @@
+state={
+	id=321
+	name="STATE_321"
+	provinces={
+		56 87 102 157 438 807 809 876 1330 1335 1399 1539 1917 2042 2809 2842 2892 3470 3633 3736 3916 3933 4313 4412 4441 6044 6056 6095 6129 6150 6155 6176 
+	}
+	manpower=28382
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		steel = 14    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = RSB
+		#controller = RSB
+		add_core_of = RSB
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 2
+		}
+		
+		victory_points = { 4441 5 } # Beard
+		victory_points = { 4313 2 } # Drake
+	}
+	
+	local_supplies = 5.0
+}

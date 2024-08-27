@@ -1,0 +1,34 @@
+state={
+	id=345
+	name="STATE_345"
+	provinces={
+		55 65 86 357 376 482 1045 1096 1142 1361 1377 1478 1504 1606 1746 1932 1944 2054 2297 2339 2408 2413 2481 2610 2805 3127 3552 3571 3586 3626 3888 4255 6195 6197 6207 6221 6230 6231 6233 6246 6253 6257 6270 6272 6275 6283 6290 6298 
+	}
+	manpower=28235
+	buildings_max_level_factor=1.000
+
+
+	state_category = pastoral
+	
+	resources = {
+		steel = 14    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = VBO
+		#controller = VBO
+		add_core_of = VBO
+		
+		buildings = {
+			infrastructure = 0
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		
+		#victory_points = { }
+	}
+	
+	local_supplies = 5.0
+}

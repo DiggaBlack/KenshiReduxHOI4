@@ -1,0 +1,36 @@
+state={
+	id=2
+	name="STATE_2"
+	provinces={
+		23 378 672 1024 1082 2141 2993 3777 4221 4243 4454 4459 4466 6464 
+	}
+	manpower=61304
+	buildings_max_level_factor=1.000
+
+
+	state_category = city
+	
+	resources = {
+		steel = 12    #IRON
+		tungsten = 12    #COPPER
+		aluminium = 12    #STONE
+	}
+	
+	history = {
+		owner = PRL
+		#controller = PRL
+		add_core_of = PRL
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 2
+		}
+		
+		victory_points = { 4221 10 } # Lavender City
+		victory_points = { 2993 2 } # Periwinkle
+		victory_points = { 378 1 } # Fort Mauve
+	}
+	
+	local_supplies = 5.0
+}

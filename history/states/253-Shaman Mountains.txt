@@ -1,0 +1,35 @@
+state={
+	id=253
+	name="STATE_253"
+	provinces={
+		38 104 471 693 1076 1293 1320 1658 2007 3184 3422 3939 4003 4130 4205 5720 5743 5747 5758 5772 5778 5790 5804 5812 
+	}
+	manpower=14887
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = COS
+		#controller = COS
+		add_core_of = COS
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 0
+		}
+		
+		victory_points = { 3939 1 } # Igration
+		victory_points = { 1076 10 } # Stobe's Rest
+	}
+	
+	local_supplies = 5.0
+}

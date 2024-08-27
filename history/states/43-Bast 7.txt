@@ -1,0 +1,35 @@
+state={
+	id=43
+	name="STATE_43"
+	provinces={
+		1107 1418 1572 1705 1797 3823 4671 4693 4704 4729 6589 6569 
+	}
+	manpower=56129
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		steel = 8    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 4    #STONE
+	}
+	
+	history = {
+		owner = YNS
+		#controller = YNS
+		add_core_of = YNS
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 2
+		}
+		
+		victory_points = { 4693 3 } # New Fort Mirage
+		victory_points = { 6569 1 } # Snatch
+	}
+	
+	local_supplies = 5.0
+}

@@ -1,0 +1,36 @@
+state={
+	id=131
+	name="STATE_131"
+	provinces={
+		176 513 607 628 864 1188 2643 2777 2820 3900 4164 5187 5197 5249 5310 5316 
+	}
+	manpower=55979
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		steel = 5    #IRON
+		tungsten = 20    #COPPER
+		aluminium = 5    #STONE
+	}
+	
+	history = {
+		owner = SHN
+		#controller = SHN
+		add_core_of = SHN
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 3
+		}
+		
+		victory_points = { 2820 10 } # Fort Fog
+		victory_points = { 5187 1 } # Coldon Outpost
+		victory_points = { 5316 3 } # Fort Lackey
+	}
+	
+	local_supplies = 1.0
+}

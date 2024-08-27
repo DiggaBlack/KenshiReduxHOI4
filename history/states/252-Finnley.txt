@@ -1,0 +1,35 @@
+state={
+	id=252
+	name="STATE_252"
+	provinces={
+		799 1336 2017 3051 3070 3390 3518 4007 5762 5766 5776 8011 
+	}
+	manpower=38120
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = WPU
+		#controller = WPU
+		add_core_of = WPU
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 2
+		}
+		
+		victory_points = { 3051 3 } # Popa
+		victory_points = { 3070 1 } # Hertik
+	}
+	
+	local_supplies = 5.0
+}

@@ -1,0 +1,34 @@
+state={
+	id=374
+	name="STATE_374"
+	provinces={
+		769 1080 1190 1782 1847 2552 3353 4161 6360 6388 6389 6400 6407 6413 6628 6629 
+	}
+	manpower=37365
+	buildings_max_level_factor=1.000
+
+
+	state_category = large_town
+	
+	resources = {
+		#steel = 0    #IRON
+		tungsten = 16    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = FSH
+		#controller = FSH
+		add_core_of = FSH
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 0
+		}
+		
+		victory_points = { 2552 3 } # Kapp
+	}
+	
+	local_supplies = 5.0
+}

@@ -1,0 +1,35 @@
+state={
+	id=276
+	name="STATE_276"
+	provinces={
+		76 127 1966 3109 3754 3988 4226 
+	}
+	manpower=93014
+	buildings_max_level_factor=1.000
+
+
+	state_category = city
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = SWA
+		#controller = SWA
+		add_core_of = SWA
+		
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 4
+			arms_factory = 1
+		}
+		
+		victory_points = { 3988 15 } # Shab
+		victory_points = { 3109 10 } # Muck
+	}
+	
+	local_supplies = 5.0
+}

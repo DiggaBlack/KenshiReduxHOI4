@@ -1,0 +1,34 @@
+state={
+	id=193
+	name="STATE_193"
+	provinces={
+		34 565 736 1236 2743 3228 3546 4202 5474 5493 5503 5515 5558 
+	}
+	manpower=51294
+	buildings_max_level_factor=1.000
+
+
+	state_category = large_town
+	
+	resources = {
+		steel = 10    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = WEH
+		#controller = WEH
+		add_core_of = WEH
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 1
+		}
+		
+		victory_points = { 5503 3 } # Humit
+	}
+	
+	local_supplies = 5.0
+}

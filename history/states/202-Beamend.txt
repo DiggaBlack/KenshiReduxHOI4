@@ -1,0 +1,35 @@
+state={
+	id=202
+	name="STATE_202"
+	provinces={
+		412 1204 1426 1466 1531 2284 2326 2468 2599 2793 3011 3256 3264 3589 4128 4168 5501 5516 5527 5529 5538 5544 
+	}
+	manpower=142958
+	buildings_max_level_factor=1.000
+
+
+	state_category = metropolis
+	
+	resources = {
+		steel = 6    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 12    #STONE
+	}
+	
+	history = {
+		owner = SUC
+		#controller = SUC
+		add_core_of = SUC
+		
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 6
+			arms_factory = 2
+		}
+		
+		victory_points = { 412 30 } # Brink
+		victory_points = { 3011 3 } # Rim
+	}
+	
+	local_supplies = 5.0
+}

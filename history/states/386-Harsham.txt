@@ -1,0 +1,36 @@
+state={
+	id=386
+	name="STATE_386"
+	provinces={
+		264 574 1730 2258 2386 2965 2987 3018 3780 3947 4012 4563 4581 4593 4601 4606
+	}
+	manpower=38355
+	buildings_max_level_factor=1.000
+
+
+	state_category = large_town
+	
+	resources = {
+		steel = 24    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = CNW
+		#controller = CNW
+		add_core_of = CNW
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 2
+		}
+		
+		victory_points = { 574 3 } # Fork
+		victory_points = { 574 2 } # Viscoss
+		victory_points = { 3018 10 } # Magg Bay
+	}
+	
+	local_supplies = 5.0
+}

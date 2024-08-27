@@ -1,0 +1,35 @@
+state={
+	id=45
+	name="STATE_45"
+	provinces={
+		45 60 497 1276 2979 3403 4655 4675 4707 6560 
+	}
+	manpower=47618
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		steel = 12    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = YOE
+		#controller = YOE
+		add_core_of = YOE
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 2
+		}
+		
+		victory_points = { 2979 3 } # Abaddon
+		victory_points = { 45 1 } # Kovner
+	}
+	
+	local_supplies = 5.0
+}

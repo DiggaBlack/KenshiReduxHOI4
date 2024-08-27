@@ -1,0 +1,132 @@
+﻿l_russian:
+ STRATEGICREGION_1: "Тестовый регион"  #NT!
+ STRATEGICREGION_2: "Пепельная область"  #NT!
+ STRATEGICREGION_3: "Великая Восточная Пустыня"  #NT!
+ STRATEGICREGION_4:  "Залив Мучеников"  #NT!
+ STRATEGICREGION_5: "Западные воды Рыболюдей"  #NT!
+ STRATEGICREGION_6: "Своенравное море"  #NT!
+ STRATEGICREGION_7: "Верхние острова западного улья"  #NT!
+ STRATEGICREGION_8:  "Тайдингс Море"  #NT!
+ STRATEGICREGION_9: "Южный океан"  #NT!
+ STRATEGICREGION_10: "Южное море ввиде крюка"  #NT!
+ STRATEGICREGION_11: "Море скорби"  #NT!
+ STRATEGICREGION_12: "Избегаемая береговая линия"  #NT!
+ STRATEGICREGION_13: "Море проводов"  #NT!
+ STRATEGICREGION_14: "Королевское море"  #NT!
+ STRATEGICREGION_15: "Мятежное море"  #NT!
+ STRATEGICREGION_16: "Северо-западное море Левиафана"  #NT!
+ STRATEGICREGION_17: "Северо-восточное море Левиафана"  #NT!
+ STRATEGICREGION_18:  "Механическое море"  #NT!
+ STRATEGICREGION_19: "Побережье роскоши"  #NT!
+ STRATEGICREGION_20: "Локк Саунд"  #NT!
+ STRATEGICREGION_21: "Юргенское море"  #NT!
+ STRATEGICREGION_22: "Железное море"  #NT!
+ STRATEGICREGION_23: "Сто островов"  #NT!
+ STRATEGICREGION_24: "Бухта Монстров"  #NT!
+ STRATEGICREGION_25: "Костяной берег"  #NT!
+ STRATEGICREGION_26: "Каннибальские равнины"  #NT!
+ STRATEGICREGION_27: "Центральный Крюк"  #NT!
+ STRATEGICREGION_28: "Восточный Крюк" #NT!
+ STRATEGICREGION_29: "Обод обманщиков"  #NT!
+ STRATEGICREGION_30: "Остров Рыболюдей"  #NT!
+ STRATEGICREGION_31: "Подножие горы"  #NT!
+ STRATEGICREGION_32: "Берег Левиафана"  #NT!
+ STRATEGICREGION_33: "Нижняя область тщеславия"  #NT!
+ STRATEGICREGION_34: "Северо-Западные леса"  #NT!
+ STRATEGICREGION_35: "Северное побережье"  #NT!
+ STRATEGICREGION_36: "Юго-Западный Крюк"  #NT!
+ STRATEGICREGION_37: "Запретный остров"  #NT!
+ STRATEGICREGION_38: "Зелёный пляж"  #NT!
+ STRATEGICREGION_39: "Лабиринт ревунов"  #NT!
+ STRATEGICREGION_40: "Штормовой берег"  #NT!
+ STRATEGICREGION_41: "Ямы" #NT!
+ STRATEGICREGION_42: "Кишка"  #NT!
+ STRATEGICREGION_43:  "Вихревые ветры"  #NT!
+ STRATEGICREGION_44: "Бухта невозврата"  #NT!
+ STRATEGICREGION_45: "Море обманщиков"  #NT!
+ STRATEGICREGION_46: "Голубое море"  #NT!
+ STRATEGICREGION_47: "Берега Калтена"  #NT!
+ STRATEGICREGION_48: "Конец дороги"  #NT!
+ STRATEGICREGION_49: "Серое море"  #NT!
+ STRATEGICREGION_50: "Бухта ревунов"  #NT!
+ STRATEGICREGION_51: "Море Арфистов"  #NT!
+ STRATEGICREGION_52: "Народно море"  #NT!
+ STRATEGICREGION_53:  "Восточные воды рыболюдей"  #NT!
+ STRATEGICREGION_54: "Фарсское море"  #NT!
+ STRATEGICREGION_55: "Море Темных пальцев"  #NT!
+ STRATEGICREGION_56: "Море Авалон"  #NT!
+ STRATEGICREGION_57: "Уход Левиафана"  #NT!
+ STRATEGICREGION_58: "Восточный океан"  #NT!
+ STRATEGICREGION_59: "Юго-восточный океан"  #NT!
+ STRATEGICREGION_59: "Западный океан">  #NT!
+ STRATEGICREGION_60: "Юго-Западный океан"  #NT!
+ STRATEGICREGION_61: "Квадрат 1"  #NT!
+ STRATEGICREGION_62: "Квадрат 2"  #NT!
+ STRATEGICREGION_63: "Квадрат 3" #NT!
+ STRATEGICREGION_64: "Квадрат 4" #NT!
+ STRATEGICREGION_65: "Юго-Восточный океан"  #NT!
+ STRATEGICREGION_66: "Северо-Восточный океан"  #NT!
+ STRATEGICREGION_67: "Северное песчаное море"  #NT!
+ STRATEGICREGION_68: "Баст"  #NT!
+ STRATEGICREGION_69: "Темный палец"  #NT!
+ STRATEGICREGION_70: "Туманные острова"  #NT!
+ STRATEGICREGION_71: "Золотая полоса"  #NT!
+ STRATEGICREGION_72: "Пустыня Хэнг"  #NT!
+ STRATEGICREGION_73: "Святые горы"  #NT!
+ STRATEGICREGION_74: "Долина Окрана"  #NT!
+ STRATEGICREGION_75: "Синкуун"  #NT!
+ STRATEGICREGION_76: "Скользкие пески"  #NT!
+ STRATEGICREGION_77: "Край одиночества"  #NT!
+ STRATEGICREGION_78: "Черная пустыня"  #NT!
+ STRATEGICREGION_79: "Край"  #NT!
+ STRATEGICREGION_80: "Восточный БЗ"  #NT!
+ STRATEGICREGION_81: "Западный БЗ"  #NT!
+ STRATEGICREGION_82: "Восточные Отбросы"  #NT!
+ STRATEGICREGION_83: "Затопленные земли"  #NT!
+ STRATEGICREGION_84: "Серая пустыня"  #NT!
+ STRATEGICREGION_85: "Скрытый лес"  #NT!
+ STRATEGICREGION_86: "Железные долины"  #NT!
+ STRATEGICREGION_87: "Край послушания"  #NT!
+ STRATEGICREGION_88: "Северный залив Окрана"  #NT!
+ STRATEGICREGION_89: "Залив Окрана"  #NT!
+ STRATEGICREGION_90: "Рот Окрана"  #NT!
+ STRATEGICREGION_91: "Стена Окрана"  #NT!
+ STRATEGICREGION_92: "Гордость Окрана"  #NT!
+ STRATEGICREGION_93: "Глаз"  #NT!
+ STRATEGICREGION_94: "Край живодёров"  #NT!
+ STRATEGICREGION_95: "Манящий край"  #NT!
+ STRATEGICREGION_96: "Запределье"  #NT!
+ STRATEGICREGION_97: "Нежелательная зона"  #NT!
+ STRATEGICREGION_98: "Верхний область тщеславия"  #NT!
+ STRATEGICREGION_99: "Месть"  #NT!
+ STRATEGICREGION_100: "Мертвые земли"  #NT!
+ STRATEGICREGION_101: "Арач"  #NT!
+ STRATEGICREGION_102: "Пустыня Стенна"  #NT!
+ STRATEGICREGION_103: "Пепельная земля"  #NT!
+ STRATEGICREGION_104: "Избегаемая территория"  #NT!
+ STRATEGICREGION_105: "Звонкая темнота"  #NT!
+ STRATEGICREGION_106: "Паучьи равнины"  #NT!
+ STRATEGICREGION_107: "Каньон Сквина"  #NT!
+ STRATEGICREGION_108: "Выженные земли"  #NT!
+ STRATEGICREGION_109: "Костяные поля"  #NT!
+ STRATEGICREGION_110: "Кристалльное плато"  #NT!
+ STRATEGICREGION_111: "Перевал Сорвиголовы"  #NT!
+ STRATEGICREGION_112: "Костяные Поля">  #NT!
+ STRATEGICREGION_113: "Сим"  #NT!
+ STRATEGICREGION_114: "Южные Болота"  #NT!
+ STRATEGICREGION_115: "Юго-восточная зона боевых действий"  #NT!
+ STRATEGICREGION_116: "Авантюра Стоба"  #NT!
+ STRATEGICREGION_117: "Сад Стоба"  #NT!
+ STRATEGICREGION_118: "Пылающий лес"  #NT!
+ STRATEGICREGION_119: "Скалы"  #NT!
+ STRATEGICREGION_120: "Кратер"  #NT!
+ STRATEGICREGION_121: "Сетка"  #NT!
+ STRATEGICREGION_122: "Ямы"  #NT!
+ STRATEGICREGION_123: "Болото"  #NT!
+ STRATEGICREGION_124: "Площадка Наблюдателя"  #NT!
+ STRATEGICREGION_125: "Края костяного поля"  #NT!
+ STRATEGICREGION_126: "Плоская лагуна"  #NT!
+ STRATEGICREGION_127: "Великие Белые горы"  #NT!
+ STRATEGICREGION_128: "Грейшельф"  #NT!
+ STRATEGICREGION_129: "Снайперские долины"  #NT!
+ STRATEGICREGION_130: "Южный улей"  #NT!

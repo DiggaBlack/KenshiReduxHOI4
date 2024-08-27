@@ -1,0 +1,34 @@
+state={
+	id=356
+	name="STATE_356"
+	provinces={
+		112 180 209 618 933 1091 1157 1278 1869 1957 2321 2765 2911 3068 3508 3640 3992 4267 6274 6303 6325 6333 6351 6367 
+	}
+	manpower=7200
+	buildings_max_level_factor=1.000
+
+
+	state_category = large_town
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = SEM
+		#controller = SEM
+		add_core_of = SEM
+		
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 2
+		}
+		
+		victory_points = { 2911 5 } # Seazar
+	}
+	
+	local_supplies = 5.0
+}

@@ -1,0 +1,35 @@
+state={
+	id=304
+	name="STATE_304"
+	provinces={
+		24 116 189 348 665 827 989 1923 2306 2472 2631 2687 2808 2967 3175 3234 3247 3699 3956 4300 4399 5943 5961 6061 6078 
+	}
+	manpower=36123
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 16    #STONE
+	}
+	
+	history = {
+		owner = THB
+		#controller = THB
+		add_core_of = THB
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+		}
+		
+		victory_points = { 989 1 } # Farce
+		victory_points = { 348 1 } # Mence
+	}
+	
+	local_supplies = 5.0
+}

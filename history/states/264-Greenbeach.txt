@@ -1,0 +1,37 @@
+state={
+	id=264
+	name="STATE_264"
+	provinces={
+		242 389 523 1138 1235 1369 1485 2421 2433 3141 3653 3993 4000 4126 4338 5709 5728 5765 5782 5813 5818 5847 5851 5868 5909 8021 
+	}
+	manpower=48958
+	buildings_max_level_factor=1.000
+
+
+	state_category = city
+	
+	resources = {
+		steel = 6    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 18    #STONE
+	}
+	
+	history = {
+		owner = CRD
+		#controller = CRD
+		add_core_of = CRD
+		
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 2
+		}
+		
+		victory_points = { 1369 1 } # Fort Scarab
+		victory_points = { 5851 7 } # Crabbington
+		victory_points = { 3653 3 } # Crust
+		victory_points = { 5728 1 } # Rave Isle
+	}
+	
+	local_supplies = 5.0
+}

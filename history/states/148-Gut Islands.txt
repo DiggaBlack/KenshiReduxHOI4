@@ -1,0 +1,34 @@
+state={
+	id=148
+	name="STATE_148"
+	provinces={
+		3715 4172 3977 6565 6580 6546 6549 6544 6547 6545 6553 5282 5285 6557 6561 6562 
+	}
+	manpower=3824
+	buildings_max_level_factor=1.000
+
+
+	state_category = small_island
+	
+	resources = {
+		#steel = 0    #IRON
+		tungsten = 10    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = VGT
+		#controller = VGT
+		add_core_of = VGT
+		
+		buildings = {
+			infrastructure = 0
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		
+		victory_points = { 6562 1 } # No-Face's Island
+	}
+	
+	local_supplies = 5.0
+}

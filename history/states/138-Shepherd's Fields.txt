@@ -1,0 +1,34 @@
+state={
+	id=138
+	name="STATE_138"
+	provinces={
+		191 313 344 1248 1974 2061 3707 3760 5218 5222 5227 5228 5236 5244 
+	}
+	manpower=73139
+	buildings_max_level_factor=1.000
+
+
+	state_category = large_town
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = HLN
+		#controller = HLN
+		add_core_of = HLN
+		
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			arms_factory = 0
+		}
+		
+		victory_points = { 3760 5 } # Allison
+	}
+	
+	local_supplies = 3.0
+}

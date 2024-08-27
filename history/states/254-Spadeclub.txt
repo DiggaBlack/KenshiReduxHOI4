@@ -1,0 +1,35 @@
+state={
+	id=254
+	name="STATE_254"
+	provinces={
+		395 446 937 1083 1467 2878 2954 3314 3998 4175 4182 5777 5785 5799 5814 5815 5825 8009 8012 
+	}
+	manpower=29140
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		steel = 8    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 8    #STONE
+	}
+	
+	history = {
+		owner = WBE
+		#controller = WBE
+		add_core_of = WBE
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 3
+		}
+		
+		victory_points = { 5799 3 } # Sashidasu
+		victory_points = { 2954 1 } # Swampsand
+	}
+	
+	local_supplies = 5.0
+}

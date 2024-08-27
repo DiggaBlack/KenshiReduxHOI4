@@ -1,0 +1,35 @@
+state={
+	id=3
+	name="STATE_3"
+	provinces={
+		6 596 616 785 998 1144 1179 1310 2140 2430 2480 2502 2988 2996 3093 3165 3219 3412 3685 3905 3949 4443 4473 4475 4484 4500 4522 
+	}
+	manpower=46794
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		#steel = 0    #IRON
+		tungsten = 16    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = FRB
+		#controller = FRB
+		add_core_of = FRB
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 1
+		}
+		
+		victory_points = { 3219 1 } # Trim
+		victory_points = { 2430 5 } # Franks
+	}
+	
+	local_supplies = 5.0
+}

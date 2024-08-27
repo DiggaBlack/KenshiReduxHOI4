@@ -1,0 +1,35 @@
+state={
+	id=84
+	name="STATE_84"
+	provinces={
+		170 457 625 829 889 1180 1193 1288 1342 1534 1728 1995 2126 2349 2418 3166 3284 3331 3455 3465 3550 3592 3967 4113 4138 4354 4363 4431 4432 4876 4909 4933 4974 4984 4991 4996 5008 5009 5020 5044 5047 5058 5059 5078 5091 
+	}
+	manpower=67140
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 24    #STONE
+	}
+	
+	history = {
+		owner = TDG
+		#controller = TDG
+		add_core_of = TDG
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 3
+			arms_factory = 0
+		}
+		
+		victory_points = { 1728 3 } # Flow
+		victory_points = { 4909 5 } # Port East
+	}
+	
+	local_supplies = 5.0
+}

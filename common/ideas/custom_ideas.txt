@@ -1,0 +1,19 @@
+ideas = {
+    country = {
+	    HLN_idea_one = {
+		
+		    removal_cost = -1
+			
+			allowed = {
+			
+			}
+			
+			picture = GFX_
+			
+			modifier = {
+			    stability_factor = 0.1
+				ai_focus_defense_factor = 0.1
+			}
+		}
+	}
+}

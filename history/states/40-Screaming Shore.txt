@@ -1,0 +1,34 @@
+state={
+	id=40
+	name="STATE_40"
+	provinces={
+		1552 1790 2096 2205 2867 3491 4630 4662 4674 4679 
+	}
+	manpower=24059
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = CNE
+		#controller = CNE
+		add_core_of = CNE
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 1
+		}
+		
+		victory_points = { 2096 1 } # Shave
+	}
+	
+	local_supplies = 5.0
+}

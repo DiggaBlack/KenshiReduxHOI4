@@ -1,0 +1,36 @@
+state={
+	id=98
+	name="STATE_98"
+	provinces={
+		103 125 1219 1557 1581 2301 2605 2649 2910 3037 3108 3292 3551 4129 4218 5015 5016 5035 5057 5084 5148 
+	}
+	manpower=25104
+	buildings_max_level_factor=1.000
+
+
+	state_category = pastoral
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 24    #STONE
+	}
+	
+	history = {
+		owner = SHN
+		#controller = SHN
+		add_core_of = SHN
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 1
+		}
+		
+		victory_points = { 125 1 } # Floodwatch
+		victory_points = { 2910 5 } # Bone Canyon
+		victory_points = { 2605 3 } # Gallan
+	}
+	
+	local_supplies = 1.0
+}

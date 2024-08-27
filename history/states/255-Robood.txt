@@ -1,0 +1,35 @@
+state={
+	id=255
+	name="STATE_255"
+	provinces={
+		17 306 485 764 802 1017 1292 1610 1611 1762 1852 2543 2573 3679 3725 5757 5774 5779 5795 5796 5811 5842 5898 8014 8016 8018 8019 8020 8022 
+	}
+	manpower=36428
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = WGR
+		#controller = WGR
+		add_core_of = WGR
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+		}
+		
+		victory_points = { 1611 5 } # Teefree
+		victory_points = { 1017 3 } # Misha
+	}
+	
+	local_supplies = 5.0
+}

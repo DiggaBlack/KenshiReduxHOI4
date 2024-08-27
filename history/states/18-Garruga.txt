@@ -1,0 +1,37 @@
+state={
+	id=18
+	name="STATE_18"
+	provinces={
+		145 543 988 1005 1079 1164 1200 1383 1521 2171 2207 2525 2547 2634 2716 3120 3300 3313 3382 3450 3611 3758 3938 4011 4173 4265 4322 4504 4512 4514 4517 4527 4529 4537 4546 4569 4571 4572 4597 4598 4625 4639 4652 4668 
+	}
+	manpower=45399
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 26    #STONE
+	}
+	
+	history = {
+		owner = UNC
+		#controller = UNC
+		add_core_of = UNC
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+		}
+		
+		victory_points = { 2716 5 } # Fort Keepin
+		victory_points = { 4529 1 } # Infron
+		victory_points = { 3120 3 } # Benvit
+		victory_points = { 1164 1 } # Cheek
+	}
+	
+	local_supplies = 5.0
+}

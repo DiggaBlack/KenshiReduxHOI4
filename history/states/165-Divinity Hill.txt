@@ -1,0 +1,34 @@
+state={
+	id=165
+	name="STATE_165"
+	provinces={
+		890 2146 2264 2684 4357 5348 5354 5383 5388 
+	}
+	manpower=37333
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		steel = 10    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = HLN
+		#controller = HLN
+		add_core_of = HLN
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+		}
+		
+		victory_points = { 5348 1 } # Fashite
+	}
+	
+	local_supplies = 0.0
+}

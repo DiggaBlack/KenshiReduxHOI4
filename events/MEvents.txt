@@ -1,0 +1,26 @@
+add_namespace = events
+
+news_event = {
+	id = events.1
+	title = events.1.t
+	desc = events.1.d
+	picture = GFX_news_event_001
+	
+	major = yes
+	
+	mean_time_to_happen = {
+
+	days = 1
+}
+	
+    trigger = {
+      date > 5000.1.1
+      date < 5000.1.2
+       }
+	option = {
+		name = events.1.a
+       }
+}
+	
+	
+	

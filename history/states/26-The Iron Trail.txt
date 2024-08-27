@@ -1,0 +1,34 @@
+state={
+	id=26
+	name="STATE_26"
+	provinces={
+		976 1251 2257 2597 3233 4574 4576 
+	}
+	manpower=25915
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		steel = 30    #IRON
+		tungsten = 12    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = ILC
+		#controller = ILC
+		add_core_of = ILC
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 1
+		}
+		
+		victory_points = { 3233 3 } # Cape Copper
+	}
+	
+	local_supplies = 5.0
+}

@@ -1,0 +1,35 @@
+state={
+	id=207
+	name="STATE_207"
+	provinces={
+		117 166 294 373 547 957 1211 1793 2100 2434 2924 3277 3792 4112 4154 4353 5505 5535 5576 5612 7945 7981 
+	}
+	manpower=34015
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		steel = 16    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 16    #STONE
+	}
+	
+	history = {
+		owner = GRP
+		#controller = GRP
+		add_core_of = GRP
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 2
+		}
+		
+		victory_points = { 117 3 } # Edd Lake
+		victory_points = { 957 1 } # Kubass Bridge
+	}
+	
+	local_supplies = 5.0
+}

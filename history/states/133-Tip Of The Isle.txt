@@ -1,0 +1,35 @@
+state={
+	id=133
+	name="STATE_133"
+	provinces={
+		63 246 410 991 1226 2068 2571 2732 3251 3296 3577 3759 4228 5212 5224 5248 5264 5280 6555 
+	}
+	manpower=56841
+	buildings_max_level_factor=1.000
+
+
+	state_category = city
+	
+	resources = {
+		steel = 54    #IRON
+		tungsten = 20    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = OGD
+		#controller = OGD
+		add_core_of = OGD
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 4
+		}
+		
+		victory_points = { 410 2 } # Salta Labs
+		victory_points = { 63 5 } # Purpose
+	}
+	
+	local_supplies = 5.0
+}

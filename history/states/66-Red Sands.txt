@@ -1,0 +1,34 @@
+state={
+	id=66
+	name="STATE_66"
+	provinces={
+		241 582 635 909 1462 1756 3444 3637 3738 4261 4754 4789 4802 4813 
+	}
+	manpower=9925
+	buildings_max_level_factor=1.000
+
+
+	state_category = pastoral
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = BRN
+		#controller = BRN
+		add_core_of = BRN
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 1
+		}
+		
+		victory_points = { 4813 1 } # Talisman
+	}
+	
+	local_supplies = 5.0
+}

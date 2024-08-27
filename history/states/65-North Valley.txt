@@ -1,0 +1,34 @@
+state={
+	id=65
+	name="STATE_65"
+	provinces={
+		121 747 798 1891 1942 2113 2604 2742 4080 4751 4821 4829 4831 
+	}
+	manpower=11700
+	buildings_max_level_factor=1.000
+
+
+	state_category = pastoral
+	
+	resources = {
+		#steel = 0    #IRON
+		tungsten = 10    #COPPER
+		aluminium = 10    #STONE
+	}
+	
+	history = {
+		owner = VHN
+		#controller = VHN
+		add_core_of = VHN
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		
+		victory_points = { 2604 1 } # Cambolt Farm
+	}
+	
+	local_supplies = 0.0
+}

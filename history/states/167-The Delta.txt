@@ -1,0 +1,35 @@
+state={
+	id=167
+	name="STATE_167"
+	provinces={
+		887 952 1213 1542 1900 2500 2926 3376 3425 3831 5357 5375 5382 
+	}
+	manpower=138159
+	buildings_max_level_factor=1.000
+
+
+	state_category = large_city
+	
+	resources = {
+		steel = 12    #IRON
+		tungsten = 12    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = WEH
+		#controller = WEH
+		add_core_of = WEH
+		
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 5
+			arms_factory = 2
+		}
+		
+		victory_points = { 1542 30 } # Big Trig
+		victory_points = { 5382 3 } # Altachek
+	}
+	
+	local_supplies = 5.0
+}

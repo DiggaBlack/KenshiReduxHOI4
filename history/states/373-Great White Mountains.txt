@@ -1,0 +1,34 @@
+state={
+	id=373
+	name="STATE_373"
+	provinces={
+		199 296 301 455 560 801 1102 2578 3623 3722 6369 6374 6387 6399 6409 6414 6421 
+	}
+	manpower=6295
+	buildings_max_level_factor=1.000
+
+
+	state_category = wasteland
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = SOH
+		#controller = SOH
+		add_core_of = SOH
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		
+		#victory_points = { }
+	}
+	
+	local_supplies = 5.0
+}

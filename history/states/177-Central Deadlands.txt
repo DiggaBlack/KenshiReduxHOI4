@@ -1,0 +1,34 @@
+state={
+	id=177
+	name="STATE_177"
+	provinces={
+		164 207 2048 2574 2607 3128 7972 7974 7976 
+	}
+	manpower=8918
+	buildings_max_level_factor=1.000
+
+
+	state_category = pastoral
+	
+	resources = {
+		steel = 16    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = VIV
+		#controller = VIV
+		add_core_of = VIV
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		
+		#victory_points = { }
+	}
+	
+	local_supplies = 0.0
+}

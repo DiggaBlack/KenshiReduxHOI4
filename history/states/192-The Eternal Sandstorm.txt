@@ -1,0 +1,34 @@
+state={
+	id=192
+	name="STATE_192"
+	provinces={
+		674 1106 1625 2537 3130 3310 3384 5465 5483 5486 
+	}
+	manpower=3204
+	buildings_max_level_factor=1.000
+
+
+	state_category = wasteland
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = HMU
+		#controller = HMU
+		add_core_of = HMU
+		
+		buildings = {
+			infrastructure = 0
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		
+		#victory_points = { }
+	}
+	
+	local_supplies = 5.0
+}

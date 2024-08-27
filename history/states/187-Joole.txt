@@ -1,0 +1,35 @@
+state={
+	id=187
+	name="STATE_187"
+	provinces={
+		159 280 434 1090 1256 2039 2088 2865 2959 3034 4336 5507 5522 5541 5563 
+	}
+	manpower=71726
+	buildings_max_level_factor=1.000
+
+
+	state_category = city
+	
+	resources = {
+		steel = 14    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = WEH
+		#controller = WEH
+		add_core_of = WEH
+		
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 4
+			arms_factory = 1
+		}
+		
+		victory_points = { 159 5 } # Eeloo
+		victory_points = { 1256 1 } # Gilly
+	}
+	
+	local_supplies = 5.0
+}

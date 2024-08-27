@@ -1,0 +1,35 @@
+state={
+	id=372
+	name="STATE_372"
+	provinces={
+		1124 1297 1670 2505 2655 2821 3187 3429 6364 6379 6383 6431 1688 
+	}
+	manpower=18427
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = FSH
+		#controller = FSH
+		add_core_of = FSH
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 0
+		}
+		
+		victory_points = { 6364 1 } # Somme
+		victory_points = { 1688 1 } # Roll Isle
+	}
+	
+	local_supplies = 5.0
+}

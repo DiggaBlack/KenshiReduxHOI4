@@ -1,0 +1,75 @@
+focus_tree = {
+	id = HLN_focus
+	
+	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			tag = HLN
+		}
+	}
+	
+	default = no
+	
+	focus = {
+		id = focus1
+		icon = GFX_focus_HLN_cher
+		x = 5
+		y = 2
+		cost = 5
+		completion_reward = {
+		    add_political_power = 50
+		}
+	}
+	
+	focus = {
+		id = focus2
+		prerequisite = { focus = focus1 }
+		icon = GFX_focus_HLN_temple
+		x = 5
+		y = 3
+		cost = 20
+		completion_reward = {
+		    add_war_support = 0.1
+			add_stability = 0.1
+		}
+	}
+	
+	focus = {
+		id = focus3
+		prerequisite = { focus = focus1 }
+		icon = GFX_focus_HLN_stand
+		x = 7
+		y = 3
+		cost = 15
+		completion_reward = {
+		    add_research_slot = 1
+		}
+	}
+	
+	focus = {
+		id = focus4
+		prerequisite = { focus = focus1 }
+		icon = GFX_
+		x = 3
+		y = 3
+		cost = 10
+		completion_reward = {
+
+		}
+	}
+	
+	
+	
+	
+	focus = {
+		id = focus5
+		icon = GFX_
+		x = 10
+		y = 2
+		cost = 15
+		completion_reward = {
+
+		}
+	}
+}

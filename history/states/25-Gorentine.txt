@@ -1,0 +1,35 @@
+state={
+	id=25
+	name="STATE_25"
+	provinces={
+		16 50 942 2616 2633 2803 3677 4008 4213 4567 4585 4596 4603 4613 
+	}
+	manpower=33215
+	buildings_max_level_factor=1.000
+
+
+	state_category = large_town
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = CNE
+		#controller = CNE
+		add_core_of = CNE
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 2
+		}
+		
+		victory_points = { 942 1 } # Skullpoint
+		victory_points = { 3677 1 } # Glob
+	}
+	
+	local_supplies = 5.0
+}

@@ -1,0 +1,34 @@
+state={
+	id=71
+	name="STATE_71"
+	provinces={
+		129 673 863 886 1065 1185 2657 2667 2942 3399 3434 3617 3683 4332 4782 4786 4791 4828 4839 4842 4861 
+	}
+	manpower=17059
+	buildings_max_level_factor=1.000
+
+
+	state_category = pastoral
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = SKV
+		#controller = SKV
+		add_core_of = SKV
+		
+		buildings = {
+			infrastructure = 0
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		
+		victory_points = { 3434 1 } # The Old Workshop
+	}
+	
+	local_supplies = 5.0
+}

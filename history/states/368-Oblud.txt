@@ -1,0 +1,34 @@
+state={
+	id=368
+	name="STATE_368"
+	provinces={
+		98 243 359 1135 1327 1491 1621 2125 3204 3833 4140 6350 6368 6376 6392 
+	}
+	manpower=32853
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 8    #STONE
+	}
+	
+	history = {
+		owner = SOH
+		#controller = SOH
+		add_core_of = SOH
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+		}
+		
+		victory_points = { 2125 10 } # Oblud City
+	}
+	
+	local_supplies = 5.0
+}

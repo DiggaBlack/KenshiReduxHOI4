@@ -1,0 +1,34 @@
+state={
+	id=315
+	name="STATE_315"
+	provinces={
+		399 405 428 822 1131 1546 2158 2379 2442 2454 2905 3568 3735 6055 6092 6097 6102 6136 
+	}
+	manpower=9038
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = BLB
+		#controller = BLB
+		add_core_of = BLB
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 1
+		}
+		
+		victory_points = { 6092 3 } # Stagger
+	}
+	
+	local_supplies = 5.0
+}

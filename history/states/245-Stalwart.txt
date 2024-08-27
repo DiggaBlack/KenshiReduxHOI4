@@ -1,0 +1,35 @@
+state={
+	id=245
+	name="STATE_245"
+	provinces={
+		429 1027 1171 1304 1514 2191 2211 3335 4162 4280 4307 4348 4426 5725 5736 
+	}
+	manpower=62325
+	buildings_max_level_factor=1.000
+
+
+	state_category = city
+	
+	resources = {
+		steel = 16    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = SHK
+		#controller = SHK
+		add_core_of = SHK
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 3
+		}
+		
+		victory_points = { 4307 15 } # The Great Fortress
+		victory_points = { 2191 3 } # Hart
+	}
+	
+	local_supplies = 5.0
+}

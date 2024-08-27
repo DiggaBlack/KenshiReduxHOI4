@@ -1,0 +1,35 @@
+state={
+	id=383
+	name="STATE_383"
+	provinces={
+		203 424 778 1729 1978 3205 3307 3442 3542 4193 6437 6457 6460 
+	}
+	manpower=41850
+	buildings_max_level_factor=1.000
+
+
+	state_category = large_town
+	
+	resources = {
+		steel = 12    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = SRR
+		#controller = SRR
+		add_core_of = SRR
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 2
+		}
+		
+		victory_points = { 3307 5 } # New Rayner
+		victory_points = { 1729 3 } # Camp Hadel
+	}
+	
+	local_supplies = 5.0
+}

@@ -1,0 +1,36 @@
+state={
+	id=161
+	name="STATE_161"
+	provinces={
+		814 1279 1708 1829 2260 2644 2714 3017 3745 3835 4327 5327 5340 5343 5400 5419 5420 
+	}
+	manpower=23103
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		steel = 4    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = HLN
+		#controller = HLN
+		add_core_of = HLN
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+		}
+		
+		victory_points = { 5420 5 } # Fort Till
+		victory_points = { 3017 3 } # Camp Greed
+		victory_points = { 3835 1 } # Shmanoville
+	}
+	
+	local_supplies = 2.0
+}

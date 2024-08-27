@@ -1,0 +1,34 @@
+state={
+	id=86
+	name="STATE_86"
+	provinces={
+		185 1025 1345 2168 3064 4898 4945 4960 
+	}
+	manpower=12256
+	buildings_max_level_factor=1.000
+
+
+	state_category = pastoral
+	
+	resources = {
+		#steel = 0    #IRON
+		tungsten = 12    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = IMP
+		#controller = IMP
+		add_core_of = IMP
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		
+		#victory_points = { }
+	}
+	
+	local_supplies = 5.0
+}

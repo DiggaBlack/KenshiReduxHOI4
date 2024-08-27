@@ -1,0 +1,25 @@
+strategic_region={
+	id=67
+	name="STRATEGICREGION_67"
+	provinces={
+		6640 6697 6728 6879 6905 6906 6985 7150 7194 7206 7258 7281 7325 7335 7345 7357 7383 7412 7422 7444 7488 7505 7517 7534 7637 7641 7659 7682 7737 7761 7797 7800 7805 
+	}
+	
+	naval_terrain=water_shallow_sea
+	
+	weather={
+		period={
+			between={ 0.0 30.11 }
+			temperature={ 12.0 25.0 }
+			no_phenomenon=0.850
+			rain_light=0.150
+			rain_heavy=0.000
+			snow=0.000
+			blizzard=0.000
+			arctic_water=0.000
+			mud=0.000
+			sandstorm=0.000
+			min_snow_level=0.000
+		}
+	}
+}

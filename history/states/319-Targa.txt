@@ -1,0 +1,35 @@
+state={
+	id=319
+	name="STATE_319"
+	provinces={
+		198 670 714 869 1004 2255 2477 2598 2717 3170 3324 4281 6060 6067 6068 6104 6127 
+	}
+	manpower=12586
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		steel = 10    #IRON
+		tungsten = 10    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = SOH
+		#controller = SOH
+		add_core_of = SOH
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+		}
+		
+		victory_points = { 714 1 } # Herch Hill
+		victory_points = { 3324 1 } # Vettiker
+	}
+	
+	local_supplies = 5.0
+}

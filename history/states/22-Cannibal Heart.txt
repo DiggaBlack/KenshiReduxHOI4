@@ -1,0 +1,36 @@
+state={
+	id=22
+	name="STATE_22"
+	provinces={
+		26 132 830 833 1166 1600 1890 2024 3117 3913 3951 3963 4017 4055 4214 4579 4584 4589 4600 
+	}
+	manpower=71230
+	buildings_max_level_factor=1.000
+
+
+	state_category = city
+	
+	resources = {
+		steel = 30    #IRON
+		tungsten = 10    #COPPER
+		aluminium = 16    #STONE
+	}
+	
+	history = {
+		owner = CNW
+		#controller = CNW
+		add_core_of = CNW
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 2
+		}
+		
+		victory_points = { 3963 25 } # The Cannibal Capital
+		victory_points = { 2024 5 } # Whelm
+		victory_points = { 833 1 } # Hack
+	}
+	
+	local_supplies = 5.0
+}

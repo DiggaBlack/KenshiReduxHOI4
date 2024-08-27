@@ -1,0 +1,34 @@
+state={
+	id=215
+	name="STATE_215"
+	provinces={
+		266 463 534 1329 1464 1541 2036 2603 2816 2873 3752 5579 5590 5608 
+	}
+	manpower=20491
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		#steel = 0    #IRON
+		tungsten = 8    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = SHK
+		#controller = SHK
+		add_core_of = SHK
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+		}
+		
+		victory_points = { 463 3 } # Fort Jungo
+	}
+	
+	local_supplies = 5.0
+}

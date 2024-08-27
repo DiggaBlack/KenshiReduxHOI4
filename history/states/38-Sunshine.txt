@@ -1,0 +1,35 @@
+state={
+	id=38
+	name="STATE_38"
+	provinces={
+		8 881 1245 1296 1596 1701 1851 2351 2387 2526 2549 2608 2699 2701 2724 3845 3866 3887 4048 4051 4302 4629 4638 4648 4649 4654 4665 4683 4692 4696 4706 4722 4731 4740 4741 4750 
+	}
+	manpower=38103
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		steel = 4    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = UNC
+		#controller = UNC
+		add_core_of = UNC
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 1
+		}
+		
+		victory_points = { 2526 1 } # Landohn
+		victory_points = { 4740 3 } # Morning
+	}
+	
+	local_supplies = 5.0
+}

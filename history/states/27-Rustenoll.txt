@@ -1,0 +1,34 @@
+state={
+	id=27
+	name="STATE_27"
+	provinces={
+		791 931 2011 2332 2789 2825 3040 3055 3203 3243 3932 3952 4599 4610 4624 
+	}
+	manpower=13264
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 12    #STONE
+	}
+	
+	history = {
+		owner = ILC
+		#controller = ILC
+		add_core_of = ILC
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 0
+		}
+		
+		victory_points = { 3055 2 } # Sleeve
+	}
+	
+	local_supplies = 5.0
+}

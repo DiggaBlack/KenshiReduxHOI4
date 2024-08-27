@@ -1,0 +1,34 @@
+state={
+	id=51
+	name="STATE_51"
+	provinces={
+		153 475 927 1332 2295 3047 3190 4093 4103 4189 4728 4753 4765 
+	}
+	manpower=52240
+	buildings_max_level_factor=1.000
+
+
+	state_category = city
+	
+	resources = {
+		#steel = 0    #IRON
+		tungsten = 8    #COPPER
+		aluminium = 16    #STONE
+	}
+	
+	history = {
+		owner = SBN
+		#controller = SBN
+		add_core_of = SBN
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		
+		victory_points = { 3190 1 } # Wreel
+	}
+	
+	local_supplies = 5.0
+}

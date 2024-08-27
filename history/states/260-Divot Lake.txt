@@ -1,0 +1,35 @@
+state={
+	id=260
+	name="STATE_260"
+	provinces={
+		325 350 579 1986 2092 2276 2949 3167 3471 5770 5786 5800 5805 7940 
+	}
+	manpower=35234
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 10    #STONE
+	}
+	
+	history = {
+		owner = REA
+		#controller = REA
+		add_core_of = REA
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 2
+		}
+		
+		victory_points = { 5786 1 } # New Bark
+		victory_points = { 5805 5 } # Sloan
+	}
+	
+	local_supplies = 5.0
+}

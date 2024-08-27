@@ -1,0 +1,35 @@
+state={
+	id=189
+	name="STATE_189"
+	provinces={
+		541 874 1112 1721 2118 5498 5508 6534 
+	}
+	manpower=78125
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		steel = 14    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 6    #STONE
+	}
+	
+	history = {
+		owner = ZDB
+		#controller = ZDB
+		add_core_of = ZDB
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 4
+		}
+		
+		victory_points = { 5498 1 } # The Dust Tower
+		victory_points = { 6534 10 } # Herget
+	}
+	
+	local_supplies = 5.0
+}

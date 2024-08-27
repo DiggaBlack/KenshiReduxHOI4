@@ -1,0 +1,36 @@
+state={
+	id=239
+	name="STATE_239"
+	provinces={
+		141 196 339 651 818 824 905 1483 1560 1712 2214 2517 2572 2606 2635 3897 3922 5651 5673 5695 5705 5722 5746 5763 
+	}
+	manpower=85933
+	buildings_max_level_factor=1.000
+
+
+	state_category = large_city
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 40    #STONE
+	}
+	
+	history = {
+		owner = REA
+		#controller = REA
+		add_core_of = REA
+		
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 4
+			arms_factory = 3
+		}
+		
+		victory_points = { 5705 15 } # Ark
+		victory_points = { 2572 3 } # Peacemade
+		victory_points = { 1712 3 } # Titan
+	}
+	
+	local_supplies = 5.0
+}

@@ -1,0 +1,34 @@
+state={
+	id=226
+	name="STATE_226"
+	provinces={
+		77 345 592 601 655 779 954 987 1097 1132 1565 1673 1826 1985 2184 2289 2756 2973 4095 4152 5600 5606 5607 5630 5639 5650 5681 5689 5691 5692 5717 
+	}
+	manpower=18230
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = VUW
+		#controller = VUW
+		add_core_of = VUW
+		
+		buildings = {
+			infrastructure = 0
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		
+		victory_points = { 954 1 } # Natural Overrun
+	}
+	
+	local_supplies = 5.0
+}

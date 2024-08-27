@@ -1,0 +1,11 @@
+﻿division_template = {
+	name = "Militia Swordsmen"
+
+	regiments = {
+		shoddy_swordsmen = { x = 0 y = 0 }
+		shoddy_swordsmen = { x = 0 y = 1 }
+        shoddy_swordsmen = { x = 0 y = 2 }
+		shoddy_swordsmen = { x = 1 y = 0 }
+		shoddy_swordsmen = { x = 1 y = 1 }
+	}
+}

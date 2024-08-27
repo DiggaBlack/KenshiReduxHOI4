@@ -1,0 +1,34 @@
+state={
+	id=60
+	name="STATE_60"
+	provinces={
+		6502 6506 6507 6509 6510 6505 6503 
+	}
+	manpower=4729
+	buildings_max_level_factor=1.000
+
+
+	state_category = wasteland
+	
+	resources = {
+		steel = 8    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = DLG
+		#controller = DLG
+		add_core_of = DLG
+		
+		buildings = {
+			infrastructure = 0
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		
+		victory_points = { 6505 1 } # Burn's Tower
+	}
+	
+	local_supplies = 5.0
+}

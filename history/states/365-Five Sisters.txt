@@ -1,0 +1,35 @@
+state={
+	id=365
+	name="STATE_365"
+	provinces={
+		1 370 466 760 1063 1150 1364 1434 1735 2050 2081 2514 2530 2641 3157 3267 3350 3483 4001 4335 6321 6329 6353 6355 6356 6366 6395 
+	}
+	manpower=15248
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		steel = 8    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = SKB
+		#controller = SKB
+		add_core_of = SKB
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 1
+		}
+		
+		victory_points = { 6366 5 } # Ningen
+		victory_points = { 1 1 } # Naught
+	}
+	
+	local_supplies = 5.0
+}

@@ -1,0 +1,34 @@
+state={
+	id=256
+	name="STATE_256"
+	provinces={
+		646 775 2000 2217 3458 4244 5741 5745 684 1040 5780 
+	}
+	manpower=2048
+	buildings_max_level_factor=1.000
+
+
+	state_category = wasteland
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = MCH
+		#controller = MCH
+		add_core_of = MCH
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		
+		#victory_points = { }
+	}
+	
+	local_supplies = 5.0
+}

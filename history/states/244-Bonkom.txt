@@ -1,0 +1,34 @@
+state={
+	id=244
+	name="STATE_244"
+	provinces={
+		659 721 1448 2697 3457 4264 5671 5680 5713 
+	}
+	manpower=30305
+	buildings_max_level_factor=1.000
+
+
+	state_category = large_town
+	
+	resources = {
+		steel = 10    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = SHK
+		#controller = SHK
+		add_core_of = SHK
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 2
+		}
+		
+		victory_points = { 1448 1 } # Axis
+	}
+	
+	local_supplies = 5.0
+}

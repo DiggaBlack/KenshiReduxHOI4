@@ -1,0 +1,35 @@
+state={
+	id=6
+	name="STATE_6"
+	provinces={
+		244 308 496 1522 1656 1908 1979 2063 2875 3312 4142 4240 4450 4465 4476 4488 6465 6468 
+	}
+	manpower=15000
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		steel = 14    #IRON
+		tungsten = 10    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = RWK
+		#controller = RWK
+		add_core_of = RWK
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 0
+		}
+		
+		victory_points = { 2875 1 } # Deadline
+		victory_points = { 3312 3 } # Old Fask
+	}
+	
+	local_supplies = 5.0
+}

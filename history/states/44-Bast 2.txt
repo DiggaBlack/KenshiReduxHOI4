@@ -1,0 +1,35 @@
+state={
+	id=44
+	name="STATE_44"
+	provinces={
+		15 202 1350 2071 2900 3603 4661 4703 4710 6568 
+	}
+	manpower=41059
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		steel = 12    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = YSS
+		#controller = YSS
+		add_core_of = YSS
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 3
+		}
+		
+		victory_points = { 2900 3 } # Sabretown
+		victory_points = { 4703 1 } # Fleeze
+	}
+	
+	local_supplies = 5.0
+}

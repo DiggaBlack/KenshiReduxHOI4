@@ -1,0 +1,36 @@
+state={
+	id=305
+	name="STATE_305"
+	provinces={
+		19 270 323 512 858 1240 2162 2695 2823 3289 3394 3708 4297 4402 5963 5982 6002 6007 6013 6040 6057 
+	}
+	manpower=28775
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		steel = 16    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = KLB
+		#controller = KLB
+		add_core_of = KLB
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 2
+		}
+		
+		victory_points = { 3394 3 } # Southern Post
+		victory_points = { 512 1 } # Brogram
+		victory_points = { 3708 1 } # Saddle
+	}
+	
+	local_supplies = 5.0
+}

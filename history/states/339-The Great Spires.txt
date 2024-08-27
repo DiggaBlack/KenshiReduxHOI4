@@ -1,0 +1,34 @@
+state={
+	id=339
+	name="STATE_339"
+	provinces={
+		74 551 586 1041 1161 1286 1567 1881 1958 2768 2860 2890 2909 3844 4064 6236 6239 6259 
+	}
+	manpower=8481
+	buildings_max_level_factor=1.000
+
+
+	state_category = pastoral
+	
+	resources = {
+		steel = 10    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = STC
+		#controller = STC
+		add_core_of = STC
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 1
+		}
+		
+		#victory_points = { }
+	}
+	
+	local_supplies = 5.0
+}

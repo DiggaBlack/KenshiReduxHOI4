@@ -1,0 +1,50 @@
+﻿capital = 168
+
+oob = "DEX"
+
+set_research_slots = 2
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_recon = 1
+	tech_support = 1		
+	tech_engineers = 1
+	tech_military_police = 1
+	tech_mountaineers = 1
+}
+set_politics = {
+	ruling_party = independent
+}
+
+add_ideas = {
+	volunteer_force
+	lavish_economy
+	closed_economy
+}
+
+set_popularities = {
+	new_imperialism = 0
+	okranite = 0
+	kralist_code = 0
+	old_imperialism = 12
+	hiver = 0
+	liberationism = 9
+	independent = 79
+	raider = 0
+	horde = 0
+	wilderness = 0
+}
+
+create_country_leader = {
+	name = DEX_leader
+	desc = DEX_leader_desc
+	picture = "gfx/leaders/Generic/leader_template.dds"
+	ideology = refugee_nation
+	traits = {
+		#
+	}
+}
+
+

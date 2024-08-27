@@ -1,0 +1,36 @@
+state={
+	id=334
+	name="STATE_334"
+	provinces={
+		220 440 583 921 994 1209 2206 2531 2540 2772 2994 3398 3419 3772 4089 4097 4241 6147 6170 6183 6190 6224 6232 6251 
+	}
+	manpower=7239
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 24    #STONE
+	}
+	
+	history = {
+		owner = SAH
+		#controller = SAH
+		add_core_of = SAH
+		
+		buildings = {
+			infrastructure = 0
+			industrial_complex = 1
+			arms_factory = 1
+		}
+		
+		victory_points = { 2531 1 } # Meddard
+		victory_points = { 921 1 } # Marion
+		victory_points = { 4241 3 } # Seat of Skins
+	}
+	
+	local_supplies = 5.0
+}

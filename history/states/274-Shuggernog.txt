@@ -1,0 +1,34 @@
+state={
+	id=274
+	name="STATE_274"
+	provinces={
+		123 2782 3718 5837 5845 
+	}
+	manpower=27294
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		steel = 8    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = BRS
+		#controller = BRS
+		add_core_of = BRS
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+		}
+		
+		victory_points = { 123 1 } # Boil
+	}
+	
+	local_supplies = 5.0
+}

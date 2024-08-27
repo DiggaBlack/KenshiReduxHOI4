@@ -1,0 +1,34 @@
+state={
+	id=132
+	name="STATE_132"
+	provinces={
+		509 537 847 979 1118 1153 1338 1559 1777 2099 2497 3669 4262 5189 5217 5245 5265 5266 5286 5323 
+	}
+	manpower=7295
+	buildings_max_level_factor=1.000
+
+
+	state_category = wasteland
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = BNJ
+		#controller = BNJ
+		add_core_of = BNJ
+		
+		buildings = {
+			infrastructure = 0
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		
+		victory_points = { 5245 1 } # Xalis
+	}
+	
+	local_supplies = 5.0
+}

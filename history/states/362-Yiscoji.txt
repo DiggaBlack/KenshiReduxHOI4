@@ -1,0 +1,36 @@
+state={
+	id=362
+	name="STATE_362"
+	provinces={
+		162 385 500 731 1237 1463 1654 1873 2316 2376 2473 2982 3220 3333 3991 4234 6338 6347 6385 
+	}
+	manpower=30958
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		steel = 8    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = XUC
+		#controller = XUC
+		add_core_of = XUC
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 2
+		}
+		
+		victory_points = { 2982 3 } # Sky Rose
+		victory_points = { 2376 5 } # Weld
+		victory_points = { 6338 1 } # Fern
+	}
+	
+	local_supplies = 5.0
+}

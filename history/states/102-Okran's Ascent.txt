@@ -1,0 +1,35 @@
+state={
+	id=102
+	name="STATE_102"
+	provinces={
+		1196 1607 2952 3405 3427 3462 4015 4224 5012 5046 5054 5070 5097 5111 
+	}
+	manpower=49104
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 8    #STONE
+	}
+	
+	history = {
+		owner = IHN
+		#controller = IHN
+		add_core_of = IHN
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 2
+		}
+		
+		victory_points = { 3405 1 } # Red Peak
+		victory_points = { 5111 2 } # Upper Sogdew
+	}
+	
+	local_supplies = 2.0
+}

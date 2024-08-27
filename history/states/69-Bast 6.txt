@@ -1,0 +1,34 @@
+state={
+	id=69
+	name="STATE_69"
+	provinces={
+		1440 1619 1914 2043 3582 4756 4758 4764 4773 4793 4820 
+	}
+	manpower=32950
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = YNI
+		#controller = YNI
+		add_core_of = YNI
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 1
+		}
+		
+		victory_points = { 1914 3 } # Desert Lady
+	}
+	
+	local_supplies = 5.0
+}

@@ -1,0 +1,36 @@
+state={
+	id=29
+	name="STATE_29"
+	provinces={
+		231 480 1098 2886 4063 4570 4578 4586 4591 4602 4615 4620 4626 4627 4637 4646 6479 
+	}
+	manpower=150610
+	buildings_max_level_factor=1.000
+
+
+	state_category = metropolis
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = UNC
+		#controller = UNC
+		add_core_of = UNC
+		
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 5
+			arms_factory = 1
+		}
+		
+		victory_points = { 6479 5 } # Isle Sanda
+		victory_points = { 4063 25 } # Bark
+		victory_points = { 4620 3 } # Flap
+	}
+	
+	local_supplies = 5.0
+}

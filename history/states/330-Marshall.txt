@@ -1,0 +1,36 @@
+state={
+	id=330
+	name="STATE_330"
+	provinces={
+		381 573 1473 1990 2296 3525 3819 6125 6152 6153 6165 6167 6177 6184 6189 6202 
+	}
+	manpower=45207
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		steel = 6    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 14    #STONE
+	}
+	
+	history = {
+		owner = SWN
+		#controller = SWN
+		add_core_of = SWN
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+		}
+		
+		victory_points = { 6153 3 } # Kelsey
+		victory_points = { 2296 1 } # Camp Fickel
+		victory_points = { 1990 1 } # Camp Cobalt
+	}
+	
+	local_supplies = 5.0
+}

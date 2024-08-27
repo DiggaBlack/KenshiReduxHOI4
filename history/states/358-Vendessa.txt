@@ -1,0 +1,35 @@
+state={
+	id=358
+	name="STATE_358"
+	provinces={
+		205 252 288 777 1158 1168 1427 1597 1737 2692 2730 2844 2858 2962 3153 3410 3430 3788 4058 4268 4291 4435 6278 6300 6328 6336 6337 6358 
+	}
+	manpower=25219
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		#steel = 0    #IRON
+		tungsten = 6    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = XUC
+		#controller = XUC
+		add_core_of = XUC
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+		}
+		
+		victory_points = { 3410 1 } # Mountain View
+		victory_points = { 6337 1 } # Cadence
+	}
+	
+	local_supplies = 5.0
+}

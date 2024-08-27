@@ -1,0 +1,35 @@
+state={
+	id=16
+	name="STATE_16"
+	provinces={
+		84 89 174 312 710 819 940 1284 1285 1519 1561 1845 2098 2760 2958 3428 3663 3773 4275 4499 4511 4520 4528 4541 4559 
+	}
+	manpower=30925
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		steel = 12    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 8    #STONE
+	}
+	
+	history = {
+		owner = CNE
+		#controller = CNE
+		add_core_of = CNE
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 0
+		}
+		
+		victory_points = { 4559 1 } # Megold
+		victory_points = { 1561 1 } # Tchew
+	}
+	
+	local_supplies = 5.0
+}

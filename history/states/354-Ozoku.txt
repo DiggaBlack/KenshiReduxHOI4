@@ -1,0 +1,36 @@
+state={
+	id=354
+	name="STATE_354"
+	provinces={
+		122 186 362 763 1894 2056 2455 2541 3370 3809 3812 6247 6281 6289 6291 
+	}
+	manpower=8345
+	buildings_max_level_factor=1.000
+
+
+	state_category = large_town
+	
+	resources = {
+		steel = 8    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = SAH
+		#controller = SAH
+		add_core_of = SAH
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 3
+		}
+		
+		victory_points = { 763 3 } # Vicky Rock
+		victory_points = { 6289 1 } # Liza
+		victory_points = { 2056 1 } # Alber
+	}
+	
+	local_supplies = 5.0
+}

@@ -1,0 +1,35 @@
+state={
+	id=110
+	name="STATE_110"
+	provinces={
+		7 2224 2337 2533 2968 5076 
+	}
+	manpower=40385
+	buildings_max_level_factor=1.000
+
+
+	state_category = large_city
+	
+	resources = {
+		steel = 8    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = VHN
+		#controller = VHN
+		add_core_of = VHN
+		
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 4
+		}
+		
+		victory_points = { 5076 3 } # Barebone
+		victory_points = { 2224 20 } # Okran's Passage
+	}
+	
+	local_supplies = 2.0
+}

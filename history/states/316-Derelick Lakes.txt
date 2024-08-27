@@ -1,0 +1,34 @@
+state={
+	id=316
+	name="STATE_316"
+	provinces={
+		21 369 850 1727 2193 2799 2868 2881 3005 3013 4111 6028 6054 6059 6154 6196 6200 6206 8044 8045 8047 8049 
+	}
+	manpower=24192
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		steel = 10    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = KDR
+		#controller = KDR
+		add_core_of = KDR
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 1
+		}
+		
+		victory_points = { 3013 3 } # Sikara
+	}
+	
+	local_supplies = 5.0
+}

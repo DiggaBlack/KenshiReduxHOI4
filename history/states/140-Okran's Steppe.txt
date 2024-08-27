@@ -1,0 +1,35 @@
+state={
+	id=140
+	name="STATE_140"
+	provinces={
+		13 1356 2331 2620 3728 4075 4405 5250 5292 7963 
+	}
+	manpower=81994
+	buildings_max_level_factor=1.000
+
+
+	state_category = city
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 12    #STONE
+	}
+	
+	history = {
+		owner = HHN
+		#controller = HHN
+		add_core_of = HHN
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+		}
+		
+		victory_points = { 4075 10 } # Lake Vista
+		victory_points = { 4405 1 } # Kiermayer
+	}
+	
+	local_supplies = 2.0
+}

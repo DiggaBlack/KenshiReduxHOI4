@@ -1,0 +1,35 @@
+state={
+	id=203
+	name="STATE_203"
+	provinces={
+		459 941 3689 5509 5523 5531 5546 6527 6604 
+	}
+	manpower=25774
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 9    #STONE
+	}
+	
+	history = {
+		owner = ZSC
+		#controller = ZSC
+		add_core_of = ZSC
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 2
+		}
+		
+		victory_points = { 5509 1 } # Vida
+		victory_points = { 5546 3 } # Corleane
+	}
+	
+	local_supplies = 5.0
+}

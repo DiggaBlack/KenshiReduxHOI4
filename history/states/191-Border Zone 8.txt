@@ -1,0 +1,35 @@
+state={
+	id=191
+	name="STATE_191"
+	provinces={
+		427 1866 3658 5494 2593 6484 
+	}
+	manpower=37195
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		steel = 8    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = ZRF
+		#controller = ZRF
+		add_core_of = ZRF
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 2
+		}
+		
+		victory_points = { 427 1 } # Kepposu
+		victory_points = { 6484 3 } # Base Rei
+	}
+	
+	local_supplies = 5.0
+}

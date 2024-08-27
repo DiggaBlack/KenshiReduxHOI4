@@ -1,0 +1,35 @@
+state={
+	id=197
+	name="STATE_197"
+	provinces={
+		699 2678 5477 5500 5518 5536 
+	}
+	manpower=46227
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		steel = 8    #IRON
+		tungsten = 8    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = ZHH
+		#controller = ZHH
+		add_core_of = ZHH
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 2
+		}
+		
+		victory_points = { 2678 1 } # Vall
+		victory_points = { 5500 5 } # Queen Hill
+	}
+	
+	local_supplies = 5.0
+}

@@ -1,0 +1,34 @@
+state={
+	id=385
+	name="STATE_385"
+	provinces={
+		297 416 419 744 768 1337 1388 1404 1502 1922 2311 2448 2876 2938 3842 3854 4437 6459 
+	}
+	manpower=10200
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		steel = 25    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = SEM
+		#controller = SEM
+		add_core_of = SEM
+		
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+		}
+		
+		victory_points = { 2448 3 } # Indus
+	}
+	
+	local_supplies = 5.0
+}

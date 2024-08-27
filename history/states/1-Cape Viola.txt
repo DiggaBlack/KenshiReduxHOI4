@@ -1,0 +1,34 @@
+state={
+	id=1
+	name="STATE_1"
+	provinces={
+		138 1187 2487 3853 4442 4445 4451 4452 7946 
+	}
+	manpower=25000
+	buildings_max_level_factor=1.000
+
+
+	state_category = large_town
+	
+	resources = {
+		steel = 20    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 14    #STONE
+	}
+	
+	history = {
+		owner = RWK
+		#controller = RWK
+		add_core_of = RWK
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 2
+		}
+		
+		victory_points = { 4442 5 } # Tomb of the Ancient
+	}
+	
+	local_supplies = 5.0
+}

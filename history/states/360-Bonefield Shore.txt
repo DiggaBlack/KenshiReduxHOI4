@@ -1,0 +1,36 @@
+state={
+	id=360
+	name="STATE_360"
+	provinces={
+		272 951 1859 2124 2343 2506 2750 2918 3218 3286 3657 6282 6288 6301 6307 6313 6331 6624 
+	}
+	manpower=12842
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = FSH
+		#controller = FSH
+		add_core_of = FSH
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		
+		victory_points = { 6624 1 } # Brood Isle
+		victory_points = { 6331 1 } # Spleesh
+		victory_points = { 6313 1 } # Moot
+	}
+	
+	local_supplies = 5.0
+}

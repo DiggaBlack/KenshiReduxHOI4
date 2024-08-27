@@ -1,0 +1,35 @@
+state={
+	id=139
+	name="STATE_139"
+	provinces={
+		536 548 1068 1087 1768 1773 2087 5233 5235 5240 5258 5269 5306 5308 5312 5324 
+	}
+	manpower=95184
+	buildings_max_level_factor=1.000
+
+
+	state_category = large_town
+	
+	resources = {
+		#steel = 0    #IRON
+		tungsten = 12    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = HLN
+		#controller = HLN
+		add_core_of = HLN
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+		}
+		
+		victory_points = { 1087 1 } # Hotlongs
+		victory_points = { 2087 3 } # Winede
+	}
+	
+	local_supplies = 2.0
+}

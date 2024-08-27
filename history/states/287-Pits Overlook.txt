@@ -1,0 +1,35 @@
+state={
+	id=287
+	name="STATE_287"
+	provinces={
+		690 712 1032 1417 1452 1515 1745 3003 3751 
+	}
+	manpower=17334
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		steel = 8    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = VSE
+		#controller = VSE
+		add_core_of = VSE
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 2
+			arms_factory = 0
+		}
+		
+		victory_points = { 712 1 } # Pican
+		victory_points = { 3751 1 } # Wallop
+	}
+	
+	local_supplies = 5.0
+}

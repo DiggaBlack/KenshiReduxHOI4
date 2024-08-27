@@ -1,0 +1,35 @@
+state={
+	id=262
+	name="STATE_262"
+	provinces={
+		178 1706 1778 2046 2787 3445 3750 4433 5826 
+	}
+	manpower=58234
+	buildings_max_level_factor=1.000
+
+
+	state_category = city
+	
+	resources = {
+		steel = 10    #IRON
+		tungsten = 6    #COPPER
+		aluminium = 10    #STONE
+	}
+	
+	history = {
+		owner = KRC
+		#controller = KRC
+		add_core_of = KRC
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 4
+		}
+		
+		victory_points = { 4433 5 } # Pardice
+		victory_points = { 1706 1 } # Minge
+	}
+	
+	local_supplies = 5.0
+}

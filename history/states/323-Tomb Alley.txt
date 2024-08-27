@@ -1,0 +1,34 @@
+state={
+	id=323
+	name="STATE_323"
+	provinces={
+		99 128 219 636 808 2447 3884 4049 
+	}
+	manpower=4812
+	buildings_max_level_factor=1.000
+
+
+	state_category = pastoral
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 6    #STONE
+	}
+	
+	history = {
+		owner = UFF
+		#controller = UFF
+		add_core_of = UFF
+		
+		buildings = {
+			infrastructure = 0
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		
+		#victory_points = { }
+	}
+	
+	local_supplies = 5.0
+}

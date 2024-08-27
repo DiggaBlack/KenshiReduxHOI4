@@ -1,0 +1,34 @@
+state={
+	id=88
+	name="STATE_88"
+	provinces={
+		1038 1315 1931 3225 4107 4934 4938 4966 
+	}
+	manpower=12059
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = DLG
+		#controller = DLG
+		add_core_of = DLG
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 1
+		}
+		
+		victory_points = { 4966 3 } # Granite Point
+	}
+	
+	local_supplies = 5.0
+}

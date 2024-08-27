@@ -1,0 +1,11 @@
+﻿division_template = {
+	name = "Katana Swordsmen"
+
+	regiments = {
+		katanas_swordsmen = { x = 0 y = 0 }
+		katanas_swordsmen = { x = 0 y = 1 }
+        katanas_swordsmen = { x = 0 y = 2 }
+		katanas_swordsmen = { x = 1 y = 0 }
+		katanas_swordsmen = { x = 1 y = 1 }
+	}
+}

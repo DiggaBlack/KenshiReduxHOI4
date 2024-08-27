@@ -1,0 +1,34 @@
+state={
+	id=206
+	name="STATE_206"
+	provinces={
+		6606 6607 720 5514 3650 251 2779 2841 
+	}
+	manpower=931
+	buildings_max_level_factor=1.000
+
+
+	state_category = small_island
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = CRD
+		#controller = CRD
+		add_core_of = CRD
+		
+		buildings = {
+			infrastructure = 0
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		
+		#victory_points = { }
+	}
+	
+	local_supplies = 5.0
+}

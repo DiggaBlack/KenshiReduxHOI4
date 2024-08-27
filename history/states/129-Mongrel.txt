@@ -1,0 +1,34 @@
+state={
+	id=129
+	name="STATE_129"
+	provinces={
+		2244 4074 4141 5188 
+	}
+	manpower=122124
+	buildings_max_level_factor=1.000
+
+
+	state_category = metropolis
+	
+	resources = {
+		steel = 24    #IRON
+		tungsten = 10    #COPPER
+		aluminium = 12    #STONE
+	}
+	
+	history = {
+		owner = MON
+		#controller = MON
+		add_core_of = MON
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		
+		victory_points = { 4074 40 } # Mongrel
+	}
+	
+	local_supplies = 5.0
+}

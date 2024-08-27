@@ -1,0 +1,36 @@
+state={
+	id=114
+	name="STATE_114"
+	provinces={
+		648 823 981 1051 1159 1306 1351 1915 2108 2114 2203 2445 2503 2585 2698 2995 3250 3476 3691 3919 4334 5087 5093 5096 5114 5117 5124 5126 5133 5166 5170 5172 
+	}
+	manpower=13847
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = HLN
+		#controller = HLN
+		add_core_of = HLN
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 1
+		}
+		
+		victory_points = { 5093 1 } # Catoll
+		victory_points = { 1351 7 } # Northern Guardian
+		victory_points = { 2995 1 } # Bulljoy
+	}
+	
+	local_supplies = 0.0
+}

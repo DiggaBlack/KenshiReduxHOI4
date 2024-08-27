@@ -1,0 +1,34 @@
+state={
+	id=351
+	name="STATE_351"
+	provinces={
+		834 1413 1461 2565 3001 3045 3306 3447 6241 6265 6277 
+	}
+	manpower=20483
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = DSP
+		#controller = DSP
+		add_core_of = DSP
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 1
+		}
+		
+		victory_points = { 1413 3 } # Fisks
+	}
+	
+	local_supplies = 5.0
+}

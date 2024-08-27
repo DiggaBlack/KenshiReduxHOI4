@@ -1,0 +1,34 @@
+state={
+	id=52
+	name="STATE_52"
+	provinces={
+		1380 1878 2019 2389 2538 2784 3091 3143 3581 4719 4774 4780 4812 4841 4846 4857 
+	}
+	manpower=13519
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		steel = 12    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = DLG
+		#controller = DLG
+		add_core_of = DLG
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 2
+		}
+		
+		victory_points = { 4812 3 } # Everrain
+	}
+	
+	local_supplies = 5.0
+}

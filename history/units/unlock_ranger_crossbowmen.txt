@@ -1,0 +1,11 @@
+﻿division_template = {
+	name = "Standard Crossbowmen"
+
+	regiments = {
+		ranger_crossbowmen = { x = 0 y = 0 }
+		ranger_crossbowmen = { x = 0 y = 1 }
+        ranger_crossbowmen = { x = 0 y = 2 }
+		ranger_crossbowmen = { x = 1 y = 0 }
+		ranger_crossbowmen = { x = 1 y = 1 }
+	}
+}

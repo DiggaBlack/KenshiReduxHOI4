@@ -1,0 +1,34 @@
+state={
+	id=289
+	name="STATE_289"
+	provinces={
+		47 1370 1754 2060 2453 2630 3199 4306 4401 
+	}
+	manpower=12059
+	buildings_max_level_factor=1.000
+
+
+	state_category = pastoral
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 14    #STONE
+	}
+	
+	history = {
+		owner = VBO
+		#controller = VBO
+		add_core_of = VBO
+		
+		buildings = {
+			infrastructure = 0
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		
+		#victory_points = { }
+	}
+	
+	local_supplies = 5.0
+}

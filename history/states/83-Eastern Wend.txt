@@ -1,0 +1,34 @@
+state={
+	id=83
+	name="STATE_83"
+	provinces={
+		245 848 1681 2329 3046 3080 3881 4114 4355 4866 4913 5095 
+	}
+	manpower=2430
+	buildings_max_level_factor=1.000
+
+
+	state_category = wasteland
+	
+	resources = {
+		steel = 48    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = IHN
+		#controller = IHN
+		add_core_of = IHN
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		
+		#victory_points = { }
+	}
+	
+	local_supplies = 0.0
+}

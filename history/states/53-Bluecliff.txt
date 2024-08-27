@@ -1,0 +1,34 @@
+state={
+	id=53
+	name="STATE_53"
+	provinces={
+		726 955 1650 3354 4277 4720 4737 4747 
+	}
+	manpower=10777
+	buildings_max_level_factor=1.000
+
+
+	state_category = pastoral
+	
+	resources = {
+		#steel = 0    #IRON
+		tungsten = 6    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = CNW
+		#controller = CNW
+		add_core_of = CNW
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 1
+		}
+		
+		#victory_points = { }
+	}
+	
+	local_supplies = 5.0
+}

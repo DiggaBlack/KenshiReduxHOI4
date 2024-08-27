@@ -1,0 +1,36 @@
+state={
+	id=5
+	name="STATE_5"
+	provinces={
+		62 310 332 629 1104 1631 1678 1750 1903 2080 3105 3169 3266 3549 3625 4145 4444 4448 4455 4457 4461 4462 4467 4490 4492 
+	}
+	manpower=57129
+	buildings_max_level_factor=1.000
+
+
+	state_category = city
+	
+	resources = {
+		#steel = 0    #IRON
+		tungsten = 12    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = CWY
+		#controller = CWY
+		add_core_of = CWY
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 4
+			arms_factory = 1
+		}
+		
+		victory_points = { 4490 5 } # Mavel
+		victory_points = { 4444 1 } # Cape Waddle
+		victory_points = { 3625 5 } # Dibber
+	}
+	
+	local_supplies = 5.0
+}

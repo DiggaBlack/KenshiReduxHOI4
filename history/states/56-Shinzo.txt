@@ -1,0 +1,34 @@
+state={
+	id=56
+	name="STATE_56"
+	provinces={
+		249 254 561 767 898 1739 1855 2077 2524 2682 2683 2845 3257 3316 3325 3645 3651 3931 4735 4745 4759 4761 4771 4784 4785 4788 4795 4796 4800 4815 4823 4833 
+	}
+	manpower=23571
+	buildings_max_level_factor=1.000
+
+
+	state_category = pastoral
+	
+	resources = {
+		steel = 10    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 20    #STONE
+	}
+	
+	history = {
+		owner = UNC
+		#controller = UNC
+		add_core_of = UNC
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+		}
+		
+		victory_points = { 4788 3 } # Sho-Battai Stone Company
+	}
+	
+	local_supplies = 5.0
+}

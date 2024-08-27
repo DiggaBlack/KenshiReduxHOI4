@@ -1,0 +1,34 @@
+state={
+	id=387
+	name="STATE_387"
+	provinces={
+		1141 1505 1930 3242 3883 5127 5141 
+	}
+	manpower=87109
+	buildings_max_level_factor=1.000
+
+
+	state_category = city
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = HLN
+		#controller = HLN
+		add_core_of = HLN
+		
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+		}
+		
+		victory_points = { 1505 5 } # Lower Sogdew
+	}
+	
+	local_supplies = 2.0
+}

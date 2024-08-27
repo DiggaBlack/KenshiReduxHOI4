@@ -1,0 +1,34 @@
+state={
+	id=54
+	name="STATE_54"
+	provinces={
+		276 594 831 1046 1128 1357 3021 3621 3942 4035 4337 4781 4787 
+	}
+	manpower=78215
+	buildings_max_level_factor=1.000
+
+
+	state_category = metropolis
+	
+	resources = {
+		steel = 14    #IRON
+		tungsten = 38    #COPPER
+		aluminium = 6    #STONE
+	}
+	
+	history = {
+		owner = XWE
+		#controller = XWE
+		add_core_of = XWE
+		
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 7
+			arms_factory = 3
+		}
+		
+		victory_points = { 3021 35 } # World's End
+	}
+	
+	local_supplies = 5.0
+}

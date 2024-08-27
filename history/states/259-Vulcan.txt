@@ -1,0 +1,35 @@
+state={
+	id=259
+	name="STATE_259"
+	provinces={
+		279 1367 1799 2001 2035 2426 2812 3163 3488 3675 5760 5807 531 1424 3176 5791 5816
+	}
+	manpower=36120
+	buildings_max_level_factor=1.000
+
+
+	state_category = large_town
+	
+	resources = {
+		steel = 36    #IRON
+		tungsten = 12    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = MCH
+		#controller = MCH
+		add_core_of = MCH
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 3
+		}
+		
+		victory_points = { 5791 15 } # Smokestack
+		victory_points = { 2035 5 } # Heed
+	}
+	
+	local_supplies = 5.0
+}

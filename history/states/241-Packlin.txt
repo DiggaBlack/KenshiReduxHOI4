@@ -1,0 +1,34 @@
+state={
+	id=241
+	name="STATE_241"
+	provinces={
+		479 906 1216 2212 2849 3600 3648 5672 5733 8001 
+	}
+	manpower=26495
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = WHO
+		#controller = WHO
+		add_core_of = WHO
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+		}
+		
+		victory_points = { 3600 3 } # Boggoth
+	}
+	
+	local_supplies = 5.0
+}

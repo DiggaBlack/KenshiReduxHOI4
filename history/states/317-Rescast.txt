@@ -1,0 +1,34 @@
+state={
+	id=317
+	name="STATE_317"
+	provinces={
+		35 105 1034 1267 2551 3927 3937 4117 6091 
+	}
+	manpower=10324
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = SBM
+		#controller = SBM
+		add_core_of = SBM
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 1
+		}
+		
+		victory_points = { 3927 1 } # Destitude
+	}
+	
+	local_supplies = 5.0
+}

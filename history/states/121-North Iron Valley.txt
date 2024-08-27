@@ -1,0 +1,34 @@
+state={
+	id=121
+	name="STATE_121"
+	provinces={
+		53 566 700 740 862 1125 1791 1805 1964 2439 2544 2802 2814 2904 2941 3027 3121 3304 3870 5116 5143 5168 5178 5183 5207 5254 7960 7961 
+	}
+	manpower=357
+	buildings_max_level_factor=1.000
+
+
+	state_category = wasteland
+	
+	resources = {
+		steel = 72    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = VIV
+		#controller = VIV
+		add_core_of = VIV
+		
+		buildings = {
+			infrastructure = 0
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		
+		victory_points = { 53 1 } # City of Shame
+	}
+	
+	local_supplies = 0.0
+}

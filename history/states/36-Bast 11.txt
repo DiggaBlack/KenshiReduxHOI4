@@ -1,0 +1,34 @@
+state={
+	id=36
+	name="STATE_36"
+	provinces={
+		420 527 597 1465 4059 4632 4691 6542 6543 
+	}
+	manpower=71943
+	buildings_max_level_factor=1.000
+
+
+	state_category = city
+	
+	resources = {
+		steel = 14    #IRON
+		tungsten = 5    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = YFD
+		#controller = YFD
+		add_core_of = YFD
+		
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 3
+		}
+		
+		victory_points = { 527 10 } # Drin
+	}
+	
+	local_supplies = 5.0
+}

@@ -1,0 +1,15 @@
+############################################################################################################
+#	Expert AI mod - diplomacy
+############################################################################################################
+
+# Operation Countenance - stop allies from sending troops
+EAI_operation_countenance = {
+	enable = { 
+		has_global_flag = EAI_operation_countenance_started
+		capital_scope = { is_on_continent = europe }
+		is_in_faction_with = PER
+	}
+	abort_when_not_enabled = yes
+
+	ai_strategy = { type = dont_defend_ally_borders id = "PER" value = 5000 }
+}

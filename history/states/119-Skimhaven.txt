@@ -1,0 +1,34 @@
+state={
+	id=119
+	name="STATE_119"
+	provinces={
+		115 265 866 1258 1358 5118 5145 5155 
+	}
+	manpower=3850
+	buildings_max_level_factor=1.000
+
+
+	state_category = wasteland
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = IMP
+		#controller = IMP
+		add_core_of = IMP
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		
+		#victory_points = { }
+	}
+	
+	local_supplies = 5.0
+}

@@ -1,0 +1,35 @@
+state={
+	id=31
+	name="STATE_31"
+	provinces={
+		290 1173 1925 3079 3395 4618 4628 6554 6600 6601 
+	}
+	manpower=48120
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		#steel = 0    #IRON
+		tungsten = 6    #COPPER
+		aluminium = 8    #STONE
+	}
+	
+	history = {
+		owner = YDR
+		#controller = YDR
+		add_core_of = YDR
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 2
+		}
+		
+		victory_points = { 6601 5 } # Endin
+		victory_points = { 6554 1 } # Red Bear
+	}
+	
+	local_supplies = 5.0
+}

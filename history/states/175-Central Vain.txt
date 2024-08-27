@@ -1,0 +1,34 @@
+state={
+	id=175
+	name="STATE_175"
+	provinces={
+		113 584 1272 1652 2003 2675 3789 3838 4032 5437 5497 
+	}
+	manpower=67029
+	buildings_max_level_factor=1.000
+
+
+	state_category = large_town
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = WEH
+		#controller = WEH
+		add_core_of = WEH
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 2
+		}
+		
+		victory_points = { 1652 3 } # Knobeak
+	}
+	
+	local_supplies = 5.0
+}

@@ -1,0 +1,34 @@
+state={
+	id=343
+	name="STATE_343"
+	provinces={
+		131 169 656 854 1227 1359 2132 2292 2431 2509 2928 3032 3341 3426 4391 6160 6172 6208 6217 6262 
+	}
+	manpower=14800
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		steel = 15    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = SEM
+		#controller = SEM
+		add_core_of = SEM
+		
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+		}
+		
+		victory_points = { 1359 5 } # Inka
+	}
+	
+	local_supplies = 5.0
+}

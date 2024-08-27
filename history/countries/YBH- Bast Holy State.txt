@@ -1,0 +1,50 @@
+﻿capital = 68
+
+oob = "YBH"
+
+set_research_slots = 2
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_recon = 1
+	tech_support = 1		
+	tech_engineers = 1
+	tech_military_police = 1
+	tech_mountaineers = 1
+}
+set_politics = {
+	ruling_party = okranite
+}
+
+add_ideas = {
+	national_draft
+	military_economy
+	closed_economy
+}
+
+set_popularities = {
+	new_imperialism = 0
+	okranite = 100
+	kralist_code = 0
+	old_imperialism = 0
+	hiver = 0
+	liberationism = 0
+	independent = 0
+	raider = 0
+	horde = 0
+	wilderness = 0
+}
+
+create_country_leader = {
+	name = YBH_leader
+	desc = YBH_leader_desc
+	picture = "gfx/leaders/Generic/leader_template.dds"
+	ideology = ascensionism
+	traits = {
+		#
+	}
+}
+
+

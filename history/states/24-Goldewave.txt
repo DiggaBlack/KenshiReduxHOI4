@@ -1,0 +1,37 @@
+state={
+	id=24
+	name="STATE_24"
+	provinces={
+		146 215 335 649 681 715 826 873 899 913 928 1378 1457 1632 1808 1831 1861 2069 2139 2190 2278 2367 2464 2582 2856 3071 3118 3200 3358 3392 3741 3800 3828 3914 4002 4073 4207 4211 4320 4438 4553 4580 4590 4605 4609 4623 4634 4644 4657 4681 4709 
+	}
+	manpower=87149
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = UNC
+		#controller = UNC
+		add_core_of = UNC
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 0
+		}
+		
+		victory_points = { 4553 7 } # Meeting of Dunes
+		victory_points = { 4590 3 } # Strain
+		victory_points = { 1861 1 } # Ward
+		victory_points = { 4681 3 } # Fiber
+	}
+	
+	local_supplies = 5.0
+}

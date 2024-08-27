@@ -1,0 +1,35 @@
+state={
+	id=85
+	name="STATE_85"
+	provinces={
+		75 275 683 908 1127 1529 1703 2086 2290 2353 2569 2708 2914 3214 3232 3357 3579 3712 4329 4914 4927 4928 4951 4972 4989 5002 5021 
+	}
+	manpower=42129
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = SKV
+		#controller = SKV
+		add_core_of = SKV
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 2
+		}
+		
+		victory_points = { 4972 1 } # Sac
+		victory_points = { 4928 3 } # The Silent City
+	}
+	
+	local_supplies = 5.0
+}

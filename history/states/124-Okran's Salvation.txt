@@ -1,0 +1,35 @@
+state={
+	id=124
+	name="STATE_124"
+	provinces={
+		732 2528 3260 5134 5135 
+	}
+	manpower=250463
+	buildings_max_level_factor=1.000
+
+
+	state_category = megalopolis
+	
+	resources = {
+		steel = 10    #IRON
+		tungsten = 10    #COPPER
+		aluminium = 10    #STONE
+	}
+	
+	history = {
+		owner = HLN
+		#controller = HLN
+		add_core_of = HLN
+		
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 7
+			arms_factory = 3
+		}
+		
+		victory_points = { 5134 50 } # Blister Hill
+		victory_points = { 5135 5 } # Fort Flame
+	}
+	
+	local_supplies = 5.0
+}

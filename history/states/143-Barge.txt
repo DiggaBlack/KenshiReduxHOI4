@@ -1,0 +1,35 @@
+state={
+	id=143
+	name="STATE_143"
+	provinces={
+		750 757 772 1009 1648 2044 2401 3062 3221 3570 3656 3791 5251 5268 5287 5311 
+	}
+	manpower=35847
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		#steel = 0    #IRON
+		tungsten = 6    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = MIH
+		#controller = MIH
+		add_core_of = MIH
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 1
+		}
+		
+		victory_points = { 2044 5 } # Modi
+		victory_points = { 1009 1 } # Delgate
+	}
+	
+	local_supplies = 5.0
+}

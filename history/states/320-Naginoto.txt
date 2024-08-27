@@ -1,0 +1,36 @@
+state={
+	id=320
+	name="STATE_320"
+	provinces={
+		269 503 611 788 1442 1783 1884 1951 2027 2032 2252 2566 2907 2908 2955 3065 3094 3383 4030 6053 6072 6100 6118 6131 6134 
+	}
+	manpower=16529
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = SAH
+		#controller = SAH
+		add_core_of = SAH
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 1
+		}
+		
+		victory_points = { 2908 3 } # Enne
+		victory_points = { 4030 10 } # Charlton
+		victory_points = { 788 1 } # Illiam
+	}
+	
+	local_supplies = 5.0
+}

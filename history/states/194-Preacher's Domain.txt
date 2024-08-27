@@ -1,0 +1,34 @@
+state={
+	id=194
+	name="STATE_194"
+	provinces={
+		237 2491 5482 6570 6566 6551 6550 
+	}
+	manpower=35072
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		steel = 20    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = PDO
+		#controller = PDO
+		add_core_of = PDO
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 4
+		}
+		
+		victory_points = { 5482 5 } # Crimson Peak
+	}
+	
+	local_supplies = 5.0
+}

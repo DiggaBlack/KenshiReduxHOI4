@@ -1,0 +1,35 @@
+state={
+	id=9
+	name="STATE_9"
+	provinces={
+		130 668 725 1077 1229 2529 3151 3810 4468 4474 4483 4508 4515 4540 4560 7947 7949 7950 
+	}
+	manpower=21924
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		steel = 8    #IRON
+		tungsten = 8    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = BSM
+		#controller = BSM
+		add_core_of = BSM
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 2
+		}
+		
+		victory_points = { 3810 3 } # Sall
+		victory_points = { 1229 1 } # Mount Maddox
+	}
+	
+	local_supplies = 5.0
+}

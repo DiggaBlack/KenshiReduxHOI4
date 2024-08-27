@@ -1,0 +1,35 @@
+state={
+	id=249
+	name="STATE_249"
+	provinces={
+		119 1381 2185 2581 2940 4139 4305 5735 5752 5768 5781 5801 5821 5748 
+	}
+	manpower=28340
+	buildings_max_level_factor=1.000
+
+
+	state_category = large_town
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = CRD
+		#controller = CRD
+		add_core_of = CRD
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+		}
+		
+		victory_points = { 5781 1 } # Crabbacks
+		victory_points = { 4305 3 } # Skewer
+	}
+	
+	local_supplies = 5.0
+}

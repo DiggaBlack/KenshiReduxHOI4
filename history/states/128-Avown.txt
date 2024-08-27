@@ -1,0 +1,35 @@
+state={
+	id=128
+	name="STATE_128"
+	provinces={
+		967 968 1484 1928 1945 2872 3180 3318 3926 3999 5167 5210 5215 5226 
+	}
+	manpower=124920
+	buildings_max_level_factor=1.000
+
+
+	state_category = city
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = HLN
+		#controller = HLN
+		add_core_of = HLN
+		
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 4
+			arms_factory = 0
+		}
+		
+		victory_points = { 5226 10 } # Greenfield
+		victory_points = { 1928 3 } # Bookend
+	}
+	
+	local_supplies = 3.0
+}

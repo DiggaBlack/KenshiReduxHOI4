@@ -1,0 +1,55 @@
+﻿capital = 227
+
+oob = "SHK"
+
+set_research_slots = 2
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_recon = 1
+	tech_support = 1		
+	tech_engineers = 1
+	tech_military_police = 1
+	sticks_and_clubs = 1
+}
+create_faction = "Shek Brotherhood"
+add_to_faction = SHK
+add_to_faction = SSK
+
+
+set_politics = {
+	ruling_party = kralist_code
+}
+
+add_ideas = {
+	encouraged_service
+	military_economy
+	limited_exports
+}
+
+set_popularities = {
+	new_imperialism = 0
+	okranite = 0
+	kralist_code = 85
+	old_imperialism = 0
+	hiver = 0
+	liberationism = 10
+	independent = 0
+	raider = 5
+	horde = 0
+	wilderness = 0
+}
+
+create_country_leader = {
+	name = SHK_leader
+	desc = SHK_leader_desc
+	picture = "gfx/leaders/SHK/Esata.dds"
+	ideology = new_era_sheks
+	traits = {
+		#
+	}
+}
+
+

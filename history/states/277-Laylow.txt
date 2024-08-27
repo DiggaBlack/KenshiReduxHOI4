@@ -1,0 +1,34 @@
+state={
+	id=277
+	name="STATE_277"
+	provinces={
+		81 108 259 1146 1169 2273 2285 2302 3039 3724 5829 5836 5841 5844 5888 5903 
+	}
+	manpower=30437
+	buildings_max_level_factor=1.000
+
+
+	state_category = large_town
+	
+	resources = {
+		steel = 16    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 12    #STONE
+	}
+	
+	history = {
+		owner = ARG
+		#controller = ARG
+		add_core_of = ARG
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 2
+		}
+		
+		victory_points = { 1169 5 } # The Muckraker Inn
+	}
+	
+	local_supplies = 5.0
+}

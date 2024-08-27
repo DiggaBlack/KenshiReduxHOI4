@@ -1,0 +1,35 @@
+state={
+	id=107
+	name="STATE_107"
+	provinces={
+		570 1644 2173 2414 2674 2694 3295 3706 4062 5037 5072 
+	}
+	manpower=35912
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		steel = 10    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = NWN
+		#controller = NWN
+		add_core_of = NWN
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 1
+		}
+		
+		victory_points = { 570 1 } # Takameru
+		victory_points = { 2674 3 } # Heiwa
+	}
+	
+	local_supplies = 5.0
+}

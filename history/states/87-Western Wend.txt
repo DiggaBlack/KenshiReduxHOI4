@@ -1,0 +1,35 @@
+state={
+	id=87
+	name="STATE_87"
+	provinces={
+		682 839 845 1692 2444 2550 2939 4184 4915 7952 
+	}
+	manpower=8730
+	buildings_max_level_factor=1.000
+
+
+	state_category = pastoral
+	
+	resources = {
+		steel = 68    #IRON
+		tungsten = 6    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = IHN
+		#controller = IHN
+		add_core_of = IHN
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 1
+		}
+		
+		victory_points = { 2550 2 } # Lostrit
+		victory_points = { 2444 1 } # Dorman
+	}
+	
+	local_supplies = 0.0
+}

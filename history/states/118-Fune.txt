@@ -1,0 +1,34 @@
+state={
+	id=118
+	name="STATE_118"
+	provinces={
+		1482 2457 2953 3042 3396 3795 5125 5147 
+	}
+	manpower=17496
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 14    #STONE
+	}
+	
+	history = {
+		owner = GOA
+		#controller = GOA
+		add_core_of = GOA
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 3
+			arms_factory = 0
+		}
+		
+		victory_points = { 1482 1 } # Chestnut
+	}
+	
+	local_supplies = 5.0
+}

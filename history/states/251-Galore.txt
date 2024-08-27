@@ -1,0 +1,35 @@
+state={
+	id=251
+	name="STATE_251"
+	provinces={
+		872 1081 1576 1601 1702 1806 2256 2417 2847 3347 3563 3596 3678 3839 3892 3946 5773 5792 5798 5850 
+	}
+	manpower=24239
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = REA
+		#controller = REA
+		add_core_of = REA
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 1
+		}
+		
+		victory_points = { 2256 3 } # Kyodai
+		victory_points = { 1081 1 } # Freak
+	}
+	
+	local_supplies = 5.0
+}

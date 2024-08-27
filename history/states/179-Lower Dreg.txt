@@ -1,0 +1,35 @@
+state={
+	id=179
+	name="STATE_179"
+	provinces={
+		660 2160 2240 2558 2740 3050 3423 3612 3840 4387 5426 5466 5468 5475 5479 5489 
+	}
+	manpower=48092
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = MIH
+		#controller = MIH
+		add_core_of = MIH
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 2
+		}
+		
+		victory_points = { 5426 3 } # Dirwork
+		victory_points = { 5489 10 } # Sanity Peak
+	}
+	
+	local_supplies = 5.0
+}

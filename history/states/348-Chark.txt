@@ -1,0 +1,35 @@
+state={
+	id=348
+	name="STATE_348"
+	provinces={
+		521 983 1062 1317 1325 1685 1733 1832 2247 2288 2624 2746 2752 2913 3301 3716 3822 4034 4148 4344 6204 6219 6235 6267 6294 6295 
+	}
+	manpower=28533
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		steel = 20    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = MNH
+		#controller = MNH
+		add_core_of = MNH
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+		}
+		
+		victory_points = { 3716 3 } # Ruft
+		victory_points = { 4148 1 } # Scamper
+	}
+	
+	local_supplies = 5.0
+}

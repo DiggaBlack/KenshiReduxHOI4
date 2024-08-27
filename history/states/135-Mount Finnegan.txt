@@ -1,0 +1,35 @@
+state={
+	id=135
+	name="STATE_135"
+	provinces={
+		107 262 1191 1269 1311 1441 1751 2249 3237 3634 3701 5232 5234 5276 5320 6541 6556 6579 6576 
+	}
+	manpower=28724
+	buildings_max_level_factor=1.000
+
+
+	state_category = large_town
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 16    #STONE
+	}
+	
+	history = {
+		owner = IHA
+		#controller = IHA
+		add_core_of = IHA
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 3
+		}
+		
+		victory_points = { 3701 3 } # Dronerule
+		victory_points = { 107 1 } # No-Surrender
+	}
+	
+	local_supplies = 5.0
+}

@@ -1,0 +1,34 @@
+state={
+	id=322
+	name="STATE_322"
+	provinces={
+		1059 1620 2420 2727 2800 2889 3185 3555 4016 6070 6085 6088 6115 6120 6128 6137 6166 
+	}
+	manpower=13059
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		steel = 12    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = SNI
+		#controller = SNI
+		add_core_of = SNI
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 3
+		}
+		
+		victory_points = { 1620 3 } # Fort Garand
+	}
+	
+	local_supplies = 5.0
+}

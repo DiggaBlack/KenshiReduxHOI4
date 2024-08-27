@@ -1,0 +1,35 @@
+state={
+	id=42
+	name="STATE_42"
+	provinces={
+		114 707 1395 1518 1856 1902 2493 2609 2650 2780 2933 3315 3344 3561 4349 4672 4689 4698 4712 4724 4733 4736 
+	}
+	manpower=58105
+	buildings_max_level_factor=1.000
+
+
+	state_category = large_town
+	
+	resources = {
+		steel = 6    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 6    #STONE
+	}
+	
+	history = {
+		owner = FLO
+		#controller = FLO
+		add_core_of = FLO
+		
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 2
+		}
+		
+		victory_points = { 4689 10 } # Arcadia
+		victory_points = { 3561 5 } # Parma
+	}
+	
+	local_supplies = 5.0
+}

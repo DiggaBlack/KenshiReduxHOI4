@@ -1,0 +1,591 @@
+﻿l_english:
+ UNC:0 "United Cities"
+ UNC_DEF:0 "the United Cities"
+ UNC_ADJ:0 "Imperial"
+ 
+ HLN:0 "Holy Nation"
+ HLN_DEF:0 "the Holy Nation"
+ HLN_ADJ:0 "Okranite"
+ 
+ SHK:0 "Shek Kingdom"
+ SHK_DEF:0 "the Shek Kingdom"
+ SHK_ADJ:0 "Shek"
+ 
+ 
+ TDG:0 "Trader's Guild"
+ TDG_DEF:0 "the Trader's Guild"
+ TDG_ADJ:0 "Guild"
+ 
+ SUC:0 "Stormgap Territories"
+ SUC_DEF:0 "the Stormgap Territories"
+ SUC_ADJ:0 "Imperial"
+ 
+ SHN:0 "Seta"
+ SHN_DEF:0 "High Inquisitor Seta's Army"
+ SHN_ADJ:0 "Okranite"
+ 
+ IHN:0 "Vindictus"
+ IHN_DEF:0 "High Inquisitor Vindictus's Army"
+ IHN_ADJ:0 "Okranite"
+ 
+ VHN:0 "Valtena"
+ VHN_DEF:0 "High Inquisitor Valtena's Army"
+ VHN_ADJ:0 "Okranite"
+ 
+ HHN:0 "Harbinger"
+ HHN_DEF:0 "High Inquisitor Harbinger's Army"
+ HHN_ADJ:0 "Okranite"
+ 
+ SSK:0 "Southern Army"
+ SSK_DEF:0 "the Southern Shek Army"
+ SSK_ADJ:0 "Shek"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ KRC:0 "Kral's Chosen"
+ KRC_DEF:0 "Kral's Chosen"
+ KRC_ADJ:0 "Kralists"
+ 
+ BOB:0 "Band Of Bones"
+ BOB_DEF:0 "the Band Of Bones Gang"
+ BOB_ADJ:0 "Bones Clan"
+ 
+ BRS:0 "Berserkers"
+ BRS_DEF:0 "the Berserker Insurgency"
+ BRS_ADJ:0 "Insurgent"
+ 
+ FSS:0 "Free Shek State"
+ FSS_DEF:0 "the Free Shek State"
+ FSS_ADJ:0 "Shek Peasant"
+ 
+ BLB:0 "Blood Brothers"
+ BLB_DEF:0 "the Blood Brothers"
+ BLB_ADJ:0 "Bloody"
+ 
+ STC:0 "Steel Chapter"
+ STC_DEF:0 "the Steel Chapter"
+ STC_ADJ:0 "Chapter"
+ 
+ DSP:0 "Desolate Plunderers"
+ DSP_DEF:0 "the Desolate Plunderers"
+ DSP_ADJ:0 "Plunderer"
+ 
+ FOL:0 "Forsaken League"
+ FOL_DEF:0 "the Forsaken League"
+ FOL_ADJ:0 "Forsaken"
+ 
+ UFF:0 "Unit 45"
+ UFF_DEF:0 "Unit 45"
+ UFF_ADJ:0 "Experimentalist"
+ 
+ ARG:0 "Arach Guard"
+ ARG_DEF:0 "the Arach Guard"
+ ARG_ADJ:0 "Guardian"
+ 
+ BUG:0 "Bugmaster"
+ BUG_DEF:0 "the Bugmaster"
+ BUG_ADJ:0 "Spider"
+ 
+ 
+ 
+ 
+ SRR:0 "2nd Red Rebellion"
+ SRR_DEF:0 "the 2nd Red Rebellion"
+ SRR_ADJ:0 "Red Rebel"
+ 
+ XUC:0 "Southern Territories"
+ XUC_DEF:0 "the Southern Territories"
+ XUC_ADJ:0 "Imperial"
+ 
+ MNH:0 "Manhunters"
+ MNH_DEF:0 "the Manhunters"
+ MNH_ADJ:0 "Manhunter"
+ 
+ FCC:0 "Catun"
+ FCC_DEF:0 "the Free City of Catun"
+ FCC_ADJ:0 "Catunese"
+ 
+ RSB:0 "Red Sabres"
+ RSB_DEF:0 "the Red Sabres"
+ RSB_ADJ:0 "Red Sabre"
+ 
+ SWN:0 "Swamp Ninjas"
+ SWN_DEF:0 "the Swamp Ninjas"
+ SWN_ADJ:0 "Swamp Ninja"
+ 
+ WHO:0 "Hounds"
+ WHO_DEF:0 "the Hounds"
+ WHO_ADJ:0 "Hound"
+ 
+ WPU:0 "Puritans"
+ WPU_DEF:0 "the Puritans"
+ WPU_ADJ:0 "Puritan"
+ 
+ WGR:0 "Grayflayers"
+ WGR_DEF:0 "the Grayflayers"
+ WGR_ADJ:0 "Grayflayer"
+ 
+ WTW:0 "Twinblades"
+ WTW_DEF:0 "the Twinblades"
+ WTW_ADJ:0 "Twinblade"
+ 
+ WBL:0 "Blackshifters"
+ WBL_DEF:0 "the Blackshifters"
+ WBL_ADJ:0 "Blackshifter"
+ 
+ WST:0 "Stone Rats"
+ WST_DEF:0 "the Stone Rats"
+ WST_ADJ:0 "Stone Rat"
+ 
+ WBE:0 "Band Of Exiles"
+ WBE_DEF:0 "the Band Of Exiles"
+ WBE_ADJ:0 "Exile"
+ 
+ WCB:0 "Cold Bloods"
+ WCB_DEF:0 "the Cold Bloods"
+ WCB_ADJ:0 "Cold Blood"
+ 
+ SWA:0 "Free Swampers"
+ SWA_DEF:0 "the Free Swampers"
+ SWA_ADJ:0 "Swamper"
+ 
+ WEH:0 "Western Hive"
+ WEH_DEF:0 "the Western Hive"
+ WEH_ADJ:0 "Westhive"
+ 
+ MIH:0 "Midland Hive"
+ MIH_DEF:0 "the Midland Hive"
+ MIH_ADJ:0 "Midhive"
+ 
+ 
+ 
+ 
+ ZBD:0 "Black Dragons"
+ ZBD_DEF:0 "the Black Dragon Ninjas"
+ ZBD_ADJ:0 "Black Dragon"
+ 
+ ZWE:0 "White Eyebrows"
+ ZWE_DEF:0 "the White Eyebrow Clan"
+ ZWE_ADJ:0 "White Eyebrow"
+ 
+ ZDV:0 "Doves"
+ ZDV_DEF:0 "the Doves"
+ ZDV_ADJ:0 "Dove"
+ 
+ ZBH:0 "Bleeding Hearts"
+ ZBH_DEF:0 "the Bleeding Hearts Gang"
+ ZBH_ADJ:0 "Gang"
+ 
+ ZHB:0 "Hungry Bandits"
+ ZHB_DEF:0 "the Hungry Bandits"
+ ZHB_ADJ:0 "Hungry Bandit"
+ 
+ ZCN:0 "Church of Narko"
+ ZCN_DEF:0 "the Church of Narko"
+ ZCN_ADJ:0 "Narkoist"
+ 
+ ZDB:0 "Dust Bandits"
+ ZDB_DEF:0 "the Dust Bandits"
+ ZDB_ADJ:0 "Dust Bandit"
+ 
+ ZRF:0 "Redemption Front"
+ ZRF_DEF:0 "the Redemption Front"
+ ZRF_ADJ:0 "Dishonored"
+ 
+ ZHH:0 "Halfway Hive"
+ ZHH_DEF:0 "the Halfway Hive"
+ ZHH_ADJ:0 "Halfhive"
+ 
+ ZSC:0 "Shinobi Clan"
+ ZSC_DEF:0 "the Shinobi Clan"
+ ZSC_ADJ:0 "Shinobi"
+ 
+ ZNM:0 "Nameless"
+ ZNM_DEF:0 "the Nameless"
+ ZNM_ADJ:0 "Nameless"
+ 
+ ZHO:0 "Hub Outlaws"
+ ZHO_DEF:0 "the Hub Outlaws"
+ ZHO_ADJ:0 "Hubbian"
+ 
+ ZOF:0 "Okran's Fury"
+ ZOF_DEF:0 "the Okran's Fury Regiment"
+ ZOF_ADJ:0 "Okranite"
+ 
+ ZST:0 "Stickton"
+ ZST_DEF:0 "the Free Nation of Stickton"
+ ZST_ADJ:0 "Sticktonese"
+ 
+ ZVG:0 "Vergers"
+ ZVG_DEF:0 "the Vergers"
+ ZVG_ADJ:0 "Verger"
+ 
+ ZWM:0 "Wild Men"
+ ZWM_DEF:0 "the Wild Men"
+ ZWM_ADJ:0 "Nomadic"
+ 
+ ZFC:0 "Fortune's Call"
+ ZFC_DEF:0 "the Fortune's Call Gang"
+ ZFC_ADJ:0 "Mercenary"
+ 
+ ZGL:0 "Greenleaf"
+ ZGL_DEF:0 "the Drug State of Greenleaf"
+ ZGL_ADJ:0 "Greenleavian"
+ 
+ 
+ 
+ 
+ FLO:0 "Flotsam Ninjas"
+ FLO_DEF:0 "the Flotsam Ninjas"
+ FLO_ADJ:0 "Flotsam"
+ 
+ HMU:0 "White Legion"
+ HMU_DEF:0 "the White Legion"
+ HMU_ADJ:0 "White Legion"
+ 
+ FLC:0 "Cannibal Front"
+ FLC_DEF:0 "the Flotsam Cannibal Front"
+ FLC_ADJ:0 "Flotsam"
+ 
+ DDC:0 "Deadcat Remnants"
+ DDC_DEF:0 "the Remnants of Deadcat"
+ DDC_ADJ:0 "Deadcatian"
+ 
+ CNW:0 "Skull Drinkers"
+ CNW_DEF:0 "the Skull Drinker Horde"
+ CNW_ADJ:0 "Skull Drinker"
+ 
+ CNE:0 "Flesh Raiders"
+ CNE_DEF:0 "the Flesh Raider Horde"
+ CNE_ADJ:0 "Flesh Raider"
+ 
+ XWE:0 "World's End"
+ XWE_DEF:0 "the World's End Chapter"
+ XWE_ADJ:0 "Tech Hunter"
+ 
+ XBS:0 "Black Scratch"
+ XBS_DEF:0 "the Black Scratch Chapter"
+ XBS_ADJ:0 "Tech Hunter"
+ 
+ XFL:0 "Flats Lagoon"
+ XFL_DEF:0 "the Flats Lagoon Chapter"
+ XFL_ADJ:0 "Tech Hunter"
+ 
+ XMO:0 "Mourn"
+ XMO_DEF:0 "the Mourn Chapter"
+ XMO_ADJ:0 "Tech Hunter"
+ 
+ SOH:0 "Southern Hive"
+ SOH_DEF:0 "the Southern Hive"
+ SOH_ADJ:0 "Southhive"
+ 
+ SKB:0 "Skin Bandits"
+ SKB_DEF:0 "the Skin Bandits"
+ SKB_ADJ:0 "Skin Bandit"
+ 
+ SEM:0 "Second Empire"
+ SEM_DEF:0 "the Second Empire"
+ SEM_ADJ:0 "Ancient"
+ 
+ IMP:0 "Imperial Army"
+ IMP_DEF:0 "the Imperial Army"
+ IMP_ADJ:0 "Imperial"
+ 
+ 
+ 
+ 
+ 
+ 
+ FRB:0 "Farmers' Rebellion"
+ FRB_DEF:0 "the Farmers' Rebellion"
+ FRB_ADJ:0 "Rebel"
+ 
+ SLP:0 "Slavers' Pact"
+ SLP_DEF:0 "the Slavers' Pact"
+ SLP_ADJ:0 "Slaver"
+ 
+ CWY:0 "Castaway Hive"
+ CWY_DEF:0 "the Castaway Hive"
+ CWY_ADJ:0 "Castaway"
+ 
+ CHT:0 "Cannibal Hunters"
+ CHT_DEF:0 "the Cannibal Hunters"
+ CHT_ADJ:0 "Cannibal Hunter"
+ 
+ FOG:0 "Fogmen"
+ FOG_DEF:0 "the Fogmen"
+ FOG_ADJ:0 "Fogman"
+ 
+ MON:0 "Mongrel"
+ MON_DEF:0 "the Lone City of Mongrel"
+ MON_ADJ:0 "Mongrelian"
+ 
+ FSH:0 "Fishmen"
+ FSH_DEF:0 "the Fishmen"
+ FSH_ADJ:0 "Fishman"
+ 
+ YDR:0 "Dune Renegades"
+ YDR_DEF:0 "the Dune Renegades"
+ YDR_ADJ:0 "Renegade"
+ 
+ YGC:0 "Golden Circle"
+ YGC_DEF:0 "the Golden Circle"
+ YGC_ADJ:0 "Golden"
+ 
+ YFD:0 "Fort Drin"
+ YFD_DEF:0 "the Fort Drin Regiment"
+ YFD_ADJ:0 "Verger"
+ 
+ YNS:0 "National Salvation Army"
+ YNS_DEF:0 "the National Salvation Army"
+ YNS_ADJ:0 "Salvationist"
+ 
+ YSS:0 "Silver Swords"
+ YSS_DEF:0 "the Silver Swords"
+ YSS_ADJ:0 "Silver"
+ 
+ YOE:0 "Order of the Eagle"
+ YOE_DEF:0 "the Order of the Eagle"
+ YOE_ADJ:0 "Deathwing"
+ 
+ YSU:0 "Sullies"
+ YSU_DEF:0 "the Nation of Sol"
+ YSU_ADJ:0 "Sully"
+ 
+ YCW:0 "Carvender's Wolves"
+ YCW_DEF:0 "Carvender's Wolves"
+ YCW_ADJ:0 "Carvender"
+ 
+ YBH:0 "Bast Holy State"
+ YBH_DEF:0 "the Bast Holy State"
+ YBH_ADJ:0 "Okranite"
+ 
+ YNI:0 "Nova Imperita"
+ YNI_DEF:0 "the New Bast Empire"
+ YNI_ADJ:0 "New Empire"
+ 
+ YCC:0 "Chitrin Crusade"
+ YCC_DEF:0 "the Chitrin Crusade"
+ YCC_ADJ:0 "Chitrinists"
+ 
+ 
+ 
+ 
+ 
+ SMG:0 "Smugglers' Guild"
+ SMG_DEF:0 "the Smugglers' Guild"
+ SMG_ADJ:0 "Smuggler"
+ 
+ SMN:0 "Shem Nomads"
+ SMN_DEF:0 "the Shem Nomads"
+ SMN_ADJ:0 "Shemians"
+ 
+ VNG:0 "Venge Thralls"
+ VNG_DEF:0 "the Venge Thrall Bandits"
+ VNG_ADJ:0 "Venge Thrall"
+ 
+ DEX:0 "Deadland Exiles"
+ DEX_DEF:0 "the Deadland Exiles"
+ DEX_ADJ:0 "Exile"
+ 
+ DLG:0 "The Deluged"
+ DLG_DEF:0 "The Deluged"
+ DLG_ADJ:0 "Deluged"
+ 
+ BRN:0 "Berserker Country"
+ BRN_DEF:0 "the Berserker Country"
+ BRN_ADJ:0 "Berserkers"
+ 
+ SNJ:0 "Sand Ninjas"
+ SNJ_DEF:0 "the Sand Ninjas"
+ SNJ_ADJ:0 "Ninja"
+ 
+ GOB:0 "Gorillo Bandits"
+ GOB_DEF:0 "the Gorillo Bandits"
+ GOB_ADJ:0 "Gorillo"
+ 
+ VBO:0 ""
+ VBO_DEF:0 "the Bonefields Wilderness"
+ VBO_ADJ:0 "Wild"
+ 
+ VIV:0 ""
+ VIV_DEF:0 "the Iron Valleys"
+ VIV_ADJ:0 "Empty"
+ 
+ VOB:0 ""
+ VOB_DEF:0 "the Pit of Obedience"
+ VOB_ADJ:0 "Empty"
+ 
+ VUW:0 ""
+ VUW_DEF:0 "the Unwanted Zone"
+ VUW_ADJ:0 "Wild"
+ 
+ 
+ 
+ 
+ 
+ 
+ ANS:0 "Anti-Slavers"
+ ANS_DEF:0 "the Anti-Slavers"
+ ANS_ADJ:0 "Anti-Slaver"
+ 
+ COS:0 "Cult Of Stobe"
+ COS_DEF:0 "the Cult Of Stobe"
+ COS_ADJ:0 "Stobist"
+ 
+ THB:0 "Lost Expedition"
+ THB_DEF:0 "the Tech Hunter Bandits"
+ THB_ADJ:0 "Tech Bandit"
+ 
+ KLB:0 "Skeleton Bandits"
+ KLB_DEF:0 "the Skeleton Bandits"
+ KLB_ADJ:0 "Skeleton Bandit"
+ 
+ CRD:0 "Crab Raiders"
+ CRD_DEF:0 "the Crab Raiders"
+ CRD_ADJ:0 "Crab Raider"
+ 
+ REA:0 "Reavers"
+ REA_DEF:0 "the Reavers"
+ REA_ADJ:0 "Reaver"
+ 
+ GRP:0 "Grass Pirates"
+ GRP_DEF:0 "the Grass Pirates"
+ GRP_ADJ:0 "Grass Pirate"
+ 
+ PDO:0 "Preacher's Domain"
+ PDO_DEF:0 "the Preacher's Domain"
+ PDO_ADJ:0 "Cultist"
+ 
+ BDG:0 "Black Dogs"
+ BDG_DEF:0 "the Black Dog Clan"
+ BDG_ADJ:0 "Black Dog"
+ 
+ XTH:0 "Tech Hunters"
+ XTH_DEF:0 "the Tech Hunter Headquarters"
+ XTH_ADJ:0 "Tech Hunter"
+ 
+ BNJ:0 "Black Desert Ninjas"
+ BNJ_DEF:0 "the Black Desert Ninjas"
+ BNJ_ADJ:0 "Black Desert Ninja"
+ 
+ BLR:0 "Bloodraiders"
+ BLR_DEF:0 "the Bloodraiders"
+ BLR_ADJ:0 "Bloodraider"
+ 
+ AVA:0 "Avalon"
+ AVA_DEF:0 "the Isles of Avalon"
+ AVA_ADJ:0 "Avalonian"
+ 
+ 
+ 
+ 
+ 
+ 
+ VGT:0 ""
+ VGT_DEF:0 "the Gut Wilderness"
+ VGT_ADJ:0 "Wild"
+ 
+ CHB:0 "Chainbreakers"
+ CHB_DEF:0 "the Chainbreakers"
+ CHB_ADJ:0 "Chainbreaker"
+ 
+ IHA:0 "Imperial Hiver Army"
+ IHA_DEF:0 "the Imperial Hiver Army"
+ IHA_ADJ:0 "Imperialist Hiver"
+ 
+ SCM:0 "Snake Eyes"
+ SCM_DEF:0 "the Snake Eyes Gang"
+ SCM_ADJ:0 "Snake Eye"
+ 
+ OGD:0 "Old Guard"
+ OGD_DEF:0 "the Old Guard"
+ OGD_ADJ:0 "Old Guard"
+ 
+ VSE:0 ""
+ VSE_DEF:0 "the Southeast Warzone"
+ VSE_ADJ:0 "Southeastern Anarchy"
+ 
+ MCH:0 "Mechanical Hive"
+ MCH_DEF:0 "the Mechanical Hive"
+ MCH_ADJ:0 "Mechhive"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SNI:0 "Sniper Legion"
+ SNI_DEF:0 "the Sniper Legion"
+ SNI_ADJ:0 "Legion" 
+ 
+ ALP:0 "Master Bastion"
+ ALP_DEF:0 "the Master Bastion"
+ ALP_ADJ:0 "Bastion" 
+ 
+ CUC:0 "Central Territories"
+ CUC_DEF:0 "the Central Territories"
+ CUC_ADJ:0 "Imperial" 
+ 
+ SBM:0 "Stobe's Bounty"
+ SBM_DEF:0 "the Stobe's Bounty Gang"
+ SBM_ADJ:0 "Stobe's Bounty" 
+ 
+ KDR:0 "Karate Drifters"
+ KDR_DEF:0 "the Karate Drifters"
+ KDR_ADJ:0 "Karate" 
+ 
+ SAH:0 "Beakmaster"
+ SAH_DEF:0 "the Beakmaster"
+ SAH_ADJ:0 "Beakmaster" 
+ 
+ DSC:0 "Disaster Crew"
+ DSC_DEF:0 "the Disaster Crew"
+ DSC_ADJ:0 "Disaster Crew" 
+ 
+ NWN:0 "Northwest Nomads"
+ NWN_DEF:0 "the Northwest Nomads"
+ NWN_ADJ:0 "Northwest Nomad" 
+ 
+ GOA:0 "Goat Herders"
+ GOA_DEF:0 "the Goat Herders"
+ GOA_ADJ:0 "Goat Herder" 
+ 
+ VRP:0 ""
+ VRP_DEF:0 "the Raptor Island Wilderness"
+ VRP_ADJ:0 "Wild" 
+ 
+ SBN:0 "Shrieking Bandits"
+ SBN_DEF:0 "the Shrieking Bandits"
+ SBN_ADJ:0 "Shrieking Bandit" 
+ 
+ SKV:0 "Skavengers"
+ SKV_DEF:0 "the Skavengers"
+ SKV_ADJ:0 "Skavenger" 
+ 
+ ILC:0 "I.L.C."
+ ILC_DEF:0 "the Iron Liberation Committee"
+ ILC_ADJ:0 "Liberators" 
+ 
+ BSM:0 "Blossom Clan"
+ BSM_DEF:0 "the Blossom Clan"
+ BSM_ADJ:0 "Blossom" 
+ 
+ PRL:0 "Pearl Republic"
+ PRL_DEF:0 "the Pearl Republic"
+ PRL_ADJ:0 "Pearl Republic" 
+ 
+ RWK:0 "The Reawakened"
+ RWK_DEF:0 "the Reawakened"
+ RWK_ADJ:0 "Reawakened"

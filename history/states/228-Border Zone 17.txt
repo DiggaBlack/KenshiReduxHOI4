@@ -1,0 +1,35 @@
+state={
+	id=228
+	name="STATE_228"
+	provinces={
+		197 1326 3197 5616 5629 5634 6614 
+	}
+	manpower=33945
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		steel = 10    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = ZFC
+		#controller = ZFC
+		add_core_of = ZFC
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 2
+		}
+		
+		victory_points = { 5634 3 } # Towering Bravery
+		victory_points = { 1326 1 } # Stripsell
+	}
+	
+	local_supplies = 5.0
+}

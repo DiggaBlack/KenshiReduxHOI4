@@ -1,0 +1,34 @@
+state={
+	id=328
+	name="STATE_328"
+	provinces={
+		386 716 956 1623 1897 1947 2150 2202 2216 3126 3322 4079 4198 6110 6145 6212 6249 6256 
+	}
+	manpower=46195
+	buildings_max_level_factor=1.000
+
+
+	state_category = large_town
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 24    #STONE
+	}
+	
+	history = {
+		owner = MNH
+		#controller = MNH
+		add_core_of = MNH
+		
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 4
+			arms_factory = 0
+		}
+		
+		victory_points = { 716 7 } # Great Southern Slave Market
+	}
+	
+	local_supplies = 5.0
+}

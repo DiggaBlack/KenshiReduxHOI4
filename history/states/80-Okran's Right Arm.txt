@@ -1,0 +1,34 @@
+state={
+	id=80
+	name="STATE_80"
+	provinces={
+		3 982 1366 1451 1638 1825 2052 2169 2831 2834 2920 3351 3497 3846 4856 5004 5010 5018 
+	}
+	manpower=8453
+	buildings_max_level_factor=1.000
+
+
+	state_category = pastoral
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 8    #STONE
+	}
+	
+	history = {
+		owner = VHN
+		#controller = VHN
+		add_core_of = VHN
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 0
+		}
+		
+		victory_points = { 1825 1 } # Peak-Park
+	}
+	
+	local_supplies = 0.0
+}

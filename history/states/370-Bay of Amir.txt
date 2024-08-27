@@ -1,0 +1,37 @@
+state={
+	id=370
+	name="STATE_370"
+	provinces={
+		40 46 349 515 525 745 1210 1523 1953 1954 2194 3024 3253 3608 3682 3740 4109 4131 4312 6377 6382 6396 6398 6403 6406 6410 6416 6424 6425 6439 1252 4404 
+	}
+	manpower=101825
+	buildings_max_level_factor=1.000
+
+
+	state_category = large_city
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = XUC
+		#controller = XUC
+		add_core_of = XUC
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 4
+			arms_factory = 3
+		}
+		
+		victory_points = { 6396 30 } # Drifter's Last
+		victory_points = { 1252 3 } # Sultan Isle
+		victory_points = { 46 1 } # Nook
+		victory_points = { 1953 5 } # Old Rayner
+	}
+	
+	local_supplies = 5.0
+}

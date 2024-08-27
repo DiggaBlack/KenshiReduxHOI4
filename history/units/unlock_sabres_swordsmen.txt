@@ -1,0 +1,11 @@
+﻿division_template = {
+	name = "Sabre Swordsmen"
+
+	regiments = {
+		sabres_swordsmen = { x = 0 y = 0 }
+		sabres_swordsmen = { x = 0 y = 1 }
+        sabres_swordsmen = { x = 0 y = 2 }
+		sabres_swordsmen = { x = 1 y = 0 }
+		sabres_swordsmen = { x = 1 y = 1 }
+	}
+}

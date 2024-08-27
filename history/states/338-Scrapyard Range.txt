@@ -1,0 +1,34 @@
+state={
+	id=338
+	name="STATE_338"
+	provinces={
+		9 82 311 533 1553 2399 2818 3418 6173 6186 6210 6222 6237 6255 6280 6299 
+	}
+	manpower=24105
+	buildings_max_level_factor=1.000
+
+
+	state_category = pastoral
+	
+	resources = {
+		steel = 15    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = SOH
+		#controller = SOH
+		add_core_of = SOH
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		
+		victory_points = { 3418 5 } # Outpour
+	}
+	
+	local_supplies = 5.0
+}

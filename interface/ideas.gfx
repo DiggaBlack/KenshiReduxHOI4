@@ -1,0 +1,102 @@
+spriteTypes = {
+	
+	SpriteType = {
+	name = "GFX_idea_slavery_prisoners_only"
+	texturefile = "gfx/interface/ideas/slavery_prisoners_only.dds"	
+	}
+	
+	SpriteType = {
+	name = "GFX_idea_slavery_outlawed"
+	texturefile = "gfx/interface/ideas/slavery_outlawed.dds"	
+	}
+	
+	SpriteType = {
+	name = "GFX_idea_slavery_tolerated"
+	texturefile = "gfx/interface/ideas/slavery_tolerated.dds"	
+	}
+	
+	SpriteType = {
+	name = "GFX_idea_slavery_widespread"
+	texturefile = "gfx/interface/ideas/slavery_widespread.dds"	
+	}
+	
+	SpriteType = {
+	name = "GFX_idea_slavery_national_identity"
+	texturefile = "gfx/interface/ideas/slavery_outlawed.dds"	
+	}
+	
+	SpriteType = {
+	name = "GFX_idea_balanced_economy"
+	texturefile = "gfx/interface/ideas/balanced_economy.dds"	
+	}
+	
+	SpriteType = {
+	name = "GFX_idea_military_economy"
+	texturefile = "gfx/interface/ideas/military_economy.dds"	
+	}
+	
+	SpriteType = {
+	name = "GFX_idea_lavish_economy"
+	texturefile = "gfx/interface/ideas/lavish_economy.dds"	
+	}
+	
+	SpriteType = {
+	name = "GFX_idea_no_economy"
+	texturefile = "gfx/interface/ideas/no_economy.dds"	
+	}
+	
+	SpriteType = {
+	name = "GFX_idea_all_for_one"
+	texturefile = "gfx/interface/ideas/all_for_one.dds"	
+	}
+	
+	SpriteType = {
+	name = "GFX_idea_volunteer_force"
+	texturefile = "gfx/interface/ideas/volunteer_force.dds"	
+	}
+	
+	SpriteType = {
+	name = "GFX_idea_encouraged_service"
+	texturefile = "gfx/interface/ideas/encouraged_service.dds"	
+	}
+	
+	SpriteType = {
+	name = "GFX_idea_national_draft"
+	texturefile = "gfx/interface/ideas/national_draft.dds"	
+	}
+	
+	SpriteType = {
+	name = "GFX_idea_army_with_a_state"
+	texturefile = "gfx/interface/ideas/army_with_a_state.dds"	
+	}
+	
+	SpriteType = {
+	name = "GFX_idea_last_man_standing"
+	texturefile = "gfx/interface/ideas/last_man_standing.dds"	
+	}
+	
+	SpriteType = {
+	name = "GFX_idea_raider_economy"
+	texturefile = "gfx/interface/ideas/raider_economy.dds"	
+	}
+	
+	SpriteType = {
+	name = "GFX_idea_free_trade"
+	texturefile = "gfx/interface/ideas/free_trade.dds"	
+	}
+	
+	SpriteType = {
+	name = "GFX_idea_export_focus"
+	texturefile = "gfx/interface/ideas/export_focus.dds"	
+	}
+	
+	SpriteType = {
+	name = "GFX_idea_limited_exports"
+	texturefile = "gfx/interface/ideas/limited_exports.dds"	
+	}
+	
+	SpriteType = {
+	name = "GFX_idea_closed_economy"
+	texturefile = "gfx/interface/ideas/closed_economy.dds"	
+	}
+}

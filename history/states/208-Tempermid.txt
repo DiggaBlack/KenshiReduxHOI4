@@ -1,0 +1,35 @@
+state={
+	id=208
+	name="STATE_208"
+	provinces={
+		126 355 587 1075 1719 2495 2850 3279 4159 4178 5506 5524 5564 5566 5570 5580 
+	}
+	manpower=56109
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		steel = 8    #IRON
+		tungsten = 12    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = WEH
+		#controller = WEH
+		add_core_of = WEH
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+		}
+		
+		victory_points = { 355 3 } # Bop
+		victory_points = { 5570 5 } # Tylo
+	}
+	
+	local_supplies = 5.0
+}

@@ -1,0 +1,36 @@
+state={
+	id=150
+	name="STATE_150"
+	provinces={
+		926 1764 2991 3210 3249 5317 5318 5325 5329 7967 6611 
+	}
+	manpower=305492
+	buildings_max_level_factor=1.000
+
+
+	state_category = metropolis
+	
+	resources = {
+		steel = 8    #IRON
+		tungsten = 8    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = HLN
+		#controller = HLN
+		add_core_of = HLN
+		
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 3
+			arms_factory = 5
+		}
+		
+		victory_points = { 5329 3 } # Wadeweed
+		victory_points = { 6611 35 } # Bad Teeth
+		victory_points = { 5317 10 } # Happy Valley
+	}
+	
+	local_supplies = 4.0
+}

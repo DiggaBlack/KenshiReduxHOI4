@@ -1,0 +1,35 @@
+state={
+	id=303
+	name="STATE_303"
+	provinces={
+		258 568 685 964 974 1510 1817 2072 2673 3090 3440 3814 3859 5937 5970 5992 
+	}
+	manpower=12854
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = SAH
+		#controller = SAH
+		add_core_of = SAH
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 0
+		}
+		
+		victory_points = { 5970 1 } # Pilge
+		victory_points = { 1510 1 } # Yorge
+	}
+	
+	local_supplies = 5.0
+}

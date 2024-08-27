@@ -1,0 +1,313 @@
+# options for map_icon_category:
+# For land units: infantry,armored,other
+# For sea units: ship,transport,uboat
+
+sub_units = {
+
+	katanas_swordsmen = {
+		abbreviation = "KAT"
+		sprite = infantry
+		map_icon_category = infantry
+		
+		priority = 600
+		ai_priority = 200
+		active = no
+
+		type = {
+			infantry
+		}
+		
+		group = infantry
+		
+		categories = {
+			category_front_line
+			category_light_infantry
+			category_all_infantry
+			category_army
+		}
+		
+		#Basic stats
+		manpower = 100                 # Manpower - Number of people in this batallion at full strength [standard 100]
+		max_organisation = 50          # Max Organization - [standard 60]
+		training_time = 120            # Training Time - in days [standard 120]
+		default_morale = 0.4           # Default Morale - how much org regained hourly when not in combat [standard 0.3]
+		combat_width = 2               # Combat Width - [standard 2]
+		supply_consumption = 0.05      # Supply Consumption - [standard 0.06]
+		reliability = 0.9               # Reliability controls how often equipment will suffer random failures.
+		maximum_speed = 0.5             # How much faster / slower the unit moves
+
+		#Offense
+		soft_attack = 0.2              # Soft Attack - How many extra attacks the unit can make versus enemies with low hardness. [standard 0]
+		hard_attack = -1.5              # Hard Attack - How many extra attacks the unit can make versus enemies with high hardness [standard 0]
+		ap_attack = 0                   # Piercing - Having equal or greater Piercing to the targets Armor value allows you to do more damage. [from 0-1]
+		breakthrough = 0.2              # Breakthrough - How many enemy attacks a unit can attempt to avoid while on the offensive, effectively allowing it to stay on the offense longer. [standard 0]
+		
+		
+		#Defense
+		defense = -0.2                   # Defense - How many enemy attacks a unit can avoid whilst on the defensive, effectively allowing it to stay on the defensive longer.
+		max_strength = 20                # HP - Strength represents how much damage this unit can suffer before it is destroyed [standard 25]
+		armor_value = 0                 # Armor - Armor that is higher than the opponents Piercing value reduces damage taken and allows more attacks to occur [from 0-1]
+		hardness = 0                  # Hardness - Represents how much of your divsion is made up of armoured vehicles. High Hardness = High Hard Attacks, Low Soft Attack [from 0-1]
+		entrenchment = 5                # Entrenchment - The ability to make proper defensive entrenchments before a hostile attack [standard 5]
+	
+		need = {
+			katana = 100
+		}
+	}
+	
+	shoddy_swordsmen = {
+		abbreviation = "SHO"
+		sprite = infantry
+		map_icon_category = infantry
+		
+		priority = 600
+		ai_priority = 200
+		active = no
+
+		type = {
+			infantry
+		}
+		
+		group = infantry
+		
+		categories = {
+			category_front_line
+			category_light_infantry
+			category_all_infantry
+			category_army
+		}
+		
+        combat_width = 2
+		
+		#Size Definitions
+		max_strength = 25
+		max_organisation = 60
+		default_morale = 0.3
+		manpower = 100  #DOWN FROM 1000 IN BASE GAME
+
+		#Misc Abilities
+		training_time = 90
+		suppression = 1.5
+		weight = 0.5
+		
+		supply_consumption = 0.06
+	
+		need = {
+			junk = 100
+		}
+	}
+	
+	polearms_swordsmen = {
+		abbreviation = "POL"
+		sprite = infantry
+		map_icon_category = infantry
+		
+		priority = 600
+		ai_priority = 200
+		active = yes
+
+		type = {
+			infantry
+		}
+		
+		group = infantry
+		
+		categories = {
+			category_front_line
+			category_light_infantry
+			category_all_infantry
+			category_army
+		}
+		
+		#Basic stats
+		manpower = 100                 # Manpower - Number of people in this batallion at full strength [standard 100]
+		max_organisation = 60          # Max Organization - [standard 60]
+		training_time = 90            # Training Time - in days [standard 120]
+		default_morale = 0.3           # Default Morale - how much org regained hourly when not in combat [standard 0.3]
+		combat_width = 2               # Combat Width - [standard 2]
+		supply_consumption = 0.04      # Supply Consumption - [standard 0.06]
+		reliability = 0.9               # Reliability controls how often equipment will suffer random failures.
+		maximum_speed = 0.1             # How much faster / slower the unit moves
+
+		#Offense
+		soft_attack = -0.3             # Soft Attack - How many extra attacks the unit can make versus enemies with low hardness. [standard 0]
+		hard_attack = -0.5              # Hard Attack - How many extra attacks the unit can make versus enemies with high hardness [standard 0]
+		ap_attack = 0.1                   # Piercing - Having equal or greater Piercing to the targets Armor value allows you to do more damage. [from 0-1]
+		breakthrough = 0.05              # Breakthrough - How many enemy attacks a unit can attempt to avoid while on the offensive, effectively allowing it to stay on the offense longer. [standard 0]
+		
+		
+		#Defense
+		defense = 0.5                   # Defense - How many enemy attacks a unit can avoid whilst on the defensive, effectively allowing it to stay on the defensive longer.
+		max_strength = 25                # HP - Strength represents how much damage this unit can suffer before it is destroyed [standard 25]
+		armor_value = 0.1                 # Armor - Armor that is higher than the opponents Piercing value reduces damage taken and allows more attacks to occur [from 0-1]
+		hardness = 0.1                  # Hardness - Represents how much of your divsion is made up of armoured vehicles. High Hardness = High Hard Attacks, Low Soft Attack [from 0-1]
+		entrenchment = 5                # Entrenchment - The ability to make proper defensive entrenchments before a hostile attack [standard 5]
+	
+		need = {
+			polearm = 100
+		}
+	}
+	
+	sabres_swordsmen = {
+		abbreviation = "SAB"
+		sprite = infantry
+		map_icon_category = infantry
+		
+		priority = 600
+		ai_priority = 200
+		active = yes
+
+		type = {
+			infantry
+		}
+		
+		group = infantry
+		
+		categories = {
+			category_front_line
+			category_light_infantry
+			category_all_infantry
+			category_army
+		}
+		
+		#Basic stats
+		manpower = 100                 # Manpower - Number of people in this batallion at full strength [standard 100]
+		max_organisation = 70          # Max Organization - [standard 60]
+		training_time = 150            # Training Time - in days [standard 120]
+		default_morale = 0.3           # Default Morale - how much org regained hourly when not in combat [standard 0.3]
+		combat_width = 2               # Combat Width - [standard 2]
+		supply_consumption = 0.06      # Supply Consumption - [standard 0.06]
+		reliability = 0.9               # Reliability controls how often equipment will suffer random failures.
+		maximum_speed = 0.0             # How much faster / slower the unit moves
+
+		#Offense
+		soft_attack = 0              # Soft Attack - How many extra attacks the unit can make versus enemies with low hardness. [standard 0]
+		hard_attack = 0              # Hard Attack - How many extra attacks the unit can make versus enemies with high hardness [standard 0]
+		ap_attack = 0.3                   # Piercing - Having equal or greater Piercing to the targets Armor value allows you to do more damage. [from 0-1]
+		breakthrough = 0              # Breakthrough - How many enemy attacks a unit can attempt to avoid while on the offensive, effectively allowing it to stay on the offense longer. [standard 0]
+		
+		
+		#Defense
+		defense = 0                   # Defense - How many enemy attacks a unit can avoid whilst on the defensive, effectively allowing it to stay on the defensive longer.
+		max_strength = 30                # HP - Strength represents how much damage this unit can suffer before it is destroyed [standard 25]
+		armor_value = 0.3                 # Armor - Armor that is higher than the opponents Piercing value reduces damage taken and allows more attacks to occur [from 0-1]
+		hardness = 0.3                  # Hardness - Represents how much of your divsion is made up of armoured vehicles. High Hardness = High Hard Attacks, Low Soft Attack [from 0-1]
+		entrenchment = 5                # Entrenchment - The ability to make proper defensive entrenchments before a hostile attack [standard 5]
+	
+		need = {
+			sabre = 100
+		}
+	}
+	
+	
+	hackers_swordsmen = {
+		abbreviation = "HAC"
+		sprite = infantry
+		map_icon_category = infantry
+		
+		priority = 600
+		ai_priority = 200
+		active = yes
+
+		type = {
+			infantry
+		}
+		
+		group = infantry
+		
+		categories = {
+			category_front_line
+			category_light_infantry
+			category_all_infantry
+			category_army
+		}
+		
+		#Basic stats
+		manpower = 100                 # Manpower - Number of people in this batallion at full strength [standard 100]
+		max_organisation = 60          # Max Organization - [standard 60]
+		training_time = 180            # Training Time - in days [standard 120]
+		default_morale = 0.25           # Default Morale - how much org regained hourly when not in combat [standard 0.3]
+		combat_width = 2               # Combat Width - [standard 2]
+		supply_consumption = 0.08      # Supply Consumption - [standard 0.06]
+		reliability = 0.9               # Reliability controls how often equipment will suffer random failures.
+		maximum_speed = -0.2             # How much faster / slower the unit moves
+
+		#Offense
+		soft_attack = 0.75              # Soft Attack - How many extra attacks the unit can make versus enemies with low hardness. [standard 0]
+		hard_attack = 0.75              # Hard Attack - How many extra attacks the unit can make versus enemies with high hardness [standard 0]
+		ap_attack = 0.7                   # Piercing - Having equal or greater Piercing to the targets Armor value allows you to do more damage. [from 0-1]
+		breakthrough = 0              # Breakthrough - How many enemy attacks a unit can attempt to avoid while on the offensive, effectively allowing it to stay on the offense longer. [standard 0]
+		
+		
+		#Defense
+		defense = -0.2                   # Defense - How many enemy attacks a unit can avoid whilst on the defensive, effectively allowing it to stay on the defensive longer.
+		max_strength = 35                # HP - Strength represents how much damage this unit can suffer before it is destroyed [standard 25]
+		armor_value = 0.7                 # Armor - Armor that is higher than the opponents Piercing value reduces damage taken and allows more attacks to occur [from 0-1]
+		hardness = 0.7                  # Hardness - Represents how much of your divsion is made up of armoured vehicles. High Hardness = High Hard Attacks, Low Soft Attack [from 0-1]
+		entrenchment = 5                # Entrenchment - The ability to make proper defensive entrenchments before a hostile attack [standard 5]
+	
+		need = {
+			hacker = 100
+		}
+	}
+	
+	heavy_weapons_swordsmen = {
+		abbreviation = "HEW"
+		sprite = infantry
+		map_icon_category = infantry
+		
+		priority = 600
+		ai_priority = 200
+		active = yes
+
+		type = {
+			infantry
+		}
+		
+		group = infantry
+		
+		categories = {
+			category_front_line
+			category_light_infantry
+			category_all_infantry
+			category_army
+		}
+		
+		combat_width = 2
+		
+		#Size Definitions
+		max_strength = 25
+		max_organisation = 60
+		default_morale = 0.3
+		manpower = 1000
+
+		#Misc Abilities
+		training_time = 90
+		suppression = 1.5
+		weight = 0.5
+		
+		supply_consumption = 0.06
+	
+		need = {
+			heavy_weapon = 100
+		}
+		reliability = 0.9
+		
+		maximum_speed = 0.5
+		
+		# Offensive
+		attack = 3
+		soft_attack = -0.1
+		hard_attack = -0.5
+		air_attack = 1
+		ap_attack = 1
+		breakthrough = 0.5
+		# Defensive
+		defense = 1
+		armor_value = 0
+		hardness = 0.5
+		entrenchment = 5
+	}
+	
+	
+}

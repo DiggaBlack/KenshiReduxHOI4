@@ -1,0 +1,35 @@
+state={
+	id=130
+	name="STATE_130"
+	provinces={
+		193 688 1238 1445 2131 2736 2791 2880 2897 2951 2960 3076 3078 3400 3767 3874 3889 4076 4258 4324 5152 5169 5184 5190 5195 5243 5246 5247 5263 
+	}
+	manpower=123975
+	buildings_max_level_factor=1.000
+
+
+	state_category = large_city
+	
+	resources = {
+		steel = 10    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 12    #STONE
+	}
+	
+	history = {
+		owner = TDG
+		#controller = TDG
+		add_core_of = TDG
+		
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 6
+			arms_factory = 0
+		}
+		
+		victory_points = { 3078 5 } # Northern Slave Market
+		victory_points = { 3076 15 } # Camp Fulfed
+	}
+	
+	local_supplies = 5.0
+}

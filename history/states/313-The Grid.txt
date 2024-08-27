@@ -1,0 +1,34 @@
+state={
+	id=313
+	name="STATE_313"
+	provinces={
+		124 907 1147 1212 1254 1943 2388 2469 2595 2748 3597 3620 3743 3746 3766 3877 4090 6058 6083 6087 6098 6106 
+	}
+	manpower=12519
+	buildings_max_level_factor=1.000
+
+
+	state_category = pastoral
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 16    #STONE
+	}
+	
+	history = {
+		owner = STC
+		#controller = STC
+		add_core_of = STC
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 1
+		}
+		
+		#victory_points = { }
+	}
+	
+	local_supplies = 5.0
+}

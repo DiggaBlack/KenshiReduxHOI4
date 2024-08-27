@@ -1,0 +1,35 @@
+state={
+	id=296
+	name="STATE_296"
+	provinces={
+		29 147 414 605 641 894 1055 1571 1823 1837 1905 2156 2167 2174 2238 2241 2863 3102 3106 3116 3238 3438 5915 5929 5936 5951 5953 5968 5977 6012 6017 6018 6029 6033 
+	}
+	manpower=49851
+	buildings_max_level_factor=1.000
+
+
+	state_category = large_town
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 16    #STONE
+	}
+	
+	history = {
+		owner = RSB
+		#controller = RSB
+		add_core_of = RSB
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 2
+		}
+		
+		victory_points = { 605 3 } # Bonny
+		victory_points = { 1571 1 } # Kidd
+	}
+	
+	local_supplies = 5.0
+}

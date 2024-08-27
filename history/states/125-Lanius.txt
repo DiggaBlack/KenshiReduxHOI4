@@ -1,0 +1,35 @@
+state={
+	id=125
+	name="STATE_125"
+	provinces={
+		1425 1697 1865 1981 2093 2237 3007 3156 3240 3309 3863 4266 4315 4346 5115 5149 5174 5180 5202 5204 5209 
+	}
+	manpower=33094
+	buildings_max_level_factor=1.000
+
+
+	state_category = town
+	
+	resources = {
+		steel = 14    #IRON
+		tungsten = 6    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = HLN
+		#controller = HLN
+		add_core_of = HLN
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+		}
+		
+		victory_points = { 2093 3 } # Sheath
+		victory_points = { 2237 3 } # Brennan
+	}
+	
+	local_supplies = 1.0
+}

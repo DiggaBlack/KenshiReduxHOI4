@@ -1,0 +1,38 @@
+state={
+	id=94
+	name="STATE_94"
+	provinces={
+		260 302 377 426 474 542 781 1181 1277 1458 1526 1959 2023 2119 2315 3008 3209 3329 3330 3569 3929 3959 4028 4293 4314 4428 4944 4946 4947 4958 4961 4964 4970 4976 4988 4995 4998 5001 5019 5024 5031 5056 5063 5079 
+	}
+	manpower=85104
+	buildings_max_level_factor=1.000
+
+
+	state_category = city
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 16    #STONE
+	}
+	
+	history = {
+		owner = UNC
+		#controller = UNC
+		add_core_of = UNC
+		
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 4
+			arms_factory = 1
+		}
+		
+		victory_points = { 1458 5 } # Straw
+		victory_points = { 3959 10 } # Haste
+		victory_points = { 426 3 } # Middleton
+		victory_points = { 4293 5 } # Chauvin
+		victory_points = { 5031 1 } # Fast Mine
+	}
+	
+	local_supplies = 5.0
+}

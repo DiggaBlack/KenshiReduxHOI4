@@ -1,0 +1,35 @@
+state={
+	id=159
+	name="STATE_159"
+	provinces={
+		754 885 1472 1816 1973 3935 4054 4331 5328 5363 5364 5379 5395 5404 5414 5428 
+	}
+	manpower=16304
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = HLN
+		#controller = HLN
+		add_core_of = HLN
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		
+		victory_points = { 5414 3 } # Eve
+		victory_points = { 4331 1 } # Camp Lust
+	}
+	
+	local_supplies = 3.0
+}

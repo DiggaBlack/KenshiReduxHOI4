@@ -1,0 +1,35 @@
+state={
+	id=377
+	name="STATE_377"
+	provinces={
+		221 860 1186 1255 1742 2832 
+	}
+	manpower=71345
+	buildings_max_level_factor=1.000
+
+
+	state_category = city
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 48    #STONE
+	}
+	
+	history = {
+		owner = SRR
+		#controller = SRR
+		add_core_of = SRR
+		
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 5
+			arms_factory = 0
+		}
+		
+		victory_points = { 1186 5 } # Mount Misery
+		victory_points = { 1255 3 } # Bliss
+	}
+	
+	local_supplies = 5.0
+}

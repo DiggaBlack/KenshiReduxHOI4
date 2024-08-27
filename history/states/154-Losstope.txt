@@ -1,0 +1,34 @@
+state={
+	id=154
+	name="STATE_154"
+	provinces={
+		487 1070 2034 3366 3373 3786 3876 5321 5330 5351 7966 7968 
+	}
+	manpower=619
+	buildings_max_level_factor=1.000
+
+
+	state_category = wasteland
+	
+	resources = {
+		steel = 12    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = VIV
+		#controller = VIV
+		add_core_of = VIV
+		
+		buildings = {
+			infrastructure = 0
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		
+		#victory_points = { }
+	}
+	
+	local_supplies = 0.0
+}

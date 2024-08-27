@@ -1,0 +1,35 @@
+state={
+	id=257
+	name="STATE_257"
+	provinces={
+		97 415 945 1242 1349 1409 1786 1912 2458 2507 3688 4179 4204 5783 5793 5808 5823 
+	}
+	manpower=40869
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		steel = 24    #IRON
+		#tungsten = 0    #COPPER
+		aluminium = 12    #STONE
+	}
+	
+	history = {
+		owner = SSK
+		#controller = SSK
+		add_core_of = SSK
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 1
+		}
+		
+		victory_points = { 3688 5 } # Center City
+		victory_points = { 5793 1 } # Bang
+	}
+	
+	local_supplies = 5.0
+}
